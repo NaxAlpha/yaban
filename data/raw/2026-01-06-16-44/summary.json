@@ -1,0 +1,145 @@
+{
+  "scrapedAt": "2026-01-06T07:44:59.874Z",
+  "outputDirectory": "2026-01-06-16-44",
+  "totalDistricts": 23,
+  "districts": [
+    {
+      "name": "Chiyoda",
+      "query": "halal restaurants Chiyoda tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Chuo",
+      "query": "halal restaurants Chuo tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Minato",
+      "query": "halal restaurants Minato tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Shinjuku",
+      "query": "halal restaurants Shinjuku tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Bunkyo",
+      "query": "halal restaurants Bunkyo tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Taito",
+      "query": "halal restaurants Taito tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Sumida",
+      "query": "halal restaurants Sumida tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Koto",
+      "query": "halal restaurants Koto tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Shinagawa",
+      "query": "halal restaurants Shinagawa tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Meguro",
+      "query": "halal restaurants Meguro tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Ota",
+      "query": "halal restaurants Ota tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Setagaya",
+      "query": "halal restaurants Setagaya tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Shibuya",
+      "query": "halal restaurants Shibuya tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Nakano",
+      "query": "halal restaurants Nakano tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Suginami",
+      "query": "halal restaurants Suginami tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Toshima",
+      "query": "halal restaurants Toshima tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Kita",
+      "query": "halal restaurants Kita tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Arakawa",
+      "query": "halal restaurants Arakawa tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Itabashi",
+      "query": "halal restaurants Itabashi tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Nerima",
+      "query": "halal restaurants Nerima tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Adachi",
+      "query": "halal restaurants Adachi tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Katsushika",
+      "query": "halal restaurants Katsushika tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Edogawa",
+      "query": "halal restaurants Edogawa tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "district": "Minato",
+  "query": "halal restaurants Minato tokyo japan",
+  "scrapedAt": "2026-01-06T07:46:06.159Z",
+  "totalResults": 20,
+  "places": [
+    {
+      "placeId": "0x601888eead3c34a3:0xb645aa96f244570c",
+      "name": "Habibi Halal Restaurant",
+      "rating": 4.3,
+      "category": "Habibi Halal Restaurant  4.3Halal restaurant",
+      "url": "https://www.google.com/maps/place/Habibi+Halal+Restaurant/data=!4m7!3m6!1s0x601888eead3c34a3:0xb645aa96f244570c!8m2!3d35.6880722!4d139.8285948!16s%2Fg%2F11c1n5wqpp!19sChIJozQ8re6IGGARDFdE8paqRbY?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.104Z"
+    },
+    {
+      "placeId": "0x60188936735756e9:0x95eab24f56f5b812",
+      "name": "JASHN Halal Indian Restaurant",
+      "rating": 4.5,
+      "category": "JASHN Halal Indian Restaurant  4.5Halal restaurant",
+      "url": "https://www.google.com/maps/place/JASHN+Halal+Indian+Restaurant/data=!4m7!3m6!1s0x60188936735756e9:0x95eab24f56f5b812!8m2!3d35.6906473!4d139.837611!16s%2Fg%2F11v0km1500!19sChIJ6VZXczaJGGARErj1Vk-y6pU?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.104Z"
+    },
+    {
+      "placeId": "0x60188bc9548ab18f:0x8d79cd1f7b8bf906",
+      "name": "Halal Wagyu Ramen Shinjuku-Tei Ginza Tokyo",
+      "rating": 4.9,
+      "category": "Halal Wagyu Ramen Shinjuku-Tei Ginza Tokyo  4.9Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Ramen+Shinjuku-Tei+Ginza+Tokyo/data=!4m7!3m6!1s0x60188bc9548ab18f:0x8d79cd1f7b8bf906!8m2!3d35.6690593!4d139.7585623!16s%2Fg%2F11m5_j8b7m!19sChIJj7GKVMmLGGARBvmLex_NeY0?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188956303c3afd:0x18b6b7652f8d2818",
+      "name": "Shanzayan",
+      "rating": 4.2,
+      "category": "Shanzayan  4.2Indian restaurant",
+      "url": "https://www.google.com/maps/place/Shanzayan/data=!4m7!3m6!1s0x60188956303c3afd:0x18b6b7652f8d2818!8m2!3d35.6945169!4d139.8135893!16s%2Fg%2F11swzp041f!19sChIJ_To8MFaJGGARGCiNL2W3thg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188d00334db6cb:0x69ce1d0a035e4c42",
+      "name": "Halal Wagyu karemen king",
+      "rating": 4.8,
+      "category": "Halal Wagyu karemen king  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+karemen+king/data=!4m7!3m6!1s0x60188d00334db6cb:0x69ce1d0a035e4c42!8m2!3d35.6955797!4d139.7713677!16s%2Fg%2F11x5j84qmv!19sChIJy7ZNMwCNGGARQkxeAwodzmk?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188b003cd440eb:0x227a09df23fdb6bc",
+      "name": "YUSRA's kitchen ( Halal Turkish Restaurant )",
+      "rating": 4.8,
+      "category": "YUSRA's kitchen ( Halal Turkish Restaurant )  4.8Turkish restaurant",
+      "url": "https://www.google.com/maps/place/YUSRA%27s+kitchen+%28+Halal+Turkish+Restaurant+%29/data=!4m7!3m6!1s0x60188b003cd440eb:0x227a09df23fdb6bc!8m2!3d35.6568945!4d139.7586332!16s%2Fg%2F11yfnrcz8n!19sChIJ60DUPACLGGARvLb9I98JeiI?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188b2be390eb7f:0x91df495d2a52bfaf",
+      "name": "Halal SUKIYAKI Restaurant Diyafa",
+      "rating": 4.9,
+      "category": "Halal SUKIYAKI Restaurant Diyafa  4.9Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+SUKIYAKI+Restaurant+Diyafa/data=!4m7!3m6!1s0x60188b2be390eb7f:0x91df495d2a52bfaf!8m2!3d35.6516776!4d139.7510861!16s%2Fg%2F11lcdr51lj!19sChIJf-uQ4yuLGGARr79SKl1J35E?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x601889286f3caa51:0x18ac064657714721",
+      "name": "Tokyo Chinese Muslim Restaurant",
+      "rating": 3.9,
+      "category": "Tokyo Chinese Muslim Restaurant  3.9Halal restaurant",
+      "url": "https://www.google.com/maps/place/Tokyo+Chinese+Muslim+Restaurant/data=!4m7!3m6!1s0x601889286f3caa51:0x18ac064657714721!8m2!3d35.6959853!4d139.8117114!16s%2Fg%2F11b6qtjzw5!19sChIJUao8byiJGGARIUdxV0YGrBg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7",
+      "name": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo",
+      "rating": 4.8,
+      "category": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/HALAL+WAGYU+RAMEN+SHINJUKU-TEI+Asakusa+Tokyo/data=!4m7!3m6!1s0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7!8m2!3d35.7115576!4d139.7923481!16s%2Fg%2F11x6jhp4d6!19sChIJF6THDR-PGGAR98Co847dv-E?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188f872122c685:0x4fd638eb81696089",
+      "name": "Halal Japanese Curry Yoshi's Passion",
+      "rating": 4.7,
+      "category": "Halal Japanese Curry Yoshi's Passion  4.7Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Japanese+Curry+Yoshi%27s+Passion/data=!4m7!3m6!1s0x60188f872122c685:0x4fd638eb81696089!8m2!3d35.7167689!4d139.7966541!16s%2Fg%2F11w95qdnj1!19sChIJhcYiIYePGGARiWBpges41k8?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188b109feb491f:0x533a1e0f18b27ab1",
+      "name": "Wagyu Japanese BBQ Yakiniku (Halal) & Hamburger Ramen Tsukiji Ginza Restaurant Zen",
+      "rating": 4.8,
+      "category": "Wagyu Japanese BBQ Yakiniku (Halal) & Hamburger Ramen Tsukiji Ginza Restaurant Zen  4.8Yakiniku restaurant",
+      "url": "https://www.google.com/maps/place/Wagyu+Japanese+BBQ+Yakiniku+%28Halal%29+%26+Hamburger+Ramen+Tsukiji+Ginza+Restaurant+Zen/data=!4m7!3m6!1s0x60188b109feb491f:0x533a1e0f18b27ab1!8m2!3d35.6645849!4d139.7711641!16s%2Fg%2F11xvqqqlvj!19sChIJH0nrnxCLGGARsXqyGA8eOlM?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x6018894f8accf753:0x2bed7780cd4172ac",
+      "name": "Asian restaurant MONICA {HALAL FOOD}حلالIndian restaurant",
+      "rating": 4,
+      "category": "Asian restaurant MONICA {HALAL FOOD}حلالIndian restaurant  4.0Indian restaurant",
+      "url": "https://www.google.com/maps/place/Asian+restaurant+MONICA+%7BHALAL+FOOD%7D%D8%AD%D9%84%D8%A7%D9%84Indian+restaurant%E2%80%AD/data=!4m7!3m6!1s0x6018894f8accf753:0x2bed7780cd4172ac!8m2!3d35.6842202!4d139.7843478!16s%2Fg%2F1tf5dqv4!19sChIJU_fMik-JGGARrHJBzYB37Ss?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188f78de76d79f:0x437ce77866f6ff97",
+      "name": "Halal Restaurant Honolu Grande Akihabara",
+      "rating": 4.7,
+      "category": "Halal Restaurant Honolu Grande Akihabara  4.7Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Restaurant+Honolu+Grande+Akihabara/data=!4m7!3m6!1s0x60188f78de76d79f:0x437ce77866f6ff97!8m2!3d35.6950991!4d139.7774654!16s%2Fg%2F11xl1dfyd8!19sChIJn9d23niPGGARl__2ZnjnfEM?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188bebdb7d1229:0x8b2b0108f3d262df",
+      "name": "Grill Hunter Shinbashi Halal",
+      "rating": 4.2,
+      "category": "Grill Hunter Shinbashi Halal  4.2Meat dish restaurant",
+      "url": "https://www.google.com/maps/place/Grill+Hunter+Shinbashi+Halal/data=!4m7!3m6!1s0x60188bebdb7d1229:0x8b2b0108f3d262df!8m2!3d35.6673433!4d139.7562935!16s%2Fg%2F11bbxgd9mg!19sChIJKRJ92-uLGGAR32LS8wgBK4s?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188b4a1ff94db7:0xda84b1e7f0463bb3",
+      "name": "SIDDIQUE PALACE - Tokyo Tower Branch",
+      "rating": 3.7,
+      "category": "SIDDIQUE PALACE - Tokyo Tower Branch  3.7Pakistani restaurant",
+      "url": "https://www.google.com/maps/place/SIDDIQUE+PALACE+-+Tokyo+Tower+Branch/data=!4m7!3m6!1s0x60188b4a1ff94db7:0xda84b1e7f0463bb3!8m2!3d35.6585769!4d139.7454506!16s%2Fg%2F11n__7pslh!19sChIJt035H0qLGGARsztG8OexhNo?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188b90347d2bf3:0xb2bd5afed2784217",
+      "name": "SHANDIZ",
+      "rating": 4.6,
+      "category": "SHANDIZ  4.6Persian restaurant",
+      "url": "https://www.google.com/maps/place/SHANDIZ/data=!4m7!3m6!1s0x60188b90347d2bf3:0xb2bd5afed2784217!8m2!3d35.6635269!4d139.7539097!16s%2Fg%2F11jztvcz64!19sChIJ8yt9NJCLGGARF0J40v5avbI?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x601889a1912127c1:0x871f15e6753597ed",
+      "name": "Ozgur Kitchen Kebab ( Halal )",
+      "rating": 4.6,
+      "category": "Ozgur Kitchen Kebab ( Halal )  4.6Restaurant",
+      "url": "https://www.google.com/maps/place/Ozgur+Kitchen+Kebab+%28+Halal+%29/data=!4m7!3m6!1s0x601889a1912127c1:0x871f15e6753597ed!8m2!3d35.628439!4d139.7755699!16s%2Fg%2F11fhqkvd88!19sChIJwSchkaGJGGAR7Zc1deYVH4c?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188bd20e089fa9:0xa169385e39180113",
+      "name": "Wagyu Burger (Halal) & Tofu Burger (Vegan Gluten Free) Tokyo Ginza Restaurant",
+      "rating": 4.9,
+      "category": "Wagyu Burger (Halal) & Tofu Burger (Vegan Gluten Free) Tokyo Ginza Restaurant  4.9Hamburger restaurant",
+      "url": "https://www.google.com/maps/place/Wagyu+Burger+%28Halal%29+%26+Tofu+Burger+%28Vegan+Gluten+Free%29+Tokyo+Ginza+Restaurant/data=!4m7!3m6!1s0x60188bd20e089fa9:0xa169385e39180113!8m2!3d35.6682549!4d139.7645304!16s%2Fg%2F11mlg6c09y!19sChIJqZ8IDtKLGGAREwEYOV44aaE?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.105Z"
+    },
+    {
+      "placeId": "0x60188b1c748bfe75:0x41f222901408a66b",
+      "name": "Japanese Wagyu Beef Sandwich & Pizza Steak (Halal Vegan) Ginza Restaurant Beef Tei",
+      "rating": 4.8,
+      "category": "Japanese Wagyu Beef Sandwich & Pizza Steak (Halal Vegan) Ginza Restaurant Beef Tei  4.8Sandwich shop",
+      "url": "https://www.google.com/maps/place/Japanese+Wagyu+Beef+Sandwich+%26+Pizza+Steak+%28Halal+Vegan%29+Ginza+Restaurant+Beef+Tei/data=!4m7!3m6!1s0x60188b1c748bfe75:0x41f222901408a66b!8m2!3d35.6680617!4d139.7631414!16s%2Fg%2F11ymrzmjx8!19sChIJdf6LdByLGGARa6YIFJAi8kE?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.106Z"
+    },
+    {
+      "placeId": "0x60188f1673485f01:0xd407d5a6187f2512",
+      "name": "Halal Wagyu Ramen & Gyukatsu GYUMON Kaminarimon Tokyo Asakusa",
+      "rating": 4.8,
+      "category": "Halal Wagyu Ramen & Gyukatsu GYUMON Kaminarimon Tokyo Asakusa  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Ramen+%26+Gyukatsu+GYUMON+Kaminarimon+Tokyo+Asakusa/data=!4m7!3m6!1s0x60188f1673485f01:0xd407d5a6187f2512!8m2!3d35.7115127!4d139.7960527!16s%2Fg%2F11xgk486s9!19sChIJAV9IcxaPGGAREiV_GKbVB9Q?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T07:46:06.106Z"
+    }
+  ]
+}

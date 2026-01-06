@@ -66,7 +66,8 @@ async function saveBatchData(
 
 async function main() {
   const maxResults = parseInt(Deno.args[0] || "20");
-  const headless = Deno.args[1] !== "false";
+  const headlessArg = Deno.args[1] || "true";
+  const headless = headlessArg !== "false";
 
   console.log("=".repeat(70));
   console.log("🗾  Yaban - Tokyo-wide Halal Restaurant Scraper");
@@ -84,7 +85,33 @@ async function main() {
   console.log(`📁 Created output directory: data/raw/${outputDirName}`);
   console.log();
 
-  const scraper = new GoogleMapsScraper();
+  let isShuttingDown = false;
+  let currentScraper: GoogleMapsScraper | null = null;
+
+  // Setup signal handling for graceful shutdown (Ctrl+C)
+  const handleShutdown = async () => {
+    if (isShuttingDown) return;
+    isShuttingDown = true;
+
+    console.log("\n\n⚠️  Received shutdown signal (Ctrl+C)...");
+    console.log("🛑 Cleaning up and closing browser...");
+
+    try {
+      if (currentScraper) {
+        await currentScraper.close();
+        console.log("✓ Browser closed successfully");
+      }
+    } catch (error) {
+      console.error("Error closing browser:", error);
+    }
+
+    console.log("👋 Exiting gracefully");
+    Deno.exit(0);
+  };
+
+  // Listen for SIGINT (Ctrl+C)
+  Deno.addSignalListener("SIGINT", handleShutdown);
+
   const results = {
     scrapedAt: new Date().toISOString(),
     outputDirectory: outputDirName,
@@ -99,8 +126,6 @@ async function main() {
   };
 
   try {
-    await scraper.initialize(headless, 50);
-
     for (let i = 0; i < TOKYO_DISTRICTS.length; i++) {
       const district = TOKYO_DISTRICTS[i];
       const query = `halal restaurants ${district} tokyo japan`;
@@ -109,7 +134,15 @@ async function main() {
       console.log(`${progress} 🔍 Scraping: ${district}`);
       console.log(`   Query: "${query}"`);
 
+      // Create a fresh browser instance for each district
+      const scraper = new GoogleMapsScraper();
+      currentScraper = scraper;
+
       try {
+        // Initialize browser
+        await scraper.initialize(headless, 50);
+
+        // Scrape places
         const places = await scraper.searchPlaces(query, maxResults);
 
         // Save results for this district
@@ -129,7 +162,6 @@ async function main() {
         });
 
         console.log(`   ✅ Found ${places.length} places`);
-        console.log();
       } catch (error) {
         console.error(`   ❌ Error scraping ${district}:`, error.message);
         results.districts.push({
@@ -139,6 +171,27 @@ async function main() {
           status: "error",
           error: error.message,
         });
+      } finally {
+        // Always close the browser after each district
+        try {
+          await scraper.close();
+          currentScraper = null;
+        } catch (error) {
+          console.error("Error closing browser:", error.message);
+        }
+      }
+
+      console.log();
+
+      // Add delay before next district (3-5 seconds)
+      if (i < TOKYO_DISTRICTS.length - 1) {
+        const delay = 3000 + Math.floor(Math.random() * 2000);
+        console.log(
+          `   ⏳ Waiting ${
+            Math.floor(delay / 1000)
+          } seconds before next district...`,
+        );
+        await new Promise((resolve) => setTimeout(resolve, delay));
         console.log();
       }
     }
@@ -184,8 +237,6 @@ async function main() {
   } catch (error) {
     console.error("❌ Fatal error during batch scraping:", error);
     throw error;
-  } finally {
-    await scraper.close();
   }
 }
 

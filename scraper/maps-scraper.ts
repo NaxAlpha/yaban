@@ -27,7 +27,9 @@ export class GoogleMapsScraper {
         "--disable-setuid-sandbox",
         "--disable-dev-shm-usage",
         "--disable-blink-features=AutomationControlled",
+        "--disable-features=IsolateOrigins,site-per-process",
       ],
+      ignoreDefaultArgs: ["--enable-automation"],
     });
 
     this.page = await this.browser.newPage();
@@ -38,6 +40,17 @@ export class GoogleMapsScraper {
       "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     );
 
+    // Set longer timeouts to avoid premature failures
+    this.page.setDefaultNavigationTimeout(60000);
+    this.page.setDefaultTimeout(60000);
+
+    // Remove webdriver flag to avoid detection
+    await this.page.evaluateOnNewDocument(() => {
+      Object.defineProperty(navigator, "webdriver", {
+        get: () => false,
+      });
+    });
+
     console.log("✓ Browser initialized");
   }
 
@@ -46,11 +59,20 @@ export class GoogleMapsScraper {
       throw new Error("Browser not initialized. Call initialize() first.");
     }
 
-    const searchUrl = `https://www.google.com/maps/search/${encodeURIComponent(query)}`;
+    const searchUrl = `https://www.google.com/maps/search/${
+      encodeURIComponent(query)
+    }`;
     console.log(`🔍 Searching: ${query}`);
     console.log(`📍 URL: ${searchUrl}`);
 
-    await this.page.goto(searchUrl, { waitUntil: "networkidle2" });
+    // Navigate to search URL
+    await this.page.goto(searchUrl, {
+      waitUntil: "domcontentloaded",
+      timeout: 60000,
+    });
+
+    // Give time for page to load and stabilize
+    await this.delay(4000);
 
     // Wait for results to load
     await this.waitForResults();
@@ -68,18 +90,27 @@ export class GoogleMapsScraper {
   private async waitForResults(): Promise<void> {
     if (!this.page) return;
 
-    try {
-      // Wait for the results feed to appear
-      // Google Maps uses a feed container with role="feed"
-      await this.page.waitForSelector('[role="feed"]', { timeout: 10000 });
-      console.log("✓ Results loaded");
+    // Poll for the selector instead of using waitForSelector (avoids frame issues)
+    const maxAttempts = 30;
+    let attempts = 0;
 
-      // Give it a moment for initial items to render
-      await this.delay(2000);
-    } catch (error) {
-      console.error("⚠ Timeout waiting for results");
-      throw error;
+    while (attempts < maxAttempts) {
+      try {
+        const feedExists = await this.page.$('[role="feed"]');
+        if (feedExists) {
+          console.log("✓ Results loaded");
+          await this.delay(3000);
+          return;
+        }
+      } catch (error) {
+        // Ignore errors and retry
+      }
+
+      attempts++;
+      await this.delay(1000);
     }
+
+    throw new Error("Timeout waiting for results feed");
   }
 
   private async scrollResults(maxResults: number): Promise<void> {
@@ -95,37 +126,59 @@ export class GoogleMapsScraper {
     const maxNoNewResults = 3;
 
     while (noNewResultsCount < maxNoNewResults) {
-      // Count current results
-      const currentCount = await this.page.evaluate((selector) => {
-        const items = document.querySelectorAll(`${selector} > div[role="article"]`);
-        return items.length;
-      }, scrollableSelector);
+      try {
+        // Count current results - try multiple selectors
+        const currentCount = await this.page.evaluate((selector) => {
+          // Try different possible selectors for Google Maps results
+          let items = document.querySelectorAll(`${selector} > div > div > a`);
 
-      console.log(`  Current results: ${currentCount}`);
+          // Alternative: Look for elements with data-index attribute
+          if (items.length === 0) {
+            items = document.querySelectorAll(
+              `${selector} a[href*="/maps/place/"]`,
+            );
+          }
 
-      if (currentCount >= maxResults) {
-        console.log(`✓ Reached target of ${maxResults} results`);
-        break;
-      }
+          return items.length;
+        }, scrollableSelector).catch(() => {
+          // If evaluate fails due to detached frame, return previous count
+          console.log("  ⚠️  Frame detached during count, retrying...");
+          return previousCount;
+        });
 
-      if (currentCount === previousCount) {
-        noNewResultsCount++;
-        console.log(`  No new results (${noNewResultsCount}/${maxNoNewResults})`);
-      } else {
-        noNewResultsCount = 0;
-        previousCount = currentCount;
-      }
+        console.log(`  Current results: ${currentCount}`);
 
-      // Scroll to bottom of feed
-      await this.page.evaluate((selector) => {
-        const feed = document.querySelector(selector);
-        if (feed) {
-          feed.scrollTop = feed.scrollHeight;
+        if (currentCount >= maxResults) {
+          console.log(`✓ Reached target of ${maxResults} results`);
+          break;
         }
-      }, scrollableSelector);
 
-      // Wait for new content to load
-      await this.delay(1500);
+        if (currentCount === previousCount) {
+          noNewResultsCount++;
+          console.log(
+            `  No new results (${noNewResultsCount}/${maxNoNewResults})`,
+          );
+        } else {
+          noNewResultsCount = 0;
+          previousCount = currentCount;
+        }
+
+        // Scroll to bottom of feed
+        await this.page.evaluate((selector) => {
+          const feed = document.querySelector(selector);
+          if (feed) {
+            feed.scrollTop = feed.scrollHeight;
+          }
+        }, scrollableSelector).catch(() => {
+          console.log("  ⚠️  Frame detached during scroll, continuing...");
+        });
+
+        // Wait for new content to load
+        await this.delay(2000);
+      } catch (error) {
+        console.log("  ⚠️  Error during scrolling:", error.message);
+        await this.delay(2000);
+      }
     }
 
     console.log("✓ Scrolling complete");
@@ -136,59 +189,84 @@ export class GoogleMapsScraper {
 
     console.log("📊 Extracting place data...");
 
+    // Add small delay to ensure frames are stable before extraction
+    await this.delay(1000);
+
     const places = await this.page.evaluate((searchQuery) => {
       const results: ScrapedPlace[] = [];
       const feed = document.querySelector('[role="feed"]');
       if (!feed) return results;
 
-      const articles = feed.querySelectorAll('div[role="article"]');
+      // Try to find all place links - Google Maps structure varies
+      const placeLinks = feed.querySelectorAll('a[href*="/maps/place/"]');
 
-      articles.forEach((article) => {
+      placeLinks.forEach((link) => {
         try {
-          // Extract place name
-          const nameEl = article.querySelector('a[href*="/maps/place/"]');
-          const name = nameEl?.getAttribute("aria-label") || "";
-
           // Extract URL
-          const url = nameEl?.getAttribute("href") || "";
+          const url = link.getAttribute("href") || "";
 
           // Generate place ID from URL
           const placeIdMatch = url.match(/!1s([^!]+)/);
           const placeId = placeIdMatch ? placeIdMatch[1] : "";
 
-          // Extract rating
-          const ratingEl = article.querySelector('span[role="img"][aria-label*="stars"]');
-          const ratingText = ratingEl?.getAttribute("aria-label") || "";
-          const ratingMatch = ratingText.match(/([\d.]+)\s+stars/);
-          const rating = ratingMatch ? parseFloat(ratingMatch[1]) : undefined;
+          // Extract place name from aria-label
+          const name = link.getAttribute("aria-label") || "";
 
-          // Extract review count
-          const reviewEl = article.querySelector('span[aria-label*="reviews"]');
-          const reviewText = reviewEl?.getAttribute("aria-label") || "";
-          const reviewMatch = reviewText.match(/([\d,]+)\s+reviews/);
-          const totalReviews = reviewMatch
-            ? parseInt(reviewMatch[1].replace(/,/g, ""))
-            : undefined;
+          // Find the parent container to extract other details
+          let container = link.closest('div[role="article"]');
+          if (!container) {
+            // Try alternative structure
+            container = link.parentElement?.parentElement?.parentElement;
+          }
 
-          // Extract category and price level (usually in the same area)
-          const metaEls = article.querySelectorAll('span[aria-label]');
+          let rating = undefined;
+          let totalReviews = undefined;
           let category = undefined;
           let priceLevel = undefined;
 
-          metaEls.forEach((el) => {
-            const ariaLabel = el.getAttribute("aria-label") || "";
-            if (ariaLabel.includes("Price:")) {
-              priceLevel = ariaLabel.replace("Price:", "").trim();
+          if (container) {
+            // Extract rating
+            const ratingEl = container.querySelector(
+              'span[role="img"][aria-label*="stars"]',
+            );
+            if (!ratingEl) {
+              // Try alternative: look for aria-label with rating pattern
+              const spans = container.querySelectorAll("span[aria-label]");
+              spans.forEach((span) => {
+                const label = span.getAttribute("aria-label") || "";
+                const ratingMatch = label.match(/([\d.]+)\s+stars/);
+                if (ratingMatch && !rating) {
+                  rating = parseFloat(ratingMatch[1]);
+                }
+              });
+            } else {
+              const ratingText = ratingEl.getAttribute("aria-label") || "";
+              const ratingMatch = ratingText.match(/([\d.]+)\s+stars/);
+              rating = ratingMatch ? parseFloat(ratingMatch[1]) : undefined;
             }
-          });
 
-          // Try to get category from text content
-          const categoryEl = article.querySelector('div[style*="font-weight"]');
-          if (categoryEl) {
-            const textParts = categoryEl.textContent?.split("·") || [];
-            if (textParts.length > 0) {
-              category = textParts[0].trim();
+            // Extract review count
+            const reviewEl = container.querySelector(
+              'span[aria-label*="reviews"]',
+            );
+            if (reviewEl) {
+              const reviewText = reviewEl.getAttribute("aria-label") || "";
+              const reviewMatch = reviewText.match(/([\d,]+)\s+reviews/);
+              totalReviews = reviewMatch
+                ? parseInt(reviewMatch[1].replace(/,/g, ""))
+                : undefined;
             }
+
+            // Extract category from text content
+            const textDivs = container.querySelectorAll("div");
+            textDivs.forEach((div) => {
+              const text = div.textContent || "";
+              // Categories often contain "·" separator
+              if (text.includes("·") && !category) {
+                const parts = text.split("·");
+                category = parts[0].trim();
+              }
+            });
           }
 
           if (name && placeId) {
@@ -199,7 +277,9 @@ export class GoogleMapsScraper {
               totalReviews,
               category,
               priceLevel,
-              url: url.startsWith("http") ? url : `https://www.google.com${url}`,
+              url: url.startsWith("http")
+                ? url
+                : `https://www.google.com${url}`,
               scrapedAt: new Date().toISOString(),
             });
           }
@@ -217,7 +297,6 @@ export class GoogleMapsScraper {
   async close(): Promise<void> {
     if (this.browser) {
       await this.browser.close();
-      console.log("✓ Browser closed");
     }
   }
 

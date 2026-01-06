@@ -40,9 +40,9 @@ scrape-default: ## Run scraper with default settings (halal restaurants in Tokyo
 	@echo "$(BLUE)Running scraper with default query...$(NC)"
 	deno run $(DENO_PERMISSIONS) $(SCRAPER_MAIN)
 
-fetch:all-places: ## Batch scrape all Tokyo districts (args: MAX=20)
+fetch-all-places: ## Batch scrape all Tokyo districts (args: MAX=20, HEADLESS=true)
 	@echo "$(BLUE)Scraping all Tokyo districts...$(NC)"
-	deno run $(DENO_PERMISSIONS) scraper/fetch-all-places.ts "$(MAX)"
+	deno run $(DENO_PERMISSIONS) scraper/fetch-all-places.ts "$(MAX)" "$(HEADLESS)"
 
 ##@ Processing
 
