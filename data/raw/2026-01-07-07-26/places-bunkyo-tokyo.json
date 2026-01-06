@@ -1,0 +1,424 @@
+{
+  "district": "Bunkyo",
+  "query": "halal restaurants Bunkyo tokyo japan",
+  "scrapedAt": "2026-01-06T22:29:40.590Z",
+  "totalResults": 52,
+  "places": [
+    {
+      "placeId": "0x601888eead3c34a3:0xb645aa96f244570c",
+      "name": "Habibi Halal Restaurant",
+      "rating": 4.3,
+      "category": "Habibi Halal Restaurant  4.3Halal restaurant",
+      "url": "https://www.google.com/maps/place/Habibi+Halal+Restaurant/data=!4m7!3m6!1s0x601888eead3c34a3:0xb645aa96f244570c!8m2!3d35.6880722!4d139.8285948!16s%2Fg%2F11c1n5wqpp!19sChIJozQ8re6IGGARDFdE8paqRbY?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.528Z"
+    },
+    {
+      "placeId": "0x601887002bb7bc43:0x1f0f71ac041f7a9b",
+      "name": "Kochiyo Halal Multi cuisine",
+      "rating": 4.8,
+      "category": "Kochiyo Halal Multi cuisine  4.8Indian restaurant",
+      "url": "https://www.google.com/maps/place/Kochiyo+Halal+Multi+cuisine/data=!4m7!3m6!1s0x601887002bb7bc43:0x1f0f71ac041f7a9b!8m2!3d35.6704735!4d139.8663859!16s%2Fg%2F11vm7lmd82!19sChIJQ7y3KwCHGGARm3ofBKxxDx8?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x601887ae9f58efd1:0xc52f6b895ac7635a",
+      "name": "WATAN SHAWARMA BURGER",
+      "rating": 4.4,
+      "category": "WATAN SHAWARMA BURGER  4.4Restaurant",
+      "url": "https://www.google.com/maps/place/WATAN+SHAWARMA+BURGER/data=!4m7!3m6!1s0x601887ae9f58efd1:0xc52f6b895ac7635a!8m2!3d35.6557094!4d139.8639459!16s%2Fg%2F11x64qnhyn!19sChIJ0e9Yn66HGGARWmPHWolrL8U?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x601889286f3caa51:0x18ac064657714721",
+      "name": "Tokyo Chinese Muslim Restaurant",
+      "rating": 3.9,
+      "category": "Tokyo Chinese Muslim Restaurant  3.9Halal restaurant",
+      "url": "https://www.google.com/maps/place/Tokyo+Chinese+Muslim+Restaurant/data=!4m7!3m6!1s0x601889286f3caa51:0x18ac064657714721!8m2!3d35.6959853!4d139.8117114!16s%2Fg%2F11b6qtjzw5!19sChIJUao8byiJGGARIUdxV0YGrBg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188936735756e9:0x95eab24f56f5b812",
+      "name": "JASHN Halal Indian Restaurant",
+      "rating": 4.5,
+      "category": "JASHN Halal Indian Restaurant  4.5Halal restaurant",
+      "url": "https://www.google.com/maps/place/JASHN+Halal+Indian+Restaurant/data=!4m7!3m6!1s0x60188936735756e9:0x95eab24f56f5b812!8m2!3d35.6906473!4d139.837611!16s%2Fg%2F11v0km1500!19sChIJ6VZXczaJGGARErj1Vk-y6pU?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188745f00c0eff:0x199b50e3152d8a31",
+      "name": "OISHI KEBAB",
+      "rating": 4,
+      "category": "OISHI KEBAB  4.0Doner kebab restaurant",
+      "url": "https://www.google.com/maps/place/OISHI+KEBAB/data=!4m7!3m6!1s0x60188745f00c0eff:0x199b50e3152d8a31!8m2!3d35.6667087!4d139.8629159!16s%2Fg%2F11s9dbc2__!19sChIJ_w4M8EWHGGARMYotFeNQmxk?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188d34df63b03d:0x2864d45143f35b2b",
+      "name": "MASTER KEBAB(HALAL FOOD)",
+      "rating": 4.7,
+      "category": "MASTER KEBAB(HALAL FOOD)  4.7Kebab shop",
+      "url": "https://www.google.com/maps/place/MASTER+KEBAB%28HALAL+FOOD%29/data=!4m7!3m6!1s0x60188d34df63b03d:0x2864d45143f35b2b!8m2!3d35.7222869!4d139.7526402!16s%2Fg%2F11w2bnsxm9!19sChIJPbBj3zSNGGARK1vzQ1HUZCg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188d00626b17fb:0xc892feff4f17c6c5",
+      "name": "Habibi Kodokan",
+      "rating": 4.6,
+      "category": "Habibi Kodokan  4.6Restaurant",
+      "url": "https://www.google.com/maps/place/Habibi+Kodokan/data=!4m7!3m6!1s0x60188d00626b17fb:0xc892feff4f17c6c5!8m2!3d35.7074743!4d139.7535325!16s%2Fg%2F11lmbyjj8k!19sChIJ-xdrYgCNGGARxcYXT__-ksg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188d0033d9bda5:0xca4bb8f652739740",
+      "name": "HALAL WAGYU RAMEN SHINJUKU-TEI Ueno Park Tokyo",
+      "rating": 4.9,
+      "category": "HALAL WAGYU RAMEN SHINJUKU-TEI Ueno Park Tokyo  4.9Halal restaurant",
+      "url": "https://www.google.com/maps/place/HALAL+WAGYU+RAMEN+SHINJUKU-TEI+Ueno+Park+Tokyo/data=!4m7!3m6!1s0x60188d0033d9bda5:0xca4bb8f652739740!8m2!3d35.7087983!4d139.7703179!16s%2Fg%2F11xvdgc_c_!19sChIJpb3ZMwCNGGARQJdzUva4S8o?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188dd7fbb660d3:0x7a6405e1746e63bc",
+      "name": "Halal Kobe Beef Nagomi",
+      "rating": 4.7,
+      "category": "Halal Kobe Beef Nagomi  4.7Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Kobe+Beef+Nagomi/data=!4m7!3m6!1s0x60188dd7fbb660d3:0x7a6405e1746e63bc!8m2!3d35.7250883!4d139.7626209!16s%2Fg%2F11l1yrl82_!19sChIJ02C2-9eNGGARvGNudOEFZHo?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188f78de76d79f:0x437ce77866f6ff97",
+      "name": "Halal Restaurant Honolu Grande Akihabara",
+      "rating": 4.7,
+      "category": "Halal Restaurant Honolu Grande Akihabara  4.7Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Restaurant+Honolu+Grande+Akihabara/data=!4m7!3m6!1s0x60188f78de76d79f:0x437ce77866f6ff97!8m2!3d35.6950991!4d139.7774654!16s%2Fg%2F11xl1dfyd8!19sChIJn9d23niPGGARl__2ZnjnfEM?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188c6299364375:0xfe7038e62b9d5bd7",
+      "name": "Tokyo Halal Deli & Café",
+      "rating": 4.4,
+      "category": "Tokyo Halal Deli & Café  4.4Halal restaurant",
+      "url": "https://www.google.com/maps/place/Tokyo+Halal+Deli+%26+Caf%C3%A9/data=!4m7!3m6!1s0x60188c6299364375:0xfe7038e62b9d5bd7!8m2!3d35.6825952!4d139.7335571!16s%2Fg%2F11c56bdy_p!19sChIJdUM2mWKMGGAR11udK-Y4cP4?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188956303c3afd:0x18b6b7652f8d2818",
+      "name": "Shanzayan",
+      "rating": 4.2,
+      "category": "Shanzayan  4.2Indian restaurant",
+      "url": "https://www.google.com/maps/place/Shanzayan/data=!4m7!3m6!1s0x60188956303c3afd:0x18b6b7652f8d2818!8m2!3d35.6945169!4d139.8135893!16s%2Fg%2F11swzp041f!19sChIJ_To8MFaJGGARGCiNL2W3thg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x6018874eedc06cf3:0xcea1903eb09f2f6",
+      "name": "HFC HABIBI FRIED CHICKEN",
+      "rating": 4.4,
+      "category": "HFC HABIBI FRIED CHICKEN  4.4Fast food restaurant",
+      "url": "https://www.google.com/maps/place/HFC+HABIBI+FRIED+CHICKEN/data=!4m7!3m6!1s0x6018874eedc06cf3:0xcea1903eb09f2f6!8m2!3d35.6676439!4d139.8600119!16s%2Fg%2F11mdfdy6_6!19sChIJ82zA7U6HGGAR9vIJ6wMZ6gw?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188ea48c40b1f5:0xcd4299ed4675c9aa",
+      "name": "Halal Wagyu Yakiniku Panga",
+      "rating": 4.8,
+      "category": "Halal Wagyu Yakiniku Panga  4.8Yakiniku restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Yakiniku+Panga/data=!4m7!3m6!1s0x60188ea48c40b1f5:0xcd4299ed4675c9aa!8m2!3d35.704854!4d139.781011!16s%2Fg%2F1wj_t882!19sChIJ9bFAjKSOGGARqsl1Ru2ZQs0?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188f03327ef519:0xb1835f433163f64",
+      "name": "A5 Wagyu Yakiniku PANGA Ueno branch | Tokyo halal restaurant",
+      "rating": 4.9,
+      "category": "A5 Wagyu Yakiniku PANGA Ueno branch | Tokyo halal restaurant  4.9Yakiniku restaurant",
+      "url": "https://www.google.com/maps/place/A5+Wagyu+Yakiniku+PANGA+Ueno+branch+%7C+Tokyo+halal+restaurant/data=!4m7!3m6!1s0x60188f03327ef519:0xb1835f433163f64!8m2!3d35.7071098!4d139.7740939!16s%2Fg%2F11wwyx8cbq!19sChIJGfV-MgOPGGARZD8WM_Q1GAs?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188ff5ca09c157:0xa6a651266867621d",
+      "name": "Japanese food Wagyu Restaurant (Halal) Steak&Burger-Ramen 5W-Tokyo AkihabaraUeno Beef Dining",
+      "rating": 4.8,
+      "category": "Japanese food Wagyu Restaurant (Halal) Steak&Burger-Ramen 5W-Tokyo AkihabaraUeno Beef Dining  4.8Hamburger restaurant",
+      "url": "https://www.google.com/maps/place/Japanese+food+Wagyu+Restaurant+%28Halal%29+Steak%26Burger-Ramen+5W-Tokyo+AkihabaraUeno+Beef+Dining/data=!4m7!3m6!1s0x60188ff5ca09c157:0xa6a651266867621d!8m2!3d35.7026268!4d139.778098!16s%2Fg%2F11xh974dkq!19sChIJV8EJyvWPGGARHWJnaCZRpqY?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188d00334db6cb:0x69ce1d0a035e4c42",
+      "name": "Halal Wagyu karemen king",
+      "rating": 4.8,
+      "category": "Halal Wagyu karemen king  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+karemen+king/data=!4m7!3m6!1s0x60188d00334db6cb:0x69ce1d0a035e4c42!8m2!3d35.6955797!4d139.7713677!16s%2Fg%2F11x5j84qmv!19sChIJy7ZNMwCNGGARQkxeAwodzmk?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7",
+      "name": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo",
+      "rating": 4.8,
+      "category": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/HALAL+WAGYU+RAMEN+SHINJUKU-TEI+Asakusa+Tokyo/data=!4m7!3m6!1s0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7!8m2!3d35.7115576!4d139.7923481!16s%2Fg%2F11x6jhp4d6!19sChIJF6THDR-PGGAR98Co847dv-E?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x60188f979a3b8335:0xac94b2ab01975698",
+      "name": "Aras Kebab",
+      "rating": 4.8,
+      "category": "Aras Kebab  4.8Kebab shop",
+      "url": "https://www.google.com/maps/place/Aras+Kebab/data=!4m7!3m6!1s0x60188f979a3b8335:0xac94b2ab01975698!8m2!3d35.7098316!4d139.7744655!16s%2Fg%2F1tj_579m!19sChIJNYM7mpePGGARmFaXAauylKw?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.529Z"
+    },
+    {
+      "placeId": "0x6018894f8accf753:0x2bed7780cd4172ac",
+      "name": "Asian restaurant MONICA {HALAL FOOD}حلالIndian restaurant",
+      "rating": 4,
+      "category": "Asian restaurant MONICA {HALAL FOOD}حلالIndian restaurant  4.0(200)",
+      "url": "https://www.google.com/maps/place/Asian+restaurant+MONICA+%7BHALAL+FOOD%7D%D8%AD%D9%84%D8%A7%D9%84Indian+restaurant%E2%80%AD/data=!4m7!3m6!1s0x6018894f8accf753:0x2bed7780cd4172ac!8m2!3d35.6842202!4d139.7843478!16s%2Fg%2F1tf5dqv4!19sChIJU_fMik-JGGARrHJBzYB37Ss?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188e98f6cf3bef:0x75812fc21f9d5da9",
+      "name": "Halima Kebab Biryani",
+      "rating": 4,
+      "category": "Halima Kebab Biryani  4.0(1,301)",
+      "url": "https://www.google.com/maps/place/Halima+Kebab+Biryani/data=!4m7!3m6!1s0x60188e98f6cf3bef:0x75812fc21f9d5da9!8m2!3d35.7115599!4d139.7802484!16s%2Fg%2F11b6gl0rx5!19sChIJ7zvP9piOGGARqV2dH8IvgXU?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188f16494cea29:0x8b6e04843aa9e9b1",
+      "name": "Saray Kebab Asakusabashi Branch",
+      "rating": 4.1,
+      "category": "Saray Kebab Asakusabashi Branch  4.1(221)",
+      "url": "https://www.google.com/maps/place/Saray+Kebab+Asakusabashi+Branch/data=!4m7!3m6!1s0x60188f16494cea29:0x8b6e04843aa9e9b1!8m2!3d35.6972929!4d139.7852769!16s%2Fg%2F11rmv21b1b!19sChIJKepMSRaPGGARsempOoQEbos?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188c21a6d1e6ef:0xc018d58638a20db4",
+      "name": "Nawab Yushima ナワブ 湯島店",
+      "rating": 4.2,
+      "category": "Nawab Yushima ナワブ 湯島店  4.2(206)",
+      "url": "https://www.google.com/maps/place/Nawab+Yushima+%E3%83%8A%E3%83%AF%E3%83%96+%E6%B9%AF%E5%B3%B6%E5%BA%97/data=!4m7!3m6!1s0x60188c21a6d1e6ef:0xc018d58638a20db4!8m2!3d35.7078232!4d139.7693604!16s%2Fg%2F1tdx_wqz!19sChIJ7-bRpiGMGGARtA2iOIbVGMA?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188d61613c5f2b:0x5f1c5b880fc08a59",
+      "name": "HALAL WAGYU Ramen & Tempura KONOHA",
+      "rating": 4.8,
+      "category": "HALAL WAGYU Ramen & Tempura KONOHA  4.8(1,088)",
+      "url": "https://www.google.com/maps/place/HALAL+WAGYU+Ramen+%26+Tempura+KONOHA/data=!4m7!3m6!1s0x60188d61613c5f2b:0x5f1c5b880fc08a59!8m2!3d35.689915!4d139.7710337!16s%2Fg%2F11m5kb7m6t!19sChIJK188YWGNGGARWYrAD4hbHF8?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188bc9548ab18f:0x8d79cd1f7b8bf906",
+      "name": "Halal Wagyu Ramen Shinjuku-Tei Ginza Tokyo",
+      "rating": 4.9,
+      "category": "Halal Wagyu Ramen Shinjuku-Tei Ginza Tokyo  4.9(2,673)Halal",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Ramen+Shinjuku-Tei+Ginza+Tokyo/data=!4m7!3m6!1s0x60188bc9548ab18f:0x8d79cd1f7b8bf906!8m2!3d35.6690593!4d139.7585623!16s%2Fg%2F11m5_j8b7m!19sChIJj7GKVMmLGGARBvmLex_NeY0?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188f872122c685:0x4fd638eb81696089",
+      "name": "Halal Japanese Curry Yoshi's Passion",
+      "rating": 4.7,
+      "category": "Halal Japanese Curry Yoshi's Passion  4.7(538)",
+      "url": "https://www.google.com/maps/place/Halal+Japanese+Curry+Yoshi%27s+Passion/data=!4m7!3m6!1s0x60188f872122c685:0x4fd638eb81696089!8m2!3d35.7167689!4d139.7966541!16s%2Fg%2F11w95qdnj1!19sChIJhcYiIYePGGARiWBpges41k8?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188e80d9a2889f:0x8fd99463dfe3d9e",
+      "name": "HALAL SAKURA",
+      "rating": 4.4,
+      "category": "HALAL SAKURA  4.4(689)",
+      "url": "https://www.google.com/maps/place/HALAL+SAKURA/data=!4m7!3m6!1s0x60188e80d9a2889f:0x8fd99463dfe3d9e!8m2!3d35.725089!4d139.77722!16s%2Fg%2F11bwny9x8t!19sChIJn4ii2YCOGGARnj3-PUaZ_Qg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188ffaaa9bb9f9:0xb6d686d2a3b73da9",
+      "name": "Oskar’s ChickenMan (Halal Food)",
+      "rating": 4.9,
+      "category": "Oskar’s ChickenMan (Halal Food)  4.9(141)Food and beverage exporter",
+      "url": "https://www.google.com/maps/place/Oskar%E2%80%99s+ChickenMan+%28Halal+Food%29/data=!4m7!3m6!1s0x60188ffaaa9bb9f9:0xb6d686d2a3b73da9!8m2!3d35.7096262!4d139.7745182!16s%2Fg%2F11l34bbq5q!19sChIJ-bmbqvqPGGARqT23o9KG1rY?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188ea8168fffff:0xd1cabff699d29861",
+      "name": "ASLAN KEBAB (HALAL)",
+      "rating": 4,
+      "category": "ASLAN KEBAB (HALAL)  4.0(105)",
+      "url": "https://www.google.com/maps/place/ASLAN+KEBAB+%28HALAL%29/data=!4m7!3m6!1s0x60188ea8168fffff:0xd1cabff699d29861!8m2!3d35.6976646!4d139.7745322!16s%2Fg%2F11dxmq535v!19sChIJ__-PFqiOGGARYZjSmfa_ytE?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188dddb123ef89:0xd479d87be479a015",
+      "name": "マレーカンポンコピティアム（Malaysia Halal Cafe restaurant）水道橋店",
+      "rating": 4.8,
+      "category": "マレーカンポンコピティアム（Malaysia Halal Cafe restaurant）水道橋店  4.8(19)",
+      "url": "https://www.google.com/maps/place/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%94%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A0%EF%BC%88Malaysia+Halal+Cafe+restaurant%EF%BC%89%E6%B0%B4%E9%81%93%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x60188dddb123ef89:0xd479d87be479a015!8m2!3d35.7023126!4d139.7530095!16s%2Fg%2F11x67bxyrm!19sChIJie8jsd2NGGARFaB55HvYedQ?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188d2eb38afa05:0x2a557af197fe90d4",
+      "name": "Aslan Kebab",
+      "rating": 3.7,
+      "category": "Aslan Kebab  3.7(93)",
+      "url": "https://www.google.com/maps/place/Aslan+Kebab/data=!4m7!3m6!1s0x60188d2eb38afa05:0x2a557af197fe90d4!8m2!3d35.7016856!4d139.7704097!16s%2Fg%2F11mn7wckt4!19sChIJBfqKsy6NGGAR1JD-l_F6VSo?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.530Z"
+    },
+    {
+      "placeId": "0x60188e93f94eaaab:0x456f889975e6dc61",
+      "name": "Cafeteria Spice Jaya",
+      "rating": 4.6,
+      "category": "Cafeteria Spice Jaya  4.6(224)",
+      "url": "https://www.google.com/maps/place/Cafeteria+Spice+Jaya/data=!4m7!3m6!1s0x60188e93f94eaaab:0x456f889975e6dc61!8m2!3d35.71822!4d139.7886386!16s%2Fg%2F11b7c3hcdc!19sChIJq6pO-ZOOGGARYdzmdZmIb0U?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188d0e652304f1:0x4d0e37475e0c7586",
+      "name": "HALAL★TOKYO-㈱KALIBER",
+      "rating": 4.6,
+      "category": "HALAL★TOKYO-㈱KALIBER  4.6(77)Asian grocery store",
+      "url": "https://www.google.com/maps/place/HALAL%E2%98%85TOKYO-%E3%88%B1KALIBER/data=!4m7!3m6!1s0x60188d0e652304f1:0x4d0e37475e0c7586!8m2!3d35.7189289!4d139.7238366!16s%2Fg%2F11gg9328y5!19sChIJ8QQjZQ6NGGARhnUMXkc3Dk0?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188f1673485f01:0xd407d5a6187f2512",
+      "name": "Halal Wagyu Ramen & Gyukatsu GYUMON Kaminarimon Tokyo Asakusa",
+      "rating": 4.8,
+      "category": "Halal Wagyu Ramen & Gyukatsu GYUMON Kaminarimon Tokyo Asakusa  4.8(2,021)",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Ramen+%26+Gyukatsu+GYUMON+Kaminarimon+Tokyo+Asakusa/data=!4m7!3m6!1s0x60188f1673485f01:0xd407d5a6187f2512!8m2!3d35.7115127!4d139.7960527!16s%2Fg%2F11xgk486s9!19sChIJAV9IcxaPGGAREiV_GKbVB9Q?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188d005a7ed797:0xc5b970f59b2c1759",
+      "name": "三休ハラール日本料理店",
+      "rating": 4.9,
+      "category": "三休ハラール日本料理店  4.9(840)",
+      "url": "https://www.google.com/maps/place/%E4%B8%89%E4%BC%91%E3%83%8F%E3%83%A9%E3%83%BC%E3%83%AB%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%E5%BA%97/data=!4m7!3m6!1s0x60188d005a7ed797:0xc5b970f59b2c1759!8m2!3d35.705719!4d139.7712333!16s%2Fg%2F11vwkndt8z!19sChIJl9d-WgCNGGARWRcsm_VwucU?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188ec6bbb4525d:0x5892e96c8b2a5ce8",
+      "name": "The Kebab Factory",
+      "rating": 4.1,
+      "category": "The Kebab Factory  4.1(469)",
+      "url": "https://www.google.com/maps/place/The+Kebab+Factory/data=!4m7!3m6!1s0x60188ec6bbb4525d:0x5892e96c8b2a5ce8!8m2!3d35.7116503!4d139.7975604!16s%2Fg%2F11c1wwtr1s!19sChIJXVK0u8aOGGAR6Fwqi2zpklg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188e9fb1fcf2af:0xbe508cb8e7d8169f",
+      "name": "Kebab Ueno",
+      "rating": 4.2,
+      "category": "Kebab Ueno  4.2(24)",
+      "url": "https://www.google.com/maps/place/Kebab+Ueno/data=!4m7!3m6!1s0x60188e9fb1fcf2af:0xbe508cb8e7d8169f!8m2!3d35.7098115!4d139.774778!16s%2Fg%2F11b77hmph1!19sChIJr_L8sZ-OGGARnxbY57iMUL4?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188ff6edbc5d71:0xb544258d622c31e",
+      "name": "Halal Wagyu Ramen & Gyukatsu GYUMON Tokyo Ueno",
+      "rating": 4.8,
+      "category": "Halal Wagyu Ramen & Gyukatsu GYUMON Tokyo Ueno  4.8(2,387)",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Ramen+%26+Gyukatsu+GYUMON+Tokyo+Ueno/data=!4m7!3m6!1s0x60188ff6edbc5d71:0xb544258d622c31e!8m2!3d35.7098522!4d139.7771856!16s%2Fg%2F11x74t31v9!19sChIJcV287faPGGARHsMi1lhCVAs?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188dfd1e99593b:0x7d06e02c637274c9",
+      "name": "SULTAN",
+      "rating": 4.1,
+      "category": "SULTAN  4.1(333)",
+      "url": "https://www.google.com/maps/place/SULTAN/data=!4m7!3m6!1s0x60188dfd1e99593b:0x7d06e02c637274c9!8m2!3d35.7001887!4d139.7486646!16s%2Fg%2F1xgzbs6q!19sChIJO1mZHv2NGGARyXRyYyzgBn0?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188ebfa2212b81:0x3e0045e93c7c3bc3",
+      "name": "Saray Kebab NishiAsakusa",
+      "rating": 4,
+      "category": "Saray Kebab NishiAsakusa  4.0(717)",
+      "url": "https://www.google.com/maps/place/Saray+Kebab+NishiAsakusa/data=!4m7!3m6!1s0x60188ebfa2212b81:0x3e0045e93c7c3bc3!8m2!3d35.7126628!4d139.7920172!16s%2Fg%2F1tf6gmzl!19sChIJgSshor-OGGARwzt8POlFAD4?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188d9f05d8719b:0x72fa7009672cf579",
+      "name": "Halal Kitchen",
+      "rating": 4.2,
+      "category": "Halal Kitchen  4.2(108)",
+      "url": "https://www.google.com/maps/place/Halal+Kitchen/data=!4m7!3m6!1s0x60188d9f05d8719b:0x72fa7009672cf579!8m2!3d35.7300115!4d139.7697233!16s%2Fg%2F11l310q8fd!19sChIJm3HYBZ-NGGARefUsZwlw-nI?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188be8f6003491:0xbefede7279fa1cde",
+      "name": "Khan Kebab Biryani",
+      "rating": 4,
+      "category": "Khan Kebab Biryani  4.0(1,380)",
+      "url": "https://www.google.com/maps/place/Khan+Kebab+Biryani/data=!4m7!3m6!1s0x60188be8f6003491:0xbefede7279fa1cde!8m2!3d35.6678776!4d139.7609989!16s%2Fg%2F11b66cmrv4!19sChIJkTQA9uiLGGAR3hz6eXLe_r4?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188f50615ef503:0xad93012d8e587610",
+      "name": "Nikoniko mazemen",
+      "rating": 4.5,
+      "category": "Nikoniko mazemen  4.5(1,478)",
+      "url": "https://www.google.com/maps/place/Nikoniko+mazemen/data=!4m7!3m6!1s0x60188f50615ef503:0xad93012d8e587610!8m2!3d35.6962439!4d139.7737363!16s%2Fg%2F11nz2jj8nw!19sChIJA_VeYVCPGGAREHZYji0Bk60?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188ea69b5752e3:0x2e646b61101ec420",
+      "name": "EUSA",
+      "rating": 3.4,
+      "category": "EUSA  3.4(76)",
+      "url": "https://www.google.com/maps/place/EUSA/data=!4m7!3m6!1s0x60188ea69b5752e3:0x2e646b61101ec420!8m2!3d35.7026532!4d139.7775866!16s%2Fg%2F11c6vwc42j!19sChIJ41JXm6aOGGARIMQeEGFrZC4?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188f00092d7eab:0x29f94ef557151d16",
+      "name": "Halal Ramen Ueno",
+      "rating": 4.8,
+      "category": "Halal Ramen Ueno  4.8(2,227)",
+      "url": "https://www.google.com/maps/place/Halal+Ramen+Ueno/data=!4m7!3m6!1s0x60188f00092d7eab:0x29f94ef557151d16!8m2!3d35.7057935!4d139.7782863!16s%2Fg%2F11y51dm4bg!19sChIJq34tCQCPGGARFh0VV_VO-Sk?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.531Z"
+    },
+    {
+      "placeId": "0x60188d4c82a71b2b:0xcdf3d4f51e063f32",
+      "name": "サルシーナハラルフーズ",
+      "rating": 4.5,
+      "category": "サルシーナハラルフーズ  4.5(160)",
+      "url": "https://www.google.com/maps/place/%E3%82%B5%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%8A%E3%83%8F%E3%83%A9%E3%83%AB%E3%83%95%E3%83%BC%E3%82%BA/data=!4m7!3m6!1s0x60188d4c82a71b2b:0xcdf3d4f51e063f32!8m2!3d35.702078!4d139.7022461!16s%2Fg%2F11pzx1m6tl!19sChIJKxungkyNGGARMj8GHvXU880?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.532Z"
+    },
+    {
+      "placeId": "0x60188d3beb1d68b1:0x2377cc7b002ce74b",
+      "name": "ボンベイ カフェ& バー (Bombay Cafe & Bar) Indian Cuisine",
+      "rating": 4.4,
+      "category": "ボンベイ カフェ& バー (Bombay Cafe & Bar) Indian Cuisine  4.4(50)",
+      "url": "https://www.google.com/maps/place/%E3%83%9C%E3%83%B3%E3%83%99%E3%82%A4+%E3%82%AB%E3%83%95%E3%82%A7%26+%E3%83%90%E3%83%BC+%28Bombay+Cafe+%26+Bar%29+Indian+Cuisine/data=!4m7!3m6!1s0x60188d3beb1d68b1:0x2377cc7b002ce74b!8m2!3d35.6948018!4d139.7561131!16s%2Fg%2F11kpfs7x2n!19sChIJsWgd6zuNGGARS-csAHvMdyM?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.532Z"
+    },
+    {
+      "placeId": "0x60188df534ab3253:0xf121b233f0e67da",
+      "name": "ADO KEBAB HOUSE",
+      "rating": 4.6,
+      "category": "ADO KEBAB HOUSE  4.6(431)",
+      "url": "https://www.google.com/maps/place/ADO+KEBAB+HOUSE/data=!4m7!3m6!1s0x60188df534ab3253:0xf121b233f0e67da!8m2!3d35.6917749!4d139.7714218!16s%2Fg%2F11n_zzk9gv!19sChIJUzKrNPWNGGAR2mcOPyMbEg8?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.532Z"
+    },
+    {
+      "placeId": "0x60188b003cd440eb:0x227a09df23fdb6bc",
+      "name": "YUSRA's kitchen ( Halal Turkish Restaurant )",
+      "rating": 4.8,
+      "category": "YUSRA's kitchen ( Halal Turkish Restaurant )  4.8(140)Turkish",
+      "url": "https://www.google.com/maps/place/YUSRA%27s+kitchen+%28+Halal+Turkish+Restaurant+%29/data=!4m7!3m6!1s0x60188b003cd440eb:0x227a09df23fdb6bc!8m2!3d35.6568945!4d139.7586332!16s%2Fg%2F11yfnrcz8n!19sChIJ60DUPACLGGARvLb9I98JeiI?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.532Z"
+    },
+    {
+      "placeId": "0x60188927f789066d:0x8a4970a6dd152827",
+      "name": "ASIA CURRY HOUSE",
+      "rating": 4.1,
+      "category": "ASIA CURRY HOUSE  4.1(397)",
+      "url": "https://www.google.com/maps/place/ASIA+CURRY+HOUSE/data=!4m7!3m6!1s0x60188927f789066d:0x8a4970a6dd152827!8m2!3d35.6945472!4d139.8136901!16s%2Fg%2F11bbx2sy2f!19sChIJbQaJ9yeJGGARJygV3aZwSYo?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.532Z"
+    },
+    {
+      "placeId": "0x60188d25c1d6db2d:0xbb767579731d17d2",
+      "name": "GRAND SAMARKAND",
+      "rating": 4.4,
+      "category": "GRAND SAMARKAND  4.4(154)",
+      "url": "https://www.google.com/maps/place/GRAND+SAMARKAND/data=!4m7!3m6!1s0x60188d25c1d6db2d:0xbb767579731d17d2!8m2!3d35.716995!4d139.7657471!16s%2Fg%2F11y45484g7!19sChIJLdvWwSWNGGAR0hcdc3l1drs?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:29:40.532Z"
+    }
+  ]
+}

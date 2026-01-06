@@ -125,6 +125,8 @@ async function main() {
     }[],
   };
 
+  const MAX_RETRIES = 3;
+
   try {
     for (let i = 0; i < TOKYO_DISTRICTS.length; i++) {
       const district = TOKYO_DISTRICTS[i];
@@ -134,51 +136,82 @@ async function main() {
       console.log(`${progress} 🔍 Scraping: ${district}`);
       console.log(`   Query: "${query}"`);
 
-      // Create a fresh browser instance for each district
-      const scraper = new GoogleMapsScraper();
-      currentScraper = scraper;
+      let lastError: Error | null = null;
+      let success = false;
 
-      try {
-        // Initialize browser
-        await scraper.initialize(headless, 50);
+      // Retry loop
+      for (let attempt = 1; attempt <= MAX_RETRIES && !success; attempt++) {
+        if (attempt > 1) {
+          console.log(`   🔄 Retry attempt ${attempt}/${MAX_RETRIES}`);
+        }
 
-        // Scrape places
-        const places = await scraper.searchPlaces(query, maxResults);
+        // Create a fresh browser instance for each attempt
+        const scraper = new GoogleMapsScraper();
+        currentScraper = scraper;
 
-        // Save results for this district
-        await saveBatchData(outputPath, district, {
-          district,
-          query,
-          scrapedAt: new Date().toISOString(),
-          totalResults: places.length,
-          places,
-        });
+        try {
+          // Initialize browser
+          await scraper.initialize(headless, 50);
 
-        results.districts.push({
-          name: district,
-          query,
-          placesFound: places.length,
-          status: "success",
-        });
+          // Scrape places
+          const places = await scraper.searchPlaces(query, maxResults);
 
-        console.log(`   ✅ Found ${places.length} places`);
-      } catch (error) {
-        console.error(`   ❌ Error scraping ${district}:`, error.message);
+          // Save results for this district
+          await saveBatchData(outputPath, district, {
+            district,
+            query,
+            scrapedAt: new Date().toISOString(),
+            totalResults: places.length,
+            places,
+          });
+
+          results.districts.push({
+            name: district,
+            query,
+            placesFound: places.length,
+            status: "success",
+          });
+
+          console.log(`   ✅ Found ${places.length} places`);
+          success = true;
+        } catch (error) {
+          lastError = error;
+          console.error(
+            `   ⚠️  Attempt ${attempt} failed:`,
+            error.message,
+          );
+
+          // If not the last attempt, wait before retrying
+          if (attempt < MAX_RETRIES) {
+            const retryDelay = 5000 + Math.floor(Math.random() * 3000);
+            console.log(
+              `   ⏳ Waiting ${Math.floor(retryDelay / 1000)}s before retry...`,
+            );
+            await new Promise((resolve) => setTimeout(resolve, retryDelay));
+          }
+        } finally {
+          // Always close the browser after each attempt
+          try {
+            await scraper.close();
+            currentScraper = null;
+          } catch (error) {
+            console.error("Error closing browser:", error.message);
+          }
+        }
+      }
+
+      // If all retries failed, record the error
+      if (!success && lastError) {
+        console.error(
+          `   ❌ All ${MAX_RETRIES} attempts failed for ${district}`,
+        );
         results.districts.push({
           name: district,
           query,
           placesFound: 0,
           status: "error",
-          error: error.message,
+          error: lastError.message,
         });
-      } finally {
-        // Always close the browser after each district
-        try {
-          await scraper.close();
-          currentScraper = null;
-        } catch (error) {
-          console.error("Error closing browser:", error.message);
-        }
       }
 
       console.log();

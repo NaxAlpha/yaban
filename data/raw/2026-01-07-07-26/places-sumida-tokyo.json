@@ -1,0 +1,104 @@
+{
+  "district": "Sumida",
+  "query": "halal restaurants Sumida tokyo japan",
+  "scrapedAt": "2026-01-06T22:30:49.121Z",
+  "totalResults": 12,
+  "places": [
+    {
+      "placeId": "0x601889286f3caa51:0x18ac064657714721",
+      "name": "Tokyo Chinese Muslim Restaurant",
+      "rating": 3.9,
+      "category": "Tokyo Chinese Muslim Restaurant  3.9Halal restaurant",
+      "url": "https://www.google.com/maps/place/Tokyo+Chinese+Muslim+Restaurant/data=!4m7!3m6!1s0x601889286f3caa51:0x18ac064657714721!8m2!3d35.6959853!4d139.8117114!16s%2Fg%2F11b6qtjzw5!19sChIJUao8byiJGGARIUdxV0YGrBg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.065Z"
+    },
+    {
+      "placeId": "0x60188956303c3afd:0x18b6b7652f8d2818",
+      "name": "Shanzayan",
+      "rating": 4.2,
+      "category": "Shanzayan  4.2Indian restaurant",
+      "url": "https://www.google.com/maps/place/Shanzayan/data=!4m7!3m6!1s0x60188956303c3afd:0x18b6b7652f8d2818!8m2!3d35.6945169!4d139.8135893!16s%2Fg%2F11swzp041f!19sChIJ_To8MFaJGGARGCiNL2W3thg?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.066Z"
+    },
+    {
+      "placeId": "0x60188f00733571fb:0x913ae2b3fe62054c",
+      "name": "Arabian Kebab & Biryani House Asakusa",
+      "rating": 4.8,
+      "category": "Arabian Kebab & Biryani House Asakusa  4.8Indian restaurant",
+      "url": "https://www.google.com/maps/place/Arabian+Kebab+%26+Biryani+House+Asakusa/data=!4m7!3m6!1s0x60188f00733571fb:0x913ae2b3fe62054c!8m2!3d35.7093874!4d139.7997007!16s%2Fg%2F11y9yb5klz!19sChIJ-3E1cwCPGGARTAVi_rPiOpE?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.066Z"
+    },
+    {
+      "placeId": "0x601888eead3c34a3:0xb645aa96f244570c",
+      "name": "Habibi Halal Restaurant",
+      "rating": 4.3,
+      "category": "Habibi Halal Restaurant  4.3Halal restaurant",
+      "url": "https://www.google.com/maps/place/Habibi+Halal+Restaurant/data=!4m7!3m6!1s0x601888eead3c34a3:0xb645aa96f244570c!8m2!3d35.6880722!4d139.8285948!16s%2Fg%2F11c1n5wqpp!19sChIJozQ8re6IGGARDFdE8paqRbY?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.066Z"
+    },
+    {
+      "placeId": "0x60188f872122c685:0x4fd638eb81696089",
+      "name": "Halal Japanese Curry Yoshi's Passion",
+      "rating": 4.7,
+      "category": "Halal Japanese Curry Yoshi's Passion  4.7Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Japanese+Curry+Yoshi%27s+Passion/data=!4m7!3m6!1s0x60188f872122c685:0x4fd638eb81696089!8m2!3d35.7167689!4d139.7966541!16s%2Fg%2F11w95qdnj1!19sChIJhcYiIYePGGARiWBpges41k8?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.066Z"
+    },
+    {
+      "placeId": "0x60188f7a357d2281:0xb4ac665600ae7db2",
+      "name": "King kebab",
+      "rating": 4.5,
+      "category": "King kebab  4.5Restaurant",
+      "url": "https://www.google.com/maps/place/King+kebab/data=!4m7!3m6!1s0x60188f7a357d2281:0xb4ac665600ae7db2!8m2!3d35.7091601!4d139.8138478!16s%2Fg%2F11v150qqtv!19sChIJgSJ9NXqPGGARsn2uAFZmrLQ?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    },
+    {
+      "placeId": "0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7",
+      "name": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo",
+      "rating": 4.8,
+      "category": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/HALAL+WAGYU+RAMEN+SHINJUKU-TEI+Asakusa+Tokyo/data=!4m7!3m6!1s0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7!8m2!3d35.7115576!4d139.7923481!16s%2Fg%2F11x6jhp4d6!19sChIJF6THDR-PGGAR98Co847dv-E?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    },
+    {
+      "placeId": "0x60188f922810cfdd:0x57a5cdfd591b772e",
+      "name": "Halal Wagyu Sukiyaki Asakusa PANGA | Tokyo Halal restaurant",
+      "rating": 4.9,
+      "category": "Halal Wagyu Sukiyaki Asakusa PANGA | Tokyo Halal restaurant  4.9Sukiyaki restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Sukiyaki+Asakusa+PANGA+%7C+Tokyo+Halal+restaurant/data=!4m7!3m6!1s0x60188f922810cfdd:0x57a5cdfd591b772e!8m2!3d35.7101692!4d139.7978835!16s%2Fg%2F11lz_wcxhd!19sChIJ3c8QKJKPGGARLncbWf3NpVc?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    },
+    {
+      "placeId": "0x60188936735756e9:0x95eab24f56f5b812",
+      "name": "JASHN Halal Indian Restaurant",
+      "rating": 4.5,
+      "category": "JASHN Halal Indian Restaurant  4.5Halal restaurant",
+      "url": "https://www.google.com/maps/place/JASHN+Halal+Indian+Restaurant/data=!4m7!3m6!1s0x60188936735756e9:0x95eab24f56f5b812!8m2!3d35.6906473!4d139.837611!16s%2Fg%2F11v0km1500!19sChIJ6VZXczaJGGARErj1Vk-y6pU?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    },
+    {
+      "placeId": "0x60188fd82fb79715:0xd0f0de669305216b",
+      "name": "Indian Curry & kebab Tokyo",
+      "rating": 4.8,
+      "category": "Indian Curry & kebab Tokyo  4.8Turkish restaurant",
+      "url": "https://www.google.com/maps/place/Indian+Curry+%26+kebab+Tokyo/data=!4m7!3m6!1s0x60188fd82fb79715:0xd0f0de669305216b!8m2!3d35.7091841!4d139.8138413!16s%2Fg%2F11x5_s76mw!19sChIJFZe3L9iPGGARayEFk2be8NA?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    },
+    {
+      "placeId": "0x60188f1673485f01:0xd407d5a6187f2512",
+      "name": "Halal Wagyu Ramen & Gyukatsu GYUMON Kaminarimon Tokyo Asakusa",
+      "rating": 4.8,
+      "category": "Halal Wagyu Ramen & Gyukatsu GYUMON Kaminarimon Tokyo Asakusa  4.8Halal restaurant",
+      "url": "https://www.google.com/maps/place/Halal+Wagyu+Ramen+%26+Gyukatsu+GYUMON+Kaminarimon+Tokyo+Asakusa/data=!4m7!3m6!1s0x60188f1673485f01:0xd407d5a6187f2512!8m2!3d35.7115127!4d139.7960527!16s%2Fg%2F11xgk486s9!19sChIJAV9IcxaPGGAREiV_GKbVB9Q?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    },
+    {
+      "placeId": "0x60188927f789066d:0x8a4970a6dd152827",
+      "name": "ASIA CURRY HOUSE",
+      "rating": 4.1,
+      "category": "ASIA CURRY HOUSE  4.1Bangladeshi restaurant",
+      "url": "https://www.google.com/maps/place/ASIA+CURRY+HOUSE/data=!4m7!3m6!1s0x60188927f789066d:0x8a4970a6dd152827!8m2!3d35.6945472!4d139.8136901!16s%2Fg%2F11bbx2sy2f!19sChIJbQaJ9yeJGGARJygV3aZwSYo?authuser=0&hl=en&rclk=1",
+      "scrapedAt": "2026-01-06T22:30:49.067Z"
+    }
+  ]
+}
