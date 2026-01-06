@@ -1,0 +1,167 @@
+{
+  "scrapedAt": "2026-01-06T07:10:42.452Z",
+  "outputDirectory": "2026-01-06-16-10",
+  "totalDistricts": 23,
+  "districts": [
+    {
+      "name": "Chiyoda",
+      "query": "halal restaurants Chiyoda tokyo japan",
+      "placesFound": 20,
+      "status": "success"
+    },
+    {
+      "name": "Chuo",
+      "query": "halal restaurants Chuo tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Waiting for selector `[role=\"feed\"]` failed: Protocol error (DOM.resolveNode): Target closed"
+    },
+    {
+      "name": "Minato",
+      "query": "halal restaurants Minato tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Shinjuku",
+      "query": "halal restaurants Shinjuku tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Bunkyo",
+      "query": "halal restaurants Bunkyo tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Taito",
+      "query": "halal restaurants Taito tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Sumida",
+      "query": "halal restaurants Sumida tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Koto",
+      "query": "halal restaurants Koto tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Shinagawa",
+      "query": "halal restaurants Shinagawa tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Meguro",
+      "query": "halal restaurants Meguro tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Ota",
+      "query": "halal restaurants Ota tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Setagaya",
+      "query": "halal restaurants Setagaya tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Shibuya",
+      "query": "halal restaurants Shibuya tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Nakano",
+      "query": "halal restaurants Nakano tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Suginami",
+      "query": "halal restaurants Suginami tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Toshima",
+      "query": "halal restaurants Toshima tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Kita",
+      "query": "halal restaurants Kita tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Arakawa",
+      "query": "halal restaurants Arakawa tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Itabashi",
+      "query": "halal restaurants Itabashi tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Nerima",
+      "query": "halal restaurants Nerima tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Adachi",
+      "query": "halal restaurants Adachi tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Katsushika",
+      "query": "halal restaurants Katsushika tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    },
+    {
+      "name": "Edogawa",
+      "query": "halal restaurants Edogawa tokyo japan",
+      "placesFound": 0,
+      "status": "error",
+      "error": "Protocol error: Connection closed. Most likely the page has been closed."
+    }
+  ]
+}
