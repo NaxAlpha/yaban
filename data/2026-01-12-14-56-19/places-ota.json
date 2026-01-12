@@ -1,0 +1,2702 @@
+{
+  "search_metadata": {
+    "id": "69648d2352acc6d91cbc9df3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/80e68f5d22a33a46/69648d2352acc6d91cbc9df3.json",
+    "created_at": "2026-01-12 05:56:51 UTC",
+    "processed_at": "2026-01-12 05:56:51 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Ota//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/95e47b484dc5c97c/69648d2352acc6d91cbc9df3.html",
+    "prettify_html_file": "https://serpapi.com/searches/1b89a801b2e4ec95/69648d2352acc6d91cbc9df3.prettify",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Ota",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "halal restaurant Ota"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Shah’s Halal Food",
+      "place_id": "ChIJM26vHwA_tokRX33HoeyxzaM",
+      "data_id": "0x89b63f001faf6e33:0xa3cdb1eca1c77d5f",
+      "data_cid": "11803285828292541791",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b63f001faf6e33%3A0xa3cdb1eca1c77d5f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b63f001faf6e33%3A0xa3cdb1eca1c77d5f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 39.036389,
+        "longitude": -77.5009292
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM26vHwA_tokRX33HoeyxzaM",
+      "provider_id": "/g/11xg6zz_x3",
+      "rating": 4.8,
+      "reviews": 250,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "43330 Junction Plaza #166, Ashburn, VA 20147",
+      "open_state": "Closes soon · 1 AM · Reopens 10 AM",
+      "hours": "Closes soon · 1 AM · Reopens 10 AM",
+      "operating_hours": {
+        "sunday": "10 AM–1 AM",
+        "monday": "10 AM–12 AM",
+        "tuesday": "10 AM–12 AM",
+        "wednesday": "10 AM–12 AM",
+        "thursday": "10 AM–12 AM",
+        "friday": "10 AM–3 AM",
+        "saturday": "10 AM–3 AM"
+      },
+      "phone": "(571) 291-2737",
+      "website": "https://www.shahshalalfood.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11xg6zz_x3&g2lbs=AIBNGdUC2XAMX9pVenW3PiKsLvnJDlEFVAy7nubiOanR-g6jV86KYtpgxxJw0R_u1qlId_7o8DEYkOxdV6ifNUD6Ycxa17lJ6bmEmcQVId9CakfM7EkW1FI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Amazing halal food, great guy working there, and good clean place.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzHA9zQ7g2DCgTSWboEFGl-d_DERdWQ4eB7YAJpxJ8kd77-eevtuGKHr7mWlI6xLvkpo6Aj-HRwsJPirkJaAC23cPqOCX5HJsg2x9ELOXz8nAaY36TCd6_mqQg8qMAGJKttQE_Ql1oBOdkP=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MXqbpnicBcHRroIgAADQLyJNC6ztPpCZRjWl2qwnV8KwQFGhcv7j_YD-pnO-_5W1rVk6jqr8idBaKP4yvC91Y3ljJ6WuHdEaUBpgHBy7D3UaE7wYKRLeOhTnU37X0SZWgBXr6MhyOuMrdMWkHUggGUKA87d9xbukR3WutnDYv2WrIX6C5PgxJHv0ktxw6Pll1qXhZZ4QI7xhEe3Tyxg0-Hb14TlksKg7KoLugGOys5ZGBVVTvUqZzP4-gQuqqQuBBI3-AaPQRik"
+    },
+    {
+      "position": 2,
+      "title": "Naz's Halal Food - Manassas",
+      "place_id": "ChIJP8tzmsdbtokRM7XegqXUMJg",
+      "data_id": "0x89b65bc79a73cb3f:0x9830d4a582deb533",
+      "data_cid": "10966498899977483571",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b65bc79a73cb3f%3A0x9830d4a582deb533&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b65bc79a73cb3f%3A0x9830d4a582deb533&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.7401078,
+        "longitude": -77.4524251
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP8tzmsdbtokRM7XegqXUMJg",
+      "provider_id": "/g/11k3l_p2qg",
+      "rating": 4.6,
+      "reviews": 442,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "10044 Market Cir, Manassas, VA 20110",
+      "open_state": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "hours": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "operating_hours": {
+        "sunday": "10:30 AM–2 AM",
+        "monday": "10:30 AM–2 AM",
+        "tuesday": "10:30 AM–2 AM",
+        "wednesday": "10:30 AM–2 AM",
+        "thursday": "10:30 AM–2 AM",
+        "friday": "10:30 AM–4 AM",
+        "saturday": "10:30 AM–4 AM"
+      },
+      "phone": "(571) 569-4233",
+      "website": "https://nazshalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11k3l_p2qg&g2lbs=AIBNGdW-AAgezFH2lQoq3hlblp7FXnmDD1adIoO-ymsmH7YPH2yR63xbIVpyvEJ_pnM4MuovusPiuRk7x-ff1H0Or7-FRE7I4lGTWxphaCk7yS3tmNn1r1Q%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious food, good service and best halal place in Manassas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEnNZ2gD6SrQj71iXTyfiJRdjnnofMTIEWacijOBc6ekA7sKZ0UYsqGTHGsMuVRU92ewOmxiqelDn0_kqmEt55PhbRHn5dCoPkzxK4-tcRPHD7u0BHVW-w155dMNA_n5UEGC12TTmfB1g-Ckwp2BVTKfFhSpn-nXsXjdHrL0NN8LzwRb4RtCmsI=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xWh0v3icBcHJcoIwAADQL4osstTO9MBWsCwiBqRenAqBsCVAwoD-aX-k5773-4c5H9m7IPR4v6sprXu0MDQXlHBE-K6gg1CPDIwz3Z6CEZSKjR0S3eTa1i7zudWlJofPqvlKypYQWoXw6Fx_iqY9mYWGOkNn_k1Mv9nkQs9l4ZIl6UFG62nYmgn1NhHv3TQ4XFVj_Eg8opYWjbvX5iuAF0ns2foiml52BaukqmUYGXeipo5rSTKEQ2VKNbC6dZTNDPrVJ76MBJCc5W3pzYEYRW_Ba00eSsKtgR0_VknbA3yQQQcI_QdGo1VK"
+    },
+    {
+      "position": 3,
+      "title": "Omar's Pitas & Platters",
+      "place_id": "ChIJG35Lfhaxt4kR0yy2iEzpUnI",
+      "data_id": "0x89b7b1167e4b7e1b:0x7252e94c88b62cd3",
+      "data_cid": "8237903183334485203",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b1167e4b7e1b%3A0x7252e94c88b62cd3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b1167e4b7e1b%3A0x7252e94c88b62cd3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.833826099999996,
+        "longitude": -77.0517466
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG35Lfhaxt4kR0yy2iEzpUnI",
+      "provider_id": "/g/11wbb03kbd",
+      "rating": 4.9,
+      "reviews": 1067,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "3100 Richmond Hwy, Alexandria, VA 22305",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "monday": "11 AM–12 AM",
+        "tuesday": "11 AM–12 AM",
+        "wednesday": "11 AM–12 AM",
+        "thursday": "11 AM–12 AM",
+        "friday": "11 AM–1 AM",
+        "saturday": "11 AM–1 AM",
+        "sunday": "11 AM–12 AM"
+      },
+      "website": "https://www.toasttab.com/local/order/omars-pitas-and-platters-3100-richmond-hwy/r-1a325216-99ea-44bc-bdea-72451b9828ca",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Quick bite",
+            "Salad bar",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11wbb03kbd&g2lbs=AIBNGdXNxsZE_rmWcs6mAnw4s8NkdRi5obA85ElwDFQgA91WI0iTfTQIyiMHRhUGVTFT71J0B6CTArlbQ-vWHipgcQI6pJt-UgTf43hH5jPXzed1kXNLSEA%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"It is clean,  customer service is excellent,  food is Halal and delicious.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPaeGtPiBBhNdND3NF7zcdJfybQbCq1xyEkq7oo=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4bfnZnicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQkJjqXhKQ6eSU4Zfi52Ls52ZelZzilVaZFJjkXGhYUemaXWien29bbmhkpJthaaSbrZuXDwCzBiG6"
+    },
+    {
+      "position": 4,
+      "title": "Halal Spot Grill",
+      "place_id": "ChIJ8wqCAIOzt4kRaQ_qOgXsfXQ",
+      "data_id": "0x89b7b38300820af3:0x747dec053aea0f69",
+      "data_cid": "8394124787695882089",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b38300820af3%3A0x747dec053aea0f69&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b38300820af3%3A0x747dec053aea0f69&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.8242286,
+        "longitude": -77.1724009
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8wqCAIOzt4kRaQ_qOgXsfXQ",
+      "provider_id": "/g/11vr9w7x3g",
+      "rating": 4.5,
+      "reviews": 375,
+      "price": "$10–20",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "6653 Little River Turnpike G, Annandale, VA 22003",
+      "open_state": "Open · Closes 4 AM · Reopens 11 AM",
+      "hours": "Open · Closes 4 AM · Reopens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–4 AM",
+        "monday": "11 AM–4 AM",
+        "tuesday": "11 AM–4 AM",
+        "wednesday": "11 AM–4 AM",
+        "thursday": "11 AM–4 AM",
+        "friday": "11 AM–4 AM",
+        "saturday": "11 AM–4 AM"
+      },
+      "phone": "(703) 544-0101",
+      "website": "http://halalspotgrill.peblla.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vr9w7x3g&g2lbs=AIBNGdVo4gQvDveCWF5HBixtAzSKt7SVqiYfG083gFcrnLmSbg8r96txpy9lmbCRBlkYZu2aRm7trc5irZ_3FU5C43TYw_yYTamt-Af8_FkJJU5ItPeMwp0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great Fresh Halal Pizza, Halal Burgers, Halal Platters and much more.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy8-MwFfgBNtE14yQRUaygjCBOmR2ShT36bP7T7XwvyAjdj_l3MwDH_eIGNvXbFl_NERtTpaHw-2tiOyxpH6udGuLbgTsWvwxxbrYJUmy7YSnHUotsfIkY7l4YVThXQ8s-YWRjk=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8-N423icBcH_EkIwAADgJ1oUh-uuP_qJLiqm7C8XacOYszF7wB6it-n7fl8iRM_XmkaJscCMYVqOvBwK1omyE4uCtRruOSg44NrW1SsaKwcE8vTBu1Acl6a6R8lL4Xq_u7bRKibQsPKbDe1UTmpbv-uMGoE8eFnpu-GU5ieahcdIwP7lSbAS1VXNvWeNb3e85Bjy5yTnOR_QOWmVjeLOS5jgH79BNjXRA5L07nCAnlHdbKSjA7LULdCAjv0BKTNGPw"
+    },
+    {
+      "position": 5,
+      "title": "Bitez",
+      "place_id": "ChIJE2FxRABHtokR_2xnP8ojNUs",
+      "data_id": "0x89b6470044716113:0x4b3523ca3f676cff",
+      "data_cid": "5419277078164368639",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b6470044716113%3A0x4b3523ca3f676cff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b6470044716113%3A0x4b3523ca3f676cff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.949488099999996,
+        "longitude": -77.4088575
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE2FxRABHtokR_2xnP8ojNUs",
+      "provider_id": "/g/11vwwjpf6t",
+      "rating": 4.5,
+      "reviews": 494,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "2443 Centreville Rd Suite G4, Herndon, VA 20171",
+      "open_state": "Open · Closes 4 AM · Reopens 11 AM",
+      "hours": "Open · Closes 4 AM · Reopens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–4 AM",
+        "monday": "11 AM–4 AM",
+        "tuesday": "11 AM–4 AM",
+        "wednesday": "11 AM–4 AM",
+        "thursday": "11 AM–4 AM",
+        "friday": "11 AM–4 AM",
+        "saturday": "11 AM–4 AM"
+      },
+      "phone": "(240) 547-9746",
+      "website": "https://bitezusa.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vwwjpf6t&g2lbs=AIBNGdVPSJYn8UebG3XXYw2Knw5A7YcJryKQwFviyRRKjXy_HyP9P4NtsA8RT4Lm9zm33mnCck6R86md5j1qpYFe6z-x_gvB4dwRIL7C44MFzZIXfy1OKlk%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Affordable, delicious, hearty halal platters.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzZbOWLmXKOS36Y04GNu22n3Vs8jMPdLkg2RwwgKl_h0RqBIVUShidSE4UGDt7fkhgAz7dvuuC8o_POMzjKQaB-U2m_vaksOzFT9WtF0QEdkvWYSfDWBTh7o9eMNTwwldpphDPjMhl_8sTW=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-w693HicBcFRboIwGADgE1VYMQJL9iBDyYIIWrDTF-Io9pcWytZCE-64A-w2-76_XzBm1K-OI8FbcaW4bCfd_jRqMO1gVo3qHT5q1GiknW3iPiVZbl85PfSfaU68zdVdJ8cJ48G76KDLCnYQHJ-t5amswT1_Rx-XisCTkd26SmLjPwTw7eKzeZreA1UXebZ06ekeoQr39XwXOl_2ZUjN3j3tmJjplTxiGpXgq7DNjqW1ko0jxEWXgawDXdI3-4IxghAjgQb1DxBxSAM"
+    },
+    {
+      "position": 6,
+      "title": "A1 AFGHAN RESTAURANT AND GROCERY",
+      "place_id": "ChIJGVrccAAPTYgRZab7RVpcChU",
+      "data_id": "0x884d0f0070dc5a19:0x150a5c5a45fba665",
+      "data_cid": "1516125767354525285",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x884d0f0070dc5a19%3A0x150a5c5a45fba665&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x884d0f0070dc5a19%3A0x150a5c5a45fba665&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 37.297095999999996,
+        "longitude": -79.93862179999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGVrccAAPTYgRZab7RVpcChU",
+      "provider_id": "/g/11vys8p3xb",
+      "rating": 4.8,
+      "reviews": 194,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "2816 Williamson Rd, Roanoke, VA 24012",
+      "open_state": "Closed · Opens 9:30 AM",
+      "hours": "Closed · Opens 9:30 AM",
+      "operating_hours": {
+        "monday": "9:30 AM–9 PM",
+        "tuesday": "9:30 AM–9 PM",
+        "wednesday": "9:30 AM–9 PM",
+        "thursday": "Closed",
+        "friday": "9:30 AM–9 PM",
+        "saturday": "9:30 AM–9 PM",
+        "sunday": "9:30 AM–9 PM"
+      },
+      "phone": "(540) 397-4044",
+      "website": "http://a1afghan.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vys8p3xb&g2lbs=AIBNGdVWvvQ3GEmjS0igeJYWB1rq_xUZ3sUvGDlJs8O9YMJ_g6qLDLKdd1h6BvNIL2kDk9foifv7wSUcXVbufoy1xueMfPfCYotyRJHKjfO2yU5QJvoBJtA%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious food with great prices and very generous portions.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw_BjLcJ7-5i264MTbBPXR4ra49JfF_DV6kncJyQ6TR3iKBHrnqSij7mMo3m3-muv9DKj53aj_X-HbdCZGVMbe2kRJMjrLyyYfp2jSn7_5K9F2VLwd-o0PC6o1WyetGJZQH9oiUzDKo-UNB=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/z-76kHicBcHdboIwGADQJ6poy0-6ZBdDIqSAUVCm3hCpFVqgH6M4wt5xD7C32Tl_v800DebNsrqGrGqAuhMvI0YOehJ6WnHorXowiBtkrI9wLbt8Ln2VcOYhR2LXTk-Vf7hk9ni3KXvuyqBwW83ZcnRPGZGxH436K5fK61MgPUH965sGsXLIXZUXFFWP7S0s0krgNmOpGpNluT4HrHLtlU5Md7hI5geC9WHrwuZzEVPIbseIgjz_BDGg895_nzcYo4Zi1CIN_2DpRYU"
+    },
+    {
+      "position": 7,
+      "title": "Zaytoun Halal Grill",
+      "place_id": "ChIJCepnBACzt4kRtHZt189eWKE",
+      "data_id": "0x89b7b3000467ea09:0xa1585ecfd76d76b4",
+      "data_cid": "11626146684822451892",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b3000467ea09%3A0xa1585ecfd76d76b4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b3000467ea09%3A0xa1585ecfd76d76b4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.8126341,
+        "longitude": -77.1260898
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCepnBACzt4kRtHZt189eWKE",
+      "provider_id": "/g/11lyl_bpfc",
+      "rating": 4.8,
+      "reviews": 473,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Fast food restaurant",
+        "Mediterranean restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "fast_food_restaurant",
+        "mediterranean_restaurant"
+      ],
+      "address": "5418 Duke St, Alexandria, VA 22304",
+      "open_state": "Open · Closes 2 AM · Reopens 10 AM",
+      "hours": "Open · Closes 2 AM · Reopens 10 AM",
+      "operating_hours": {
+        "sunday": "10 AM–2 AM",
+        "monday": "10 AM–2 AM",
+        "tuesday": "10 AM–2 AM",
+        "wednesday": "10 AM–2 AM",
+        "thursday": "10 AM–2 AM",
+        "friday": "10 AM–2 AM",
+        "saturday": "10 AM–2 AM"
+      },
+      "phone": "(571) 444-6782",
+      "website": "https://zayttoun.com/?utm_source=google",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11lyl_bpfc&g2lbs=AIBNGdVbviddlfBAEtjBfVeKjvBKX6rKGfJpH3qJ1MwGYSftKrqy7mXrLtsCSsavdGit1GEx9sLOybYOMMQCMphzde8PnCVZLUyDF3IO43_njZM2KMSbXSU%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Chill little halal spot the food is great service is fast can’t complain\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMLmijLgWswTAk0WiXi9pUUX1a_S0_-saneM_Fc=w80-h119-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-YVtl3icBcE9CoAgGADQE5lKSwUNLk41REVNSYio-fNJGp212_Ted5hSUu4w9qauNID26snqlhCLiqWSEHDCjNPJpnEI9hr0lt-FObLZ3bZpXXd6ipkIlM-oRsFl_zYEGUpb5FCEH7mnIZ8"
+    },
+    {
+      "position": 8,
+      "title": "Naz's Halal Food - Fredericksburg",
+      "place_id": "ChIJeU8KoEu_tokR26KKeTOtb3c",
+      "data_id": "0x89b6bf4ba00a4f79:0x776fad33798aa2db",
+      "data_cid": "8606287849522373339",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b6bf4ba00a4f79%3A0x776fad33798aa2db&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b6bf4ba00a4f79%3A0x776fad33798aa2db&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.2932491,
+        "longitude": -77.56755919999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeU8KoEu_tokR26KKeTOtb3c",
+      "provider_id": "/g/11vj5j9fhw",
+      "rating": 4.7,
+      "reviews": 381,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "5707 Plank Rd, Fredericksburg, VA 22407",
+      "open_state": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "hours": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "operating_hours": {
+        "sunday": "10:30 AM–2 AM",
+        "monday": "10:30 AM–2 AM",
+        "tuesday": "10:30 AM–2 AM",
+        "wednesday": "10:30 AM–2 AM",
+        "thursday": "10:30 AM–2 AM",
+        "friday": "10:30 AM–4 AM",
+        "saturday": "10:30 AM–4 AM"
+      },
+      "phone": "(757) 919-4458",
+      "website": "http://nazshalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vj5j9fhw&g2lbs=AIBNGdWKxXQ5Svkad5bJxkqeeVkx3YyvDTiVrdnYA0UeAOqy067LCzf7cVJpDpmOabkLe7TEevNcaV6iH2_X2FQ2_kJZEwzXQDqbVxY_n-t_-0B6pzHzFPw%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The most delicious halal plate I’ve ever had!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEnNZ2gD6SrQj71iXTyfiJRdjnnofMTIEWacijOBc6ekA7sKZ0UYsqGTHGsMuVRU92ewOmxiqelDn0_kqmEt55PhbRHn5dCoPkzxK4-tcRPHD7u0BHVW-w155dMNA_n5UEGC12TTmfB1g-Ckwp2BVTKfFhSpn-nXsXjdHrL0NN8LzwRb4RtCmsI=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xWh0v3icBcHJcoIwAADQL4osstTO9MBWsCwiBqRenAqBsCVAwoD-aX-k5773-4c5H9m7IPR4v6sprXu0MDQXlHBE-K6gg1CPDIwz3Z6CEZSKjR0S3eTa1i7zudWlJofPqvlKypYQWoXw6Fx_iqY9mYWGOkNn_k1Mv9nkQs9l4ZIl6UFG62nYmgn1NhHv3TQ4XFVj_Eg8opYWjbvX5iuAF0ns2foiml52BaukqmUYGXeipo5rSTKEQ2VKNbC6dZTNDPrVJ76MBJCc5W3pzYEYRW_Ba00eSsKtgR0_VknbA3yQQQcI_QdGo1VK"
+    },
+    {
+      "position": 9,
+      "title": "Shah's Halal Food",
+      "place_id": "ChIJx8lCLymzt4kR-kxS5pDnbgQ",
+      "data_id": "0x89b7b3292f42c9c7:0x46ee790e6524cfa",
+      "data_cid": "319447233115344122",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b3292f42c9c7%3A0x46ee790e6524cfa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b3292f42c9c7%3A0x46ee790e6524cfa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.8511834,
+        "longitude": -77.12590229999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx8lCLymzt4kR-kxS5pDnbgQ",
+      "provider_id": "/g/11tfmrf0ft",
+      "rating": 4.4,
+      "reviews": 640,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "5701 Columbia Pike Suite C, Falls Church, VA 22042",
+      "open_state": "Open · Closes 3 AM · Reopens 10:30 AM",
+      "hours": "Open · Closes 3 AM · Reopens 10:30 AM",
+      "operating_hours": {
+        "sunday": "10:30 AM–3 AM",
+        "monday": "10:30 AM–3 AM",
+        "tuesday": "10:30 AM–3 AM",
+        "wednesday": "10:30 AM–3 AM",
+        "thursday": "10:30 AM–3 AM",
+        "friday": "10:30 AM–3 AM",
+        "saturday": "10:30 AM–3 AM"
+      },
+      "phone": "(571) 347-7316",
+      "website": "https://www.shahshalalfood.com/falls-church-va/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11tfmrf0ft&g2lbs=AIBNGdX5lwGaJ_Bhb5HC0cV3_A3zv81cYtLhe_IHEaeYW4kivnq-ciBuR98YSlD7XV0vHkXC-mMo_LG4opcHIN2I7Jj0ncqpDy-1R6OONGyLu7c8wRlAkHk%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Amazing, Halal food, also friendly staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM-IK6b4Pl1CPQd4QupjJ26lHDF4UzAElhgb703=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sjMBwHicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngq-vpbZZkEpBj6BwQmGISWFqQ5WVkluPh4mYSWuXompORnmRuYGxbbmhkpJthaaSbrZuXDwB9zyAK"
+    },
+    {
+      "position": 10,
+      "title": "Naz's Halal Food - Glen Allen",
+      "place_id": "ChIJbfGFiwJrsYkR-EQ2YVCrU80",
+      "data_id": "0x89b16b028b85f16d:0xcd53ab50613644f8",
+      "data_cid": "14795357562558891256",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b16b028b85f16d%3A0xcd53ab50613644f8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b16b028b85f16d%3A0xcd53ab50613644f8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 37.6535659,
+        "longitude": -77.6083124
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbfGFiwJrsYkR-EQ2YVCrU80",
+      "provider_id": "/g/11m74cmy9z",
+      "rating": 4.5,
+      "reviews": 127,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "11426 W Broad St, Glen Allen, VA 23060",
+      "open_state": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "hours": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "operating_hours": {
+        "sunday": "10:30 AM–2 AM",
+        "monday": "10:30 AM–2 AM",
+        "tuesday": "10:30 AM–2 AM",
+        "wednesday": "10:30 AM–2 AM",
+        "thursday": "10:30 AM–2 AM",
+        "friday": "10:30 AM–4 AM",
+        "saturday": "10:30 AM–4 AM"
+      },
+      "phone": "(703) 278-3510",
+      "website": "https://nazshalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11m74cmy9z&g2lbs=AIBNGdUqBf53VOt58sdpPVgPU8NPqt8SrT2SmUZWFVqtWEZbJ5onsyWeU9B7S1Ya91oHe7DDq6qiO_EAkI6u3a5YObwwxMf5yk2zvDMianYjRZx7C2grCzI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Genuinely the best Halal food and gyros ive had around, like, just great.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEnNZ2gD6SrQj71iXTyfiJRdjnnofMTIEWacijOBc6ekA7sKZ0UYsqGTHGsMuVRU92ewOmxiqelDn0_kqmEt55PhbRHn5dCoPkzxK4-tcRPHD7u0BHVW-w155dMNA_n5UEGC12TTmfB1g-Ckwp2BVTKfFhSpn-nXsXjdHrL0NN8LzwRb4RtCmsI=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xWh0v3icBcHJcoIwAADQL4osstTO9MBWsCwiBqRenAqBsCVAwoD-aX-k5773-4c5H9m7IPR4v6sprXu0MDQXlHBE-K6gg1CPDIwz3Z6CEZSKjR0S3eTa1i7zudWlJofPqvlKypYQWoXw6Fx_iqY9mYWGOkNn_k1Mv9nkQs9l4ZIl6UFG62nYmgn1NhHv3TQ4XFVj_Eg8opYWjbvX5iuAF0ns2foiml52BaukqmUYGXeipo5rSTKEQ2VKNbC6dZTNDPrVJ76MBJCc5W3pzYEYRW_Ba00eSsKtgR0_VknbA3yQQQcI_QdGo1VK"
+    },
+    {
+      "position": 11,
+      "title": "Halal Munchies",
+      "place_id": "ChIJNzWCOgARsYkRwnWVdCVhfxc",
+      "data_id": "0x89b111003a823537:0x177f6125749575c2",
+      "data_cid": "1693178798412232130",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b111003a823537%3A0x177f6125749575c2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b111003a823537%3A0x177f6125749575c2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 37.544344599999995,
+        "longitude": -77.4523564
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNzWCOgARsYkRwnWVdCVhfxc",
+      "provider_id": "/g/11y36r_ttv",
+      "rating": 4.6,
+      "reviews": 573,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Cheesesteak restaurant",
+        "Chicken restaurant",
+        "Chicken wings restaurant",
+        "Fast food restaurant",
+        "Fish restaurant",
+        "Gyro restaurant",
+        "Restaurant",
+        "Rice restaurant",
+        "Sandwich shop"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "cheesesteak_restaurant",
+        "chicken_restaurant",
+        "chicken_wings_restaurant",
+        "fast_food_restaurant",
+        "fish_restaurant",
+        "gyro_restaurant",
+        "restaurant",
+        "rice_restaurant",
+        "sandwich_shop"
+      ],
+      "address": "815 W Cary St, Richmond, VA 23220",
+      "open_state": "Closes soon · 1 AM · Reopens 11 AM",
+      "hours": "Closes soon · 1 AM · Reopens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–1 AM",
+        "monday": "11 AM–1 AM",
+        "tuesday": "11 AM–1 AM",
+        "wednesday": "11 AM–1 AM",
+        "thursday": "11 AM–1 AM",
+        "friday": "11 AM–1 AM",
+        "saturday": "11 AM–1 AM"
+      },
+      "phone": "(571) 222-4195",
+      "website": "http://www.eathalalmunchies.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as Black-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Live music",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        },
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11y36r_ttv&g2lbs=AIBNGdV9_57o7rhhWyDkYHiB5Zy2VCjzBD6HWcrMUvR6m8FRyGWw8VB8IuYHPNyt2mMY4hVzRnzVibwBNMf5Anl_mGdMfi9ktUn1RCnSP_fmG-SIQe3A--0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Halal Munchies was delicious food, amazing service, and welcoming.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEGm8r0BRwHf3e92WQB3XWyz05b2AeTrS-QuLG8CumuDBv57FeI-aLSDSq-4ug57h2BBV9of5h_l3Zpp9cdKlvDWw28_nIkSRfLGFXh3vKCBdL3Buo7YYbKqbhsPZKOAENCVymeYaY844TV1lOp32Iv1j7YPOr6LT_prwhaRhO7lk7wB-OqYUFl=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wRizZnicBcHbckNAAADQL9oIS9CZPlhCDVMJSuTFuCw7tey6V_60P9LnnvP7R5aFz2-CQAk8tYy1FK8znio2LHhYThXrhZbPgE_s5xAMv5YtcnV6bTqjcP9oINal9I7gIz1eZ6WUDBxPEbivvqOZa79aaFNUG7ug8CMrGoG8topKJIQSnTUKySl8cq5XtUc3K90lLR_cLgob37EfBG6eiWofopWpWVZ6Y0nm29MLjOunmRw9zopMk-U4EWnAoeRu4rea3YLp4sc5n3ZShCRQaafuCARj9mXT9128QEB0CXRgYP8GDFOP"
+    },
+    {
+      "position": 12,
+      "title": "Namak Mandi",
+      "place_id": "ChIJ2_DLAxi1t4kRZ17MwWZ7TnM",
+      "data_id": "0x89b7b51803cbf0db:0x734e7b66c1cc5e67",
+      "data_cid": "8308714043813420647",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b51803cbf0db%3A0x734e7b66c1cc5e67&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b51803cbf0db%3A0x734e7b66c1cc5e67&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.8534698,
+        "longitude": -77.13433069999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2_DLAxi1t4kRZ17MwWZ7TnM",
+      "provider_id": "/g/11ll2lnt8x",
+      "rating": 4.2,
+      "reviews": 1778,
+      "price": "$$",
+      "type": "Pakistani restaurant",
+      "types": [
+        "Pakistani restaurant",
+        "Hookah bar",
+        "Middle Eastern restaurant",
+        "Restaurant"
+      ],
+      "type_id": "pakistani_restaurant",
+      "type_ids": [
+        "pakistani_restaurant",
+        "hookah_bar",
+        "middle_eastern_restaurant",
+        "restaurant"
+      ],
+      "address": "5884 Leesburg Pike, Falls Church, VA 22041",
+      "open_state": "Open · Closes 2 AM · Reopens 11 AM",
+      "hours": "Open · Closes 2 AM · Reopens 11 AM",
+      "operating_hours": {
+        "sunday": "11 AM–2 AM",
+        "monday": "11 AM–2 AM",
+        "tuesday": "11 AM–2 AM",
+        "wednesday": "11 AM–2 AM",
+        "thursday": "11 AM–2 AM",
+        "friday": "11 AM–4 AM",
+        "saturday": "11 AM–4 AM"
+      },
+      "phone": "(571) 347-8311",
+      "website": "https://www.namakmandifallschurch.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "All you can eat",
+            "Coffee",
+            "Comfort food",
+            "Halal food",
+            "Happy hour food",
+            "Healthy options",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11ll2lnt8x&g2lbs=AIBNGdXwX_RhaCwqS2EWGTmNl_8B7eeHSPbTCUK7NPk_tSVU5vIaEZKir5mrSylUvvvjBQ19BM0afUP88ynW4vh7yixMF1uqFbSp6t786-umgde2jI8-Xxc%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food was so delicious, everything tasted so authentic and fresh.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzEHefAFwIECsSChoYiR6RetpmBCYitgoea2G1hVTc4K1_o9Abh07lUiu3PFyUhJm-Dv71bwHNWvT111T9vfAt7Tj2mU_hAKG-UWn96jVO6ly7z-YNuXrsUg4mi6fwpEPAlRJ5n=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5zxqinicBcHbDoIgAADQLyKDSmdbD2Rml82aieZTK4dAcXGCuvq_PqK_6ZzflzvX2qXnST6bMGOYpL2lXW20o9pNaqM81lpQW2A9nEyFvHziHW3wdtzHkb1E3FQi8zPqWrWOKuGYoXeUQF7k9fwIbybEDz4NJBH97Lx9E35QYDME8DHu0nLIIYR5ODTYBfkTKXLj-JgAUurQfxYnX76DD6jS_tpZwuZK-M3Yxmcss8NCr0aIEOAhAi-gzR-7lUQU"
+    },
+    {
+      "position": 13,
+      "title": "Taste Of Istanbul",
+      "place_id": "ChIJp9Xr93Q7tokR67JQnYb3rX0",
+      "data_id": "0x89b63b74f7ebd5a7:0x7dadf7869d50b2eb",
+      "data_cid": "9056166583248925419",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b63b74f7ebd5a7%3A0x7dadf7869d50b2eb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b63b74f7ebd5a7%3A0x7dadf7869d50b2eb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.9592171,
+        "longitude": -77.3605911
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp9Xr93Q7tokR67JQnYb3rX0",
+      "provider_id": "/g/11jmzhs665",
+      "rating": 4.6,
+      "reviews": 852,
+      "price": "$20–30",
+      "type": "Turkish restaurant",
+      "types": [
+        "Turkish restaurant"
+      ],
+      "type_id": "turkish_restaurant",
+      "type_ids": [
+        "turkish_restaurant"
+      ],
+      "address": "1862 Explorer St, Reston, VA 20190",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "monday": "11 AM–9:30 PM",
+        "tuesday": "11 AM–9:30 PM",
+        "wednesday": "11 AM–9:30 PM",
+        "thursday": "11 AM–9:30 PM",
+        "friday": "9 AM–12 AM",
+        "saturday": "9 AM–12 AM",
+        "sunday": "9 AM–12 AM"
+      },
+      "phone": "(571) 313-1047",
+      "website": "http://tasteofistanbulcatering.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11jmzhs665&g2lbs=AIBNGdVjEfZJb1e-95KjY2YggWqZzTWhLrWiV5OPp7zbwYgUoabqozCz5YvOwpaMLFsDPrRGMxs3TnMNa2U38FfmPKD-58FIZYcjcpWqmITKLqlZlBA_ZJI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious halal food, clean interior, and very friendly workers!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxjPuBP5TeA69xPA7XSvDTvI5UZZR76vPFr1ibzhM1JKtQynRkTHELSFnVCtyeRu6JEpKpXVJHUvHi88dkLJTw95uZLnU9pPDeLrxYKXRHjmDA0ZjUoGGDlBXYP1p4oInVF5ZRDnQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Niht-XicBcFJDoIwAADAF1UEBcHEA1oBAZNalmCPYsNq29Cy6Ad9g79x5vetlRJyr2l9vVlVnFc9HSUdSs4UZWpV8pdWCQlKCaTm-uumT5YWjUdkptS1nAW5uyKZYDpdzIwQvLMm5A168_jUVz2M1O3NcJcG5zjxWH5Sb4pHKzyLSBR5GGRT0Nj2s4vDdHbMkcQscwSCNB6We1TgoH1Bd03ajPs-7I_FHeliyy8s90yCIbsdZt0wQO0YoAOM_wFAc0S7"
+    },
+    {
+      "position": 14,
+      "title": "Chopan Kabob Express",
+      "place_id": "ChIJTcfnIgCJs4kRwlqLVPIo5h8",
+      "data_id": "0x89b3890022e7c74d:0x1fe628f2548b5ac2",
+      "data_cid": "2298569681084832450",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b3890022e7c74d%3A0x1fe628f2548b5ac2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b3890022e7c74d%3A0x1fe628f2548b5ac2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.0838457,
+        "longitude": -78.4716239
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTcfnIgCJs4kRwlqLVPIo5h8",
+      "provider_id": "/g/11lddnwl8s",
+      "rating": 4.8,
+      "reviews": 230,
+      "price": "$10–20",
+      "type": "Afghan restaurant",
+      "types": [
+        "Afghan restaurant",
+        "Halal restaurant",
+        "Mediterranean restaurant",
+        "Middle Eastern restaurant"
+      ],
+      "type_id": "afghani_restaurant",
+      "type_ids": [
+        "afghani_restaurant",
+        "halal_restaurant",
+        "mediterranean_restaurant",
+        "middle_eastern_restaurant"
+      ],
+      "address": "620 Albemarle Square, Charlottesville, VA 22901",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "11 AM–8 PM",
+        "wednesday": "11 AM–8 PM",
+        "thursday": "11 AM–8 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "11 AM–9 PM",
+        "sunday": "11 AM–8 PM"
+      },
+      "phone": "(434) 465-2167",
+      "website": "http://www.chopankabobexpress.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11lddnwl8s&g2lbs=AIBNGdWfKdixbA7knoyw2P9N4tG6xu4LMq3FvwR1PrHmmbXozEKhIGAYLeP1CdctdwARj-w2Xt-TkKOVrUsIHa7BaVUxIrqkAuJvsiKvCgkng9i1wgeitN8%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"quickly made, very good quality kabob and amazing customer service\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyrsJzsEO94v59ienSftldFM3VpfvBCfP5JbHqP7A0QSz7CBev6Y8eASiP517IIYWZYeZw9MYo27l8h0Hou11X4SVMR4lXFAvxgfejgbFWeXOmyXWemSF_fV3O8eP8QIvfugVTgnQ=w105-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yt-usHicBcFLDoIwFADAE1VAQMDEBRpRTAhgDR83JuJrQUuLttTPBT2Dt3Hm922VGuTcMFhrT6gQlMEo4dEIroCrSSN6gw4SNRJJI9yYHcPvh9x95DoNHO0GHXBMFLtEiV0MRC9XJHN35-0980Izxx9vtQQ9q30IcZe5lhfHdXms4fgMklpMPea35laMllU5uEj2DquiUL8ogSs9RyVUaf-uSuhxdCKFnfqQ-XmsyUiLA-X54mmZLmqDKbohLv4320Tu"
+    },
+    {
+      "position": 15,
+      "title": "Hot and Halal",
+      "place_id": "ChIJezcFlN35tokRCKMMU5_Zi9c",
+      "data_id": "0x89b6f9dd9405377b:0xd78bd99f530ca308",
+      "data_cid": "15531747018233651976",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b6f9dd9405377b%3A0xd78bd99f530ca308&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b6f9dd9405377b%3A0xd78bd99f530ca308&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.5829543,
+        "longitude": -77.32852129999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJezcFlN35tokRCKMMU5_Zi9c",
+      "provider_id": "/g/11xmm2wpbl",
+      "rating": 5,
+      "reviews": 146,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Asian restaurant",
+        "Fast food restaurant",
+        "Middle Eastern restaurant",
+        "Pakistani restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "asian_restaurant",
+        "fast_food_restaurant",
+        "middle_eastern_restaurant",
+        "pakistani_restaurant"
+      ],
+      "address": "17013 Dumfries Rd, Montclair, VA 22025",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "11 AM–12 AM",
+        "wednesday": "11 AM–12 AM",
+        "thursday": "11 AM–12 AM",
+        "friday": "11 AM–12 AM",
+        "saturday": "11 AM–12 AM",
+        "sunday": "11 AM–12 AM"
+      },
+      "phone": "(571) 456-0100",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Delivery",
+            "Drive-through",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11xmm2wpbl&g2lbs=AIBNGdUsSEA7I4n1UYJEboqupH8Xf-9znELlNey9eAbJCoh5F06OSUIAYaT3lhUJeCXPXVChIbkOB4tyalcRmgXPxiZPVJ2Bw7cpmWRZW-7BZcxMvjb7cZw%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Hot & Halal offers tasty food, a nice atmosphere and great customer service!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPBFA6gE467dmUxZ-2yVeM-eRDQ51XrlULsadyv=w115-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4dS8THicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQ4OTmaJbuamJmnpIbWhGla1QZluqrmxrkEmhqGFGUE-pTnJhSWWZbbmhoqpthaaSbrZuXDwCK4yDK"
+    },
+    {
+      "position": 16,
+      "title": "Flavor United",
+      "place_id": "ChIJs_8pR321t4kRtxMP8noHtqI",
+      "data_id": "0x89b7b57d4729ffb3:0xa2b6077af20f13b7",
+      "data_cid": "11724566904534143927",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7b57d4729ffb3%3A0xa2b6077af20f13b7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7b57d4729ffb3%3A0xa2b6077af20f13b7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.896626499999996,
+        "longitude": -77.1330169
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs_8pR321t4kRtxMP8noHtqI",
+      "provider_id": "/g/11ylcrxvpt",
+      "rating": 4.8,
+      "reviews": 62,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "5169 Langston Blvd., Arlington, VA 22207",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10:30 PM",
+        "saturday": "10 AM–10:30 PM",
+        "sunday": "10 AM–10:30 PM"
+      },
+      "phone": "(703) 539-0222",
+      "website": "https://flavorunited.us/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11ylcrxvpt&g2lbs=AIBNGdWdqAHVIAJsI8QqGPcgSmVu3hu-s1R_soF2xkA0frRTqNTBs7STF3IK15ODAzFWwMgJMQeAaf30OwfO-Lgjj5nvNx5ailmrlMd4rFwf5D8h9f24urM%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great food, great people and great prices.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHBYMAzqFL1y3N8xb2oxysJtJ3wQ18NJcF6okgehCzs1o5xcMSd4AceojJfQQKfe45-gwKYtm_MUhfe9eikADu7Ct_Dfn7Zc0Fh4yog57gC28PDKqQ0lbrYwQEKI2bG2qrP5FTATBsO6O4mkShFn--e4GIwUvSWDE6cWyujXFsH_pwl6XtH5kU=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uiHml3icDclLcoIwAADQE0UEwsfOdIFgRBCVQUbphhliSCqfAAkFvKkH6b592_f-ZVJ24kNRaqavKOe0JqMgA-atJK1cYd4otBOgG_i8KM7xAT3mb7PIefXoqC76yZ4L7b9EIAN9ilX7FGBk8ooS5r6Eyo0ZR8kDOpjwZ1DGcVgSaAA6hZls8ihlJdmQ78rxRsuVuVe21hdeIwYXTg2Lupp98cI-XtfFkE3xLjxoxV7rh4uBrs51K87mGTZVwlALAIH7w5T-JDdvZ-LbMj7vSPh5N9XmXfpGlX5OqqkDttFABVr-B8D_VN4"
+    },
+    {
+      "position": 17,
+      "title": "Shah's Halal Food",
+      "place_id": "ChIJXy1GIG5ntokRJWMq0fN5a3w",
+      "data_id": "0x89b6676e20462d5f:0x7c6b79f3d12a6325",
+      "data_cid": "8965393571304334117",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b6676e20462d5f%3A0x7c6b79f3d12a6325&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b6676e20462d5f%3A0x7c6b79f3d12a6325&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.8142141,
+        "longitude": -77.6380886
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXy1GIG5ntokRJWMq0fN5a3w",
+      "provider_id": "/g/11x1r6s3t8",
+      "rating": 4.8,
+      "reviews": 267,
+      "price": "$10–20",
+      "type": "Fast food restaurant",
+      "types": [
+        "Fast food restaurant",
+        "Family restaurant",
+        "Food court",
+        "Halal restaurant",
+        "Restaurant"
+      ],
+      "type_id": "fast_food_restaurant",
+      "type_ids": [
+        "fast_food_restaurant",
+        "family_restaurant",
+        "food_court",
+        "halal_restaurant",
+        "restaurant"
+      ],
+      "address": "6617 Watts Rd, Haymarket, VA 20169",
+      "open_state": "Open · Closes 3 AM · Reopens 10 AM",
+      "hours": "Open · Closes 3 AM · Reopens 10 AM",
+      "operating_hours": {
+        "sunday": "10 AM–3 AM",
+        "monday": "10 AM–3 AM",
+        "tuesday": "10 AM–3 AM",
+        "wednesday": "10 AM–3 AM",
+        "thursday": "10 AM–3 AM",
+        "friday": "10 AM–3 AM",
+        "saturday": "10 AM–3 AM"
+      },
+      "phone": "(703) 574-5030",
+      "website": "https://www.shahshalalfood.com/haymarket-va/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Late-night food",
+            "Quick bite",
+            "Salad bar",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11x1r6s3t8&g2lbs=AIBNGdX9gUrCdAfywP25tOQi3qAZY2_7uo8vnPi4THKC89LfloxM54gWptkR0qk4ZPuRpKHaaprB_D3oMMN82SrzDtKJX_5vDrvcLbiJMCRWJ3NAfLRSlqE%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"I had the cheeseburger at Shah’s Halal and it was delicious!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMVUxfT3pf14nEsOBMRrnYbt3mpaAhT3G8_A6rn=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wbF-7nicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngGxZakRZiXJBmaJLnWuzv5BtUlBeZVGKcW5DomBFi7G4R72hWlGdbbmhkpJthaaSbrZuXDwCs7iFK"
+    },
+    {
+      "position": 18,
+      "title": "Shah's Halal Food Alexandria",
+      "place_id": "ChIJ9QPiYcGvt4kR4WMQ-mLlBdc",
+      "data_id": "0x89b7afc161e203f5:0xd705e562fa1063e1",
+      "data_cid": "15494042306302993377",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b7afc161e203f5%3A0xd705e562fa1063e1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b7afc161e203f5%3A0xd705e562fa1063e1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.734330799999995,
+        "longitude": -77.0999497
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9QPiYcGvt4kR4WMQ-mLlBdc",
+      "provider_id": "/g/11tp4h_q25",
+      "rating": 4.8,
+      "reviews": 810,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "8256b Richmond Hwy, Alexandria, VA 22309",
+      "open_state": "Closes soon · 1 AM · Reopens 10 AM",
+      "hours": "Closes soon · 1 AM · Reopens 10 AM",
+      "operating_hours": {
+        "sunday": "10 AM–1 AM",
+        "monday": "10 AM–1 AM",
+        "tuesday": "10 AM–1 AM",
+        "wednesday": "10 AM–1 AM",
+        "thursday": "10 AM–1 AM",
+        "friday": "10 AM–3 AM",
+        "saturday": "10 AM–3 AM"
+      },
+      "phone": "(703) 891-0987",
+      "website": "https://www.shahshalalfood.com/shahs-halal-alexandria-va/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11tp4h_q25&g2lbs=AIBNGdVpNZXmZ6Sqv74d_EUPRDge6q4KLqCh7g4PzrRC1dQkq71Q0MInPePtc42IH6_vkayg3RE5awGUZJ6FiL5TUHpWWU-hIPTqT0nUKuD02enFBuEBf08%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Halal delicious food with best customer service and reasonable price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzV8q6QPTmEW6OF7KPBLYbFEMzDX_HFCzcZ8_NTnu3mbG85eH6jyXhMm3f7zZV1fT91_1mjxRmuM1-NzYiWwUsed7jysviLwQPPusk9fleTVJNdqZrFivfdH09VDjEuSINitJfj=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0wWmSXicBcFLcoIwAADQE0UMTPl0xoUtILWCqBSRDTNCAomEqElEcj8P4W363vvVSXkVn4bRd9as5bztkRLoXvNBokHOas6M9ipALYAwlqs56Q86d2_2Ls1YcLS3ofObfm1O5zCItV9UUfit69KtkmxQFjuv3A8U2XQquphZ2NFlDnHmwQoy-twzFUOQ6BM5jn8CNQ6dxINsxl2aKnHxcI-yfJ00t_IekgduormX-zRQh5-EyDWmixGaJug8E1zAwP8BwBZFTg"
+    },
+    {
+      "position": 19,
+      "title": "Basically Halal",
+      "place_id": "ChIJd6RgL4pzsYkRo70bLwrBBAE",
+      "data_id": "0x89b1738a2f60a477:0x104c10a2f1bbda3",
+      "data_cid": "73395743428951459",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b1738a2f60a477%3A0x104c10a2f1bbda3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b1738a2f60a477%3A0x104c10a2f1bbda3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 37.4972788,
+        "longitude": -77.5704944
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd6RgL4pzsYkRo70bLwrBBAE",
+      "provider_id": "/g/11scks9xmx",
+      "rating": 4.7,
+      "reviews": 619,
+      "price": "$10–20",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant"
+      ],
+      "address": "316 N Arch Rd Ste A, Richmond, VA 23236",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "11 AM–9 PM",
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "2–9 PM",
+        "saturday": "11 AM–9 PM",
+        "sunday": "11 AM–9 PM"
+      },
+      "phone": "(804) 924-4149",
+      "website": "http://www.basicallyhalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great dessert",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11scks9xmx&g2lbs=AIBNGdWiDDj3_CI28pcaIyXLWDe2e-i3I4H4yPNwA3cPSY2iYCWA7aSLYLzpQx0rc0YACVPsP_k-Zo2e6S4O3KpMYqPh9nItG8dzhCz6bV00ZapO4NFct7U%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food is halal with friendly people working and good service.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyid_LuOv66COF7Xa3c6DTl7CwnJgOFsG3_oEHqL-2CjlAZb330rrQTKmnVwihVyE0K-ej84LCB96PSKzhpf58WWCIBxQMLkVtkgiwP5GqizQT4iCpGhckBcy8sWYXy2ayoCjQ0BQ=w171-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KgOBCnicBcFRkoIgAADQE5EmpdZMH8mWlTbG5Gi7P01LBiiBCWV0wc7QbXrv82bGtHrqOILBAVWKiuquq44oaSppBkRdHdpqQDTQzjx2udhbfj6m9-zh-yhbBocTJP5PLgLUyw3NljqGR7VY3VLgoVrM__4hdLsO58lVFj1nhV24CajqcJSiaOLv9smLtZdxWJZoHT3xNm0K01De78bxjb9wPuKojRlpImJDXf4erHeyCtXYjfCsHwZDwCYeaIBUXwzVRLc"
+    },
+    {
+      "position": 20,
+      "title": "Naz's Halal Food - Woodbridge",
+      "place_id": "ChIJFSscAe9XtokRfBzvlmwMQns",
+      "data_id": "0x89b657ef011c2b15:0x7b420c6c96ef1c7c",
+      "data_cid": "8881675075656293500",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x89b657ef011c2b15%3A0x7b420c6c96ef1c7c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x89b657ef011c2b15%3A0x7b420c6c96ef1c7c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 38.6401841,
+        "longitude": -77.3013222
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFSscAe9XtokRfBzvlmwMQns",
+      "provider_id": "/g/11vpsbmd7d",
+      "rating": 3.7,
+      "reviews": 227,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "14230 Smoketown Rd, Woodbridge, VA 22192",
+      "open_state": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "hours": "Open · Closes 2 AM · Reopens 10:30 AM",
+      "operating_hours": {
+        "sunday": "10:30 AM–2 AM",
+        "monday": "10:30 AM–2 AM",
+        "tuesday": "10:30 AM–2 AM",
+        "wednesday": "10:30 AM–2 AM",
+        "thursday": "10:30 AM–2 AM",
+        "friday": "10:30 AM–4 AM",
+        "saturday": "10:30 AM–4 AM"
+      },
+      "phone": "(757) 346-1373",
+      "website": "https://nazshalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vpsbmd7d&g2lbs=AIBNGdU8hoIWWwZSxSKRlvHLJGlUGj4yQ19CVQMPj2WGREcmhBSO3hXgY4O_Wo1ydci43QUusv50fM2KRTZQIHzFqOOj3vrRHMa_V3ss0-b_18kC_PDDynk%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=JI1kaboXz9fk2g-T_5dJ&ei=JI1kaboXz9fk2g-T_5dJ&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Naz’s Halal is really good, and they give you a lot of food for the price.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEnNZ2gD6SrQj71iXTyfiJRdjnnofMTIEWacijOBc6ekA7sKZ0UYsqGTHGsMuVRU92ewOmxiqelDn0_kqmEt55PhbRHn5dCoPkzxK4-tcRPHD7u0BHVW-w155dMNA_n5UEGC12TTmfB1g-Ckwp2BVTKfFhSpn-nXsXjdHrL0NN8LzwRb4RtCmsI=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xWh0v3icBcHJcoIwAADQL4osstTO9MBWsCwiBqRenAqBsCVAwoD-aX-k5773-4c5H9m7IPR4v6sprXu0MDQXlHBE-K6gg1CPDIwz3Z6CEZSKjR0S3eTa1i7zudWlJofPqvlKypYQWoXw6Fx_iqY9mYWGOkNn_k1Mv9nkQs9l4ZIl6UFG62nYmgn1NhHv3TQ4XFVj_Eg8opYWjbvX5iuAF0ns2foiml52BaukqmUYGXeipo5rSTKEQ2VKNbC6dZTNDPrVJ76MBJCc5W3pzYEYRW_Ba00eSsKtgR0_VknbA3yQQQcI_QdGo1VK"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=halal+restaurant+Ota&start=20&type=search"
+  }
+}

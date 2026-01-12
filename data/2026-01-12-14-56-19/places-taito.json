@@ -1,0 +1,1574 @@
+{
+  "search_metadata": {
+    "id": "69648d365b92f85d8ddd8839",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/15d686b9c268e7d0/69648d365b92f85d8ddd8839.json",
+    "created_at": "2026-01-12 05:57:10 UTC",
+    "processed_at": "2026-01-12 05:57:10 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Taito//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/e8433740e4a3f388/69648d365b92f85d8ddd8839.html",
+    "prettify_html_file": "https://serpapi.com/searches/b7675d6511b706fd/69648d365b92f85d8ddd8839.prettify",
+    "total_time_taken": 0.87
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Taito",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "halal restaurant Taito"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "HALAL SAKURA",
+      "place_id": "ChIJn4ii2YCOGGARnj3-PUaZ_Qg",
+      "data_id": "0x60188e80d9a2889f:0x8fd99463dfe3d9e",
+      "data_cid": "647842448378051998",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188e80d9a2889f%3A0x8fd99463dfe3d9e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188e80d9a2889f%3A0x8fd99463dfe3d9e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.725089,
+        "longitude": 139.77722
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn4ii2YCOGGARnj3-PUaZ_Qg",
+      "provider_id": "/g/11bwny9x8t",
+      "rating": 4.4,
+      "reviews": 688,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Uzbeki restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "uzbek_restaurant"
+      ],
+      "address": "ルート根岸第２ビル 1F・2F, 2 Chome-18-11 Negishi, Taito City, Tokyo 110-0003, Japan",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "monday": "12–9 PM",
+        "tuesday": "12–9 PM",
+        "wednesday": "12–9 PM",
+        "thursday": "12–9 PM",
+        "friday": "12–9 PM",
+        "saturday": "12–9 PM",
+        "sunday": "12–9 PM"
+      },
+      "phone": "+81 3-6802-3171",
+      "website": "https://halalbento.jp/pages/about",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Happy hour food",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11bwny9x8t&g2lbs=AIBNGdVinWwaqAlotfHrLEBJKFgU1RBhslVS98b1gK8mGf1PZOUgruOA51BO2vXSjkZNKYEsRodWLXHcz_0Bn2-Eat-iPFbKHJJ2BWcHVj7xJzXmYG3ZGas%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=No1kad6uIMSxwt0Pmr_HsQs&ei=No1kad6uIMSxwt0Pmr_HsQs&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Great food with great price and it is halal  🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🫡🫡🫡🫡🤩🤩❤️❤️❤️❤️❤️🌷🌷🌷🌷💪\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxEvIJd51T1yJOK7vCJxybBlFpkqFn50M9_-uH6u0cHBvJ5P0AH8AJa9tIc00Dw2FqDVdfmzg9HpVUYfQUy7pxg1qHnhFJfi8WRr8199mabRAZ5MOqN7FSKFtVPGE4M7_r_R-E=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zbsbUXicBcFRboIwAADQE1VaFaFL_ECl1hqmomC2H6IVihHaQgvCzrdL7DZ77--3tFabD8epytlEKCWqvDN5y5W0ubQTrmpHaAO4AcYJtvBZnYew37GHiy5oZIe916_ZMN5XFdGvhkgXRjgDHV10kNNVz9wjDKgfsBu2Ow7h5j0lzSZ9FPWPwFSnyVdxSkZPDwI1VJaEFU__Grc-wri-3ePg240OzadHznti0-M2nEde1mYxCJdvtJiBEk_BC0j1D_rrQio"
+    },
+    {
+      "position": 2,
+      "title": "Halal Wagyu Yakiniku Panga",
+      "place_id": "ChIJ9bFAjKSOGGARqsl1Ru2ZQs0",
+      "data_id": "0x60188ea48c40b1f5:0xcd4299ed4675c9aa",
+      "data_cid": "14790553370606553514",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188ea48c40b1f5%3A0xcd4299ed4675c9aa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188ea48c40b1f5%3A0xcd4299ed4675c9aa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.704854,
+        "longitude": 139.781011
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9bFAjKSOGGARqsl1Ru2ZQs0",
+      "provider_id": "/g/1wj_t882",
+      "rating": 4.8,
+      "reviews": 3642,
+      "price": "$$",
+      "type": "Yakiniku restaurant",
+      "types": [
+        "Yakiniku restaurant",
+        "Halal restaurant"
+      ],
+      "type_id": "yakiniku_restaurant",
+      "type_ids": [
+        "yakiniku_restaurant",
+        "halal_restaurant"
+      ],
+      "address": "3 Chome-27-9 Taito, Taito City, Tokyo 110-0016, Japan",
+      "open_state": "Closed · Opens 5 PM",
+      "hours": "Closed · Opens 5 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–2 PM, 5–11 PM",
+        "tuesday": "11:30 AM–2 PM, 5–11 PM",
+        "wednesday": "11:30 AM–2 PM, 5–11 PM",
+        "thursday": "11:30 AM–2 PM, 5–11 PM",
+        "friday": "11:30 AM–2 PM, 5–11 PM",
+        "saturday": "11:30 AM–2 PM, 5–11 PM",
+        "sunday": "5–11 PM"
+      },
+      "phone": "+81 3-3839-8929",
+      "website": "http://www.wagyu-panga.jp/",
+      "description": "Halal eatery for Japanese grilled meats. Elegant venue serving halal beef strips grilled Japanese-style at the table, plus Korean sides.",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Braille menu",
+            "Coffee",
+            "Halal food",
+            "Organic dishes",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "dBarai",
+            "Debit cards",
+            "NFC mobile payments",
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "user_review": "\"... Service, Food.. The best I had during my stay in Tokyo and it’s Halal\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMipngYDgMhAHCQNjmxTjli9valpEbftylWhu_d=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ueJjNXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngm1mQlx7pku6b4ejhHOiXlVsRkpWTaVmWmFPgmpRWUpkTnlEan2JbbmhkpJthaaSbrZuXDwDUayLB"
+    },
+    {
+      "position": 3,
+      "title": "Halal Japanese Curry Yoshi's Passion",
+      "place_id": "ChIJhcYiIYePGGARiWBpges41k8",
+      "data_id": "0x60188f872122c685:0x4fd638eb81696089",
+      "data_cid": "5752848158152024201",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f872122c685%3A0x4fd638eb81696089&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f872122c685%3A0x4fd638eb81696089&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7167689,
+        "longitude": 139.79665409999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhcYiIYePGGARiWBpges41k8",
+      "provider_id": "/g/11w95qdnj1",
+      "rating": 4.7,
+      "reviews": 543,
+      "price": "¥3,000–4,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "3 Chome-22-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM",
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM"
+      },
+      "phone": "+81 3-6802-4446",
+      "website": "https://www.yoshispassioncurry.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Rakuten Pay",
+            "Transit IC cards"
+          ]
+        },
+        {
+          "parking": [
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"This halal Japanese curry was packed with flavor and incredibly satisfying.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxyPXRlhQQ0M4-MScrNsOtz1s2P0Qm1yv2se9Y4L0J8k_adgijkHPhLvbPlqAIZQfc2hsFKj2uyZEAF6gJiTN6BqqBDlKlDGG7hltrBKbxBS1s7tlLR1I_gwrdk9j6EAlL1KrZ2gAYZSAKe=w154-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bz6yonicBcFbcoIwFADQFUVISrF0ph9hVKpBC9KPyo9TY5oAVyK58UH36AK6m57z9zDen_E1CMA8TbS1GtQFlZO296r3E2lPgT4jkUgw4FnYQHUfi68tmLIM1xFZV9Jt8MP_UmRFWJ7oeGWokl2Uh6uXbv991E3bvRcmvx4KGPiyLn8kM7gQLbuM9ZwvYr1qPjdxOgzpDATMsmxqwLtUHO5pRXHqId_S5V7f3LFL2njOIafC1UzzXV1xod5u9DkiJmGkI739BxtnRyA"
+    },
+    {
+      "position": 4,
+      "title": "Saray Kebab NishiAsakusa",
+      "place_id": "ChIJgSshor-OGGARwzt8POlFAD4",
+      "data_id": "0x60188ebfa2212b81:0x3e0045e93c7c3bc3",
+      "data_cid": "4467647698396003267",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188ebfa2212b81%3A0x3e0045e93c7c3bc3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188ebfa2212b81%3A0x3e0045e93c7c3bc3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7126628,
+        "longitude": 139.7920172
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgSshor-OGGARwzt8POlFAD4",
+      "provider_id": "/g/1tf6gmzl",
+      "rating": 4,
+      "reviews": 721,
+      "price": "¥1–1,000",
+      "type": "Doner kebab restaurant",
+      "types": [
+        "Doner kebab restaurant",
+        "Kebab shop",
+        "Delivery Restaurant",
+        "Takeout Restaurant",
+        "Modern izakaya restaurant",
+        "Restaurant",
+        "Turkish restaurant"
+      ],
+      "type_id": "doner_kebab_restaurant",
+      "type_ids": [
+        "doner_kebab_restaurant",
+        "kebab_shop",
+        "meal_delivery",
+        "meal_takeaway",
+        "mordern_izakaya_restaurants",
+        "restaurant",
+        "turkish_restaurant"
+      ],
+      "address": "2 Chome-14-18 Nishiasakusa, Taito City, Tokyo 111-0035, Japan",
+      "open_state": "Open · Closes 2 AM",
+      "hours": "Open · Closes 2 AM",
+      "operating_hours": {
+        "monday": "10 AM–2 AM",
+        "tuesday": "10 AM–2 AM",
+        "wednesday": "10 AM–2 AM",
+        "thursday": "10 AM–2 AM",
+        "friday": "10 AM–2 AM",
+        "saturday": "10 AM–2 AM",
+        "sunday": "10 AM–2 AM"
+      },
+      "phone": "+81 3-3844-1370",
+      "website": "http://www.saray.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Halal food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments",
+            "PayPay",
+            "Rakuten Pay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tf6gmzl&g2lbs=AIBNGdWhnCO8nKBfR2oxFkig41ac48ePTisCaAExcD4olY6epw4x8OZXUJ_SL_6u7A4NV-AP70hyn57PkIj9lrizLuyU-HS9CyEhder-IPmHfurGCYvkn6E%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=No1kad6uIMSxwt0Pmr_HsQs&ei=No1kad6uIMSxwt0Pmr_HsQs&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Really good halal food and the workers were really friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxMaFmPAcdJ0bdV1-_PEKlfcxKQrz0IoMfL7dxxHFxOdah1k2CUbrufZc2TtksKXdIcnIIforQ4mF0-gbWWRKKhxSEctSnMf_XCoUF8UTH33qg3BmSB-Vj516RSib48EZ5e-hjd=w80-h142-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gyfHOHicBcHdDsEwGADQJ_qs-8EicYFsTC1-aogbsXZt2dayVjTez0N4G-f8vtLahxl5XiPDntBaNNXLVB3VylbK9qhuPfEwQA0YbzJHt4a4_Jq2mwllS1Sygw-XTYIbTh3edh-U6Zyvhsy5RerW7Cr9OpgVZffiZxrsbW3wiWVUZRnX3TZqUwSiPB53GEtHEmqJyvnlNNNFGhf7RRg-RThtyRQO974_2JFbGcXJuV-BvLPxO0Yg_SiAGpT-A_Y1RCM"
+    },
+    {
+      "position": 5,
+      "title": "Sankyu Halal Ramen Japanese Food Asakusa",
+      "place_id": "ChIJQf_2WACPGGARDixR6AZQHz8",
+      "data_id": "0x60188f0058f6ff41:0x3f1f5006e8512c0e",
+      "data_cid": "4548442139265149966",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f0058f6ff41%3A0x3f1f5006e8512c0e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f0058f6ff41%3A0x3f1f5006e8512c0e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7137885,
+        "longitude": 139.7906122
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQf_2WACPGGARDixR6AZQHz8",
+      "provider_id": "/g/11y7_5bby_",
+      "rating": 4.9,
+      "reviews": 541,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Japanese restaurant",
+        "Ramen restaurant",
+        "Restaurant",
+        "Vegan restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "japanese_restaurant",
+        "ramen_restaurant",
+        "restaurant",
+        "vegan_restaurant"
+      ],
+      "address": "高橋ビル 1f, 2 Chome-25-7 Nishiasakusa, Taito City, Tokyo 111-0035, Japan",
+      "open_state": "Closes soon · 3 PM · Reopens 5 PM",
+      "hours": "Closes soon · 3 PM · Reopens 5 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–3 PM, 5–8:30 PM",
+        "tuesday": "11:30 AM–3 PM, 5–8:30 PM",
+        "wednesday": "11:30 AM–3 PM, 5–8:30 PM",
+        "thursday": "11:30 AM–3 PM, 5–8:30 PM",
+        "friday": "11:30 AM–3 PM, 5–8:30 PM",
+        "saturday": "11:30 AM–3 PM, 5–8:30 PM",
+        "sunday": "11:30 AM–3 PM, 5–8:30 PM"
+      },
+      "phone": "+81 70-3209-0607",
+      "website": "https://www.sankyu.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Private dining room",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "au PAY",
+            "Credit cards",
+            "dBarai",
+            "Debit cards",
+            "PayPay",
+            "Rakuten Pay",
+            "Transit IC cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11y7_5bby_&g2lbs=AIBNGdULSKo6GT3MYDy_KsUysxvHEIUf4UDLDSN2gVn2NFAhDN83Uhf_R59BD11g4041hvsYgcfLlf-xSOEHALjeGO73RLA0qBcvRh2dPrqBSGezesa1jcI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=No1kad6uIMSxwt0Pmr_HsQs&ei=No1kad6uIMSxwt0Pmr_HsQs&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"100% halal ramen with big portion, affordable price, good service and tasty.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNOgPl8Q7dSuAeklhidfYsRor_AnvB1oEb8MuEf=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OSb4znicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng558ekGMRaJ4SXOqYmp2TkZmSFlkclF8U75hX5mSY75pk4VvqmmZbbmhkpJthaaSbrZuXDwC_viHs"
+    },
+    {
+      "position": 6,
+      "title": "Wagyu Yakiniku PANGA Asakusa | Tokyo Halal restaurant",
+      "place_id": "ChIJdzczsDuPGGARHhw2tyh5Dt0",
+      "data_id": "0x60188f3bb0333777:0xdd0e7928b7361c1e",
+      "data_cid": "15928802147835452446",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f3bb0333777%3A0xdd0e7928b7361c1e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f3bb0333777%3A0xdd0e7928b7361c1e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.710158299999996,
+        "longitude": 139.79790269999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdzczsDuPGGARHhw2tyh5Dt0",
+      "provider_id": "/g/11v15j3p9q",
+      "rating": 4.9,
+      "reviews": 2200,
+      "price": "¥10,000+",
+      "type": "Yakiniku restaurant",
+      "types": [
+        "Yakiniku restaurant",
+        "Halal restaurant"
+      ],
+      "type_id": "yakiniku_restaurant",
+      "type_ids": [
+        "yakiniku_restaurant",
+        "halal_restaurant"
+      ],
+      "address": "4F, 2 Chome-1-13 Kaminarimon, Taito City, Tokyo 111-0034, Japan",
+      "open_state": "Closed · Opens 4:30 PM",
+      "hours": "Closed · Opens 4:30 PM",
+      "operating_hours": {
+        "monday": "4:30–10:30 PM",
+        "tuesday": "4:30–10:30 PM",
+        "wednesday": "4:30–10:30 PM",
+        "thursday": "4:30–10:30 PM",
+        "friday": "4:30–10:30 PM",
+        "saturday": "4:30–10:30 PM",
+        "sunday": "4:30–10:30 PM"
+      },
+      "phone": "+81 3-6231-6229",
+      "website": "https://sites.google.com/view/halalwagyuyakiniku-asakusa/home",
+      "extensions": [
+        {
+          "service_options": [
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Halal food",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Smoke-free place"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Rakuten Pay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": false,
+        "delivery": false
+      },
+      "user_review": "\"Simply delicious HALAL Wagyu meal with such pleasant and courteous staff.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxRTSAMHeuEgLnw_dzV-YaNmMfhcoNczwTLe46V-IDRGW7xf-SyW2IwKbp7XXw8mRAAjQiu8g_WY59h_GbqPbu1wFlQ--p1PviLMklF5R4mkAoGBuF7ykyqG-aL46CKD3fjYAaihUY7Wct3=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0qK2rXicBcFbcoIwFADQFV0pD0U704-oJXUER8GKfDGQhgQJBJukEffYBXQ3Pefvl2s9qlfHEdyfMSmZoEbRbyIHTQc9I7J32KiAKFAOwi-tyB7pOUPJBzXvLB5s-fW8QFEd-qThRB7I055jGiwusNumOA8fDWRT7u3svh7D69Uu-xSh26k1S1bmxXzFS1zfj7VxbSROAKN7_GnjpBPRPA36Dkm8NlE4ddMdQxUHi81-6ze3AlUt_yzCnGj_zbqeB3zlQQeD_Ac65kcj"
+    },
+    {
+      "position": 7,
+      "title": "Sankyu Halal Ramen Japanese Food Ueno",
+      "place_id": "ChIJl9d-WgCNGGARWRcsm_VwucU",
+      "data_id": "0x60188d005a7ed797:0xc5b970f59b2c1759",
+      "data_cid": "14247543096335931225",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d005a7ed797%3A0xc5b970f59b2c1759&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d005a7ed797%3A0xc5b970f59b2c1759&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.705718999999995,
+        "longitude": 139.7712333
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl9d-WgCNGGARWRcsm_VwucU",
+      "provider_id": "/g/11vwkndt8z",
+      "rating": 4.9,
+      "reviews": 841,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Japanese restaurant",
+        "Ramen restaurant",
+        "Restaurant",
+        "Vegan restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "japanese_restaurant",
+        "ramen_restaurant",
+        "restaurant",
+        "vegan_restaurant"
+      ],
+      "address": "Japan, 〒110-0005 Tokyo, Taito City, Ueno, 1 Chome−2−9 １階",
+      "open_state": "Closes soon · 3 PM · Reopens 5 PM",
+      "hours": "Closes soon · 3 PM · Reopens 5 PM",
+      "operating_hours": {
+        "monday": "12–3 PM, 5–9 PM",
+        "tuesday": "12–3 PM, 5–9 PM",
+        "wednesday": "12–3 PM, 5–9 PM",
+        "thursday": "12–3 PM, 5–9 PM",
+        "friday": "12–3 PM, 5–9 PM",
+        "saturday": "12–3 PM, 5–9 PM",
+        "sunday": "12–3 PM, 5–9 PM"
+      },
+      "phone": "+81 80-7850-3185",
+      "website": "https://www.sankyu.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "au PAY",
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vwkndt8z&g2lbs=AIBNGdXqzBwYKd5GiLAoNlkxpZvE8WdrBidf2G19aOqfOMbZ-XIdF38KXD6U6Zm-c9amWf-pNVwWTWpyvEgPOTEw5oJevudpucyjNKnhCYtPjsKjsqIwELw%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=No1kad6uIMSxwt0Pmr_HsQs&ei=No1kad6uIMSxwt0Pmr_HsQs&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The best halal food in all of Tokyo and also it was incredible value\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMEWJQmFlMK4hHrpdvoHGgqZnIlRngimjq-UTcK=w138-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Xz5qeHicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng6xruFZjrluPrbZLhUVSQUpbv4Z5eGJXnmROUl56Zm1WoGxqS7G1bbmhsoZthaaSbrZuXDwC9piII"
+    },
+    {
+      "position": 8,
+      "title": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo",
+      "place_id": "ChIJF6THDR-PGGAR98Co847dv-E",
+      "data_id": "0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7",
+      "data_cid": "16266963985128538359",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f1f0dc7a417%3A0xe1bfdd8ef3a8c0f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f1f0dc7a417%3A0xe1bfdd8ef3a8c0f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7115576,
+        "longitude": 139.7923481
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF6THDR-PGGAR98Co847dv-E",
+      "provider_id": "/g/11x6jhp4d6",
+      "rating": 4.8,
+      "reviews": 1737,
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Ramen restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "ramen_restaurant"
+      ],
+      "address": "YNビル 2F, 1 Chome-10-2 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–10 PM",
+        "tuesday": "11:30 AM–10 PM",
+        "wednesday": "11:30 AM–10 PM",
+        "thursday": "11:30 AM–10 PM",
+        "friday": "11:30 AM–10 PM",
+        "saturday": "11:30 AM–10 PM",
+        "sunday": "11:30 AM–10 PM"
+      },
+      "phone": "+81 3-5246-4366",
+      "website": "https://www.halal-shinjukutei.com/asakusa-store",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "user_review": "\"Authentic Halal Ramen in Tokyo with Muslim Prayer Room 👍🏻\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwrA86cDcPZUX61TtdgRhr9Isu7KXNf6Gv1tpKkgAMzmy99WIznkM4Ogb9II9n-C0HLVLClqa6GyopyzYCsdTGLdB7-zwEK2R5FkNkf1tV-U3Euwo3Z6MrDqYnqlQKwGo7XfSMjkNEZQ31n=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_6rFxnicBcFLcoMgAADQExGDNlg604U1hjh-2vyNuxYVEwioYBm9Yw7Q2_S9v2drTKffHEe03oIpxUQ96nqgSppamgVVD4d1GlANtBOQ5U0c7BC8IrqmX-WpQPBoKrZvBxzr0U-KvEHkF5ou4SzI5seE8SWeJc9ePtkPjmMsQbjcpuc0FP03IpPqpvka6upI0urDB7ONEne_2vCcN9CcwcmLRqu8EmXDur_KXuwSS5RfNIfszvOo3HlQvlvouqDFLuBAqn_7UEb2"
+    },
+    {
+      "position": 9,
+      "title": "The Kebab Factory",
+      "place_id": "ChIJXVK0u8aOGGAR6Fwqi2zpklg",
+      "data_id": "0x60188ec6bbb4525d:0x5892e96c8b2a5ce8",
+      "data_cid": "6382420274337963240",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188ec6bbb4525d%3A0x5892e96c8b2a5ce8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188ec6bbb4525d%3A0x5892e96c8b2a5ce8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.711650299999995,
+        "longitude": 139.79756039999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXVK0u8aOGGAR6Fwqi2zpklg",
+      "provider_id": "/g/11c1wwtr1s",
+      "rating": 4.1,
+      "reviews": 469,
+      "price": "¥1–1,000",
+      "type": "Kebab shop",
+      "types": [
+        "Kebab shop",
+        "Cafe",
+        "Halal restaurant",
+        "Ice cream shop",
+        "Restaurant",
+        "Vegetarian restaurant"
+      ],
+      "type_id": "kebab_shop",
+      "type_ids": [
+        "kebab_shop",
+        "cafe",
+        "halal_restaurant",
+        "ice_cream_shop",
+        "restaurant",
+        "vegetarian_restaurant"
+      ],
+      "address": "Japan, 〒111-0032 Tokyo, Taito City, Asakusa, 1 Chome−1−12 第一屋ビル, 1階・地下1階",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "11 AM–11 PM",
+        "tuesday": "11 AM–11 PM",
+        "wednesday": "11 AM–11 PM",
+        "thursday": "11 AM–11 PM",
+        "friday": "11 AM–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–11 PM"
+      },
+      "website": "https://www.the-kebab-factory.com/shop-information",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "\"Amazing service, amazing Halal food, and great value for money.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNWVY7QJXxun35Lcn8JA3ywk3OtJE0q75GLl6vO=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wK7n0nicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngFx4WaR7oFVFRmmds6pOcZ-HlaFxZnm3sX-LlalBoburuk2NW5m9bbmhkpJthaaSbrZuXDwCZlCCy"
+    },
+    {
+      "position": 10,
+      "title": "Gyumon Halal Ramen Asakusa",
+      "place_id": "ChIJE9zJogePGGARBvQ-j_olTG0",
+      "data_id": "0x60188f07a2c9dc13:0x6d4c25fa8f3ef406",
+      "data_cid": "7875711606439474182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f07a2c9dc13%3A0x6d4c25fa8f3ef406&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f07a2c9dc13%3A0x6d4c25fa8f3ef406&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7166971,
+        "longitude": 139.7990714
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE9zJogePGGARBvQ-j_olTG0",
+      "provider_id": "/g/11ld87v58f",
+      "rating": 4.9,
+      "reviews": 13517,
+      "price": "¥2,000–3,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Meat dish restaurant",
+        "Ramen restaurant",
+        "Vegan restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "meat_restaurant",
+        "ramen_restaurant",
+        "vegan_restaurant"
+      ],
+      "address": "角田ビル 1階, 6 Chome-12-5 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–10 PM",
+        "tuesday": "11:30 AM–10 PM",
+        "wednesday": "11:30 AM–10 PM",
+        "thursday": "11:30 AM–10 PM",
+        "friday": "11:30 AM–10 PM",
+        "saturday": "11:30 AM–10 PM",
+        "sunday": "11:30 AM–10 PM"
+      },
+      "phone": "+81 3-6802-4110",
+      "website": "https://gyumon-group.com/en/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "au PAY",
+            "Credit cards",
+            "dBarai",
+            "Debit cards",
+            "NFC mobile payments",
+            "PayPay",
+            "Rakuten Pay",
+            "Transit IC cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "V-Money"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"Some of the most amazing halal authentic  Japanese food in Tokyo!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwIaUg6WJGIfyVQEXL0bZaHrSyUUuAZNdXA2nXrv-ryRjsS-kqGRlk20LpTzVYVNkPZLJ65Izm2F-gFiJ5kyvcAR6qa6kTZAZiOobUj_d_AQTSrPWQ0bq9kW7s7fteIwz1NOWOq_s_A3i-7=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ImQXHnicBcFNjoIwGADQE32CEEs0cdHFyEAIyD_TDQHEgkUKbZXAHT2At5n3vp9OqUmeNG3ozB3lnA7tS7ai4aNqR7Vr-FOjk4RGgtSwrfdDvDhVSlHu2s59zcKfwtNrUv2KeE3TFyb-rcDGWIg3iDV6yBjYbEcDM3RvSrbsL_PZlXguOjjb07gAvfTuga3vBkdorhBLCCZ9wOv0Ud5KHCaxuOahXs9HllvSuqvWWba9H-TBXMoSmz1Y52WPTOiOBjAY-T9APkeh"
+    },
+    {
+      "position": 11,
+      "title": "Ayam-ya Halal Ramen Tokyo",
+      "place_id": "ChIJdY8ThvuPGGAR1MXsvLwGai8",
+      "data_id": "0x60188ffb86138f75:0x2f6a06bcbcecc5d4",
+      "data_cid": "3416550675007194580",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188ffb86138f75%3A0x2f6a06bcbcecc5d4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188ffb86138f75%3A0x2f6a06bcbcecc5d4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7071659,
+        "longitude": 139.786259
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdY8ThvuPGGAR1MXsvLwGai8",
+      "provider_id": "/g/11cp7872pc",
+      "rating": 4.4,
+      "reviews": 1641,
+      "price": "¥1,000–2,000",
+      "type": "Ramen restaurant",
+      "types": [
+        "Ramen restaurant",
+        "Restaurant"
+      ],
+      "type_id": "ramen_restaurant",
+      "type_ids": [
+        "ramen_restaurant",
+        "restaurant"
+      ],
+      "address": "シャトー元浅草, 3 Chome-10-3 Motoasakusa, Taito City, Tokyo 111-0041, Japan",
+      "open_state": "Closes soon · 3 PM · Reopens 5 PM",
+      "hours": "Closes soon · 3 PM · Reopens 5 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–3 PM, 5–9:30 PM",
+        "tuesday": "11:30 AM–3 PM, 5–9:30 PM",
+        "wednesday": "11:30 AM–3 PM, 5–9:30 PM",
+        "thursday": "11:30 AM–3 PM, 5–9:30 PM",
+        "friday": "11:30 AM–3 PM, 5–9:30 PM",
+        "saturday": "11:30 AM–3 PM, 5–9:30 PM",
+        "sunday": "11:30 AM–3 PM, 5–9:30 PM"
+      },
+      "phone": "+81 3-4360-3672",
+      "description": "Halal ramen soup in humble surrounds. Simple establishment with a prayer room, offering halal chicken-based ramen soup.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "payments": [
+            "dBarai",
+            "V-Money"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "\"The Halal ramen was delicious and the owner was very nice and friendly.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP6tBWCYaVelaOJdTxj-6jo6wpQ3309rkWz9Dg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tjmoiHicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQYFbiFO4cmRiWmpPo75USUpGla5aVb1ZeEGhsbGBZlB1eZemSbltuaGSkm2FppJutm5cPAIR4IMw"
+    }
+  ]
+}

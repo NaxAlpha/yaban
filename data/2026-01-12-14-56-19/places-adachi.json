@@ -1,0 +1,1292 @@
+{
+  "search_metadata": {
+    "id": "69648d04a204ab02a955c85a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/00c1774c75d0f85f/69648d04a204ab02a955c85a.json",
+    "created_at": "2026-01-12 05:56:20 UTC",
+    "processed_at": "2026-01-12 05:56:20 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Adachi//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/f8b1d189ec11a1e5/69648d04a204ab02a955c85a.html",
+    "prettify_html_file": "https://serpapi.com/searches/34bb3c6fc57ab13a/69648d04a204ab02a955c85a.prettify",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Adachi",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "halal restaurant Adachi"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Naz's Halal Food - Corona",
+      "place_id": "ChIJQdPlhOK53IARBIffxWAZmJU",
+      "data_id": "0x80dcb9e284e5d341:0x95981960c5df8704",
+      "data_cid": "10779393611538597636",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80dcb9e284e5d341%3A0x95981960c5df8704&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80dcb9e284e5d341%3A0x95981960c5df8704&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.8471914,
+        "longitude": -117.5433152
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQdPlhOK53IARBIffxWAZmJU",
+      "provider_id": "/g/11vz6hs9qx",
+      "rating": 4.6,
+      "reviews": 209,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "1240 E Ontario Ave STE 107, Corona, CA 92881",
+      "open_state": "Open · Closes 1 AM",
+      "hours": "Open · Closes 1 AM",
+      "operating_hours": {
+        "sunday": "10:30 AM–1 AM",
+        "monday": "10:30 AM–1 AM",
+        "tuesday": "10:30 AM–1 AM",
+        "wednesday": "10:30 AM–1 AM",
+        "thursday": "10:30 AM–1 AM",
+        "friday": "10:30 AM–2 AM",
+        "saturday": "10:30 AM–2 AM"
+      },
+      "phone": "(951) 987-0065",
+      "website": "https://nazshalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vz6hs9qx&g2lbs=AIBNGdW6vGIx-7yvFBWpejWz5RwIYsKIm3WH9UWQ5P0FcseVyCnSmMHRcymGrrGrfgP93wJ5dcLwTyPYxuSgEJrHAgGyLRiglqHjH-kTTyN3lj2PKQQyMMg%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"I had the halal lamb rice plate and it was absolutely amazing!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFze8FX7Xlwx95H-wgQfNLUk0ZajxK7vVoS1tzV1amlVRPK-RAz3clUuQobZea9FwKAUOTiHww6dCadmzDlBN_dJphVbuaOGhBEinXoT7wippHA5bST0q6R2CgAWysVqXaME-VWd6_iPAi-OPbW642cjVuYeWpoMrzS62b72wZuq-X9VGy9cZP1=w164-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aK6AxXicBcHJcoIwAADQL4oIYiid6SEuyBQVZAmUixOWEjSQsDXCn_ZHeu57v390HMXwriiMblYV5xUrp6Hsc96OZTuuct4olRiA6PlrVtC50A_UWso3KzESJl_m1gayun1fz9FznZLHyzF-MA_UccEqaRj2PQf4aNnkLJpuPEtLYlrSQZEb1raUsNiTolkObHe9F5-C4mwi7onujnWb8NCQtRA22mZBuO6gr-0rFM8D7hJyOQIcF_Bee6gGrpfFUNfyB56-yljwS78EUMsMTaZTBxITn2YzTz31Q6pQB9TUwBO0_B-Z11YV"
+    },
+    {
+      "position": 2,
+      "title": "Dolan's Uyghur Cuisine",
+      "place_id": "ChIJnZFz4zPd3IARLKCimb0Wwww",
+      "data_id": "0x80dcdd33e373919d:0xcc316bd99a2a02c",
+      "data_cid": "919603752495915052",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80dcdd33e373919d%3A0xcc316bd99a2a02c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80dcdd33e373919d%3A0xcc316bd99a2a02c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.706702199999995,
+        "longitude": -117.78766979999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnZFz4zPd3IARLKCimb0Wwww",
+      "provider_id": "/g/11krnwjpf1",
+      "rating": 4.6,
+      "reviews": 390,
+      "price": "$20–30",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Asian fusion restaurant",
+        "Kazakhstani restaurant",
+        "Kebab shop",
+        "Uyghur cuisine restaurant",
+        "Uzbeki restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "asian_fusion_restaurant",
+        "kazakhstani_restaurant",
+        "kebab_shop",
+        "uyghur_cuisine_restaurant",
+        "uzbek_restaurant"
+      ],
+      "address": "14425 Culver Dr, Irvine, CA 92604",
+      "open_state": "Closed · Opens 11 AM Mon",
+      "hours": "Closed · Opens 11 AM Mon",
+      "operating_hours": {
+        "sunday": "11 AM–9 PM",
+        "monday": "11 AM–9 PM",
+        "tuesday": "11 AM–9 PM",
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "11 AM–9 PM"
+      },
+      "phone": "(949) 299-2878",
+      "website": "https://www.dolansusa.com/order/dolans-irvine",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11krnwjpf1&g2lbs=AIBNGdWBemqNywfu0Eocd6kFWDexQjYTRmvBHM1v2JmTVrb7-Os5VtTRC3_0wEKdIWDEsEfiSEtrNV8U-15DXTggeUVrPbd0AT_2e33Q083Zna4TxhVjSFs%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Big plate chicken and lamb skewers were out of this world!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyja9eGtLjGrh6EKPXvsmo0npUSbhxd-mmfJARQrdEaVI6q6DstkouS4pabm4G45lbq95pfKpY0tMeUaJUyRvAsBp6_iHaHU9H3IDwP727VAxPdzRixRENch3kgr8NLcj_NczTG5g=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iLbWQHicBcFZEoIgAADQE5HmVjbTh00Otjmm6dRXg0jggpBQWRfsDN2m935fprVUC8PomD2hQtCOPBQZsOg16fUEC25QqQBWQBkBNOsuezfIJ1DvGzgwL9wl56fiwuxlnpVsrADnt22QHocqRMXGu3trpVvxyByJSu5Ax-3Ku-_K205eTH0gOdrm7_QZqJX0rnWEotyP7M36lcysWRGMSfVJ6zENY8zslg7zeI-ba4w_J-jS5WtqWYD5FmhBL_7j-kZC"
+    },
+    {
+      "position": 3,
+      "title": "Colachi Halal Pakistani Restaurant",
+      "place_id": "ChIJn0SSUwDV3IARoaf8AQD2hqU",
+      "data_id": "0x80dcd5005392449f:0xa586f60001fca7a1",
+      "data_cid": "11927491143031105441",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80dcd5005392449f%3A0xa586f60001fca7a1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80dcd5005392449f%3A0xa586f60001fca7a1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.9050025,
+        "longitude": -117.8407026
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn0SSUwDV3IARoaf8AQD2hqU",
+      "provider_id": "/g/11mckxvc01",
+      "rating": 4.6,
+      "reviews": 96,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Pakistani restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "pakistani_restaurant"
+      ],
+      "address": "1235 E Imperial Hwy, Placentia, CA 92870",
+      "open_state": "Closes soon · 10 PM · Opens 12 PM Tue",
+      "hours": "Closes soon · 10 PM · Opens 12 PM Tue",
+      "operating_hours": {
+        "sunday": "12–10 PM",
+        "monday": "Closed",
+        "tuesday": "12–9:30 PM",
+        "wednesday": "12–9:30 PM",
+        "thursday": "12–9:30 PM",
+        "friday": "12–11 PM",
+        "saturday": "12–11 PM"
+      },
+      "phone": "(657) 216-2278",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "All you can eat",
+            "Comfort food",
+            "Halal food",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11mckxvc01&g2lbs=AIBNGdUMFlXkN6hp6V04gpPF2a2EFE1o9MObKm-Kj9waAoifjL3NdrzKyqz4PiSLPC-lwYxR60OtHRGEDABk_qTLf8SeOl-1Pi48jWDz0CdRsOKDaQReRI0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Their Mutton Karahi is very authentic and everybody loved pullao!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-Mc8Vc0j5h1iMNVTBqbHNrqN-vsCMj1C27aO1TUBpIvuIs2i2MYrE2nMqFVR-Gvo8IPkzIPpktKdMpY1AVv1MDhlZ2P_SDnq7t_7z0eEDjgUMHFkUPYuzdRfRTc1GMlMEStCxEv1G8Dk=w112-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8JchInicBcHdToMwGADQJ-qgNQY02cUGjBHzMcJfgjeLdkihtS20dJNn9AV8G8_5-2XWavPqeYI97QalBtGvpl-okraXdkfVtzdog6hBxjuk_iiqHwQ0bKk_PTM8Qt7Wx_nznC9zjpyJYMIRCT4uuG6OOnNrZshIoFsSImE-tSVKnQqzgm9Zobl9u4Hu8KF1GGIm3klxrWI5B_YabH6fxNPQwPnEm6Jbt1v5VdYUpyAgqWz0SBxOw5jv7xgTxF4I4kiqf2nxRh4"
+    },
+    {
+      "position": 4,
+      "title": "Mountain Pizza Halal",
+      "place_id": "ChIJ5TDOFgAzw4ARVn7HkqA8d2o",
+      "data_id": "0x80c3330016ce30e5:0x6a773ca092c77e56",
+      "data_cid": "7671667150603910742",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80c3330016ce30e5%3A0x6a773ca092c77e56&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80c3330016ce30e5%3A0x6a773ca092c77e56&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.085470199999996,
+        "longitude": -117.671059
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5TDOFgAzw4ARVn7HkqA8d2o",
+      "provider_id": "/g/11x1nk8tvq",
+      "rating": 4.8,
+      "reviews": 69,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "1515 N Mountain Ave D, Ontario, CA 91762",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "sunday": "12:30–9 PM",
+        "monday": "Closed",
+        "tuesday": "11 AM–9 PM",
+        "wednesday": "11 AM–12 AM",
+        "thursday": "12–9 AM, 11 AM–9 PM",
+        "friday": "12–10 PM",
+        "saturday": "12–10 PM"
+      },
+      "phone": "(909) 295-9034",
+      "website": "http://mountainpizzahalal.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11x1nk8tvq&g2lbs=AIBNGdUAUVtGovfy_1XNNeKmcE--CxdriovOAfJYWybgeATqWZnq50QBnzOOuNI1P9XIzG2bdWdO9e4Ocf8kF-aVzcngcdI-SauK2ea-h7lLOc88LFtTYgs%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious halal food and great staff!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzniKspG1eMHDu1dbOtn13uUQ2F5JgFUiKlpdHk7AOCk7_K0P5Br0q9JvexUuYz8mmhaKlOfFKm3898WRe0cugwY0l5Pqz5n64Vws0AShKUNsxq0-hp_9DeV701mxZ7no4rUtWaiSH2VG8=w80-h99-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VWRtnXicDcpdToMwAADgE3WUMaQ18QFdgKxRpqQs82WZrLaE_kFbIVzRE3ib-T1_f7_Ce-seo0iKZMON4ZIFx6bOaM-033RGRdw60DngoryEvWxW3RNny5i9VvsQ375qr-Mk0PdtkR54QXsi7a0asrx-GbILgcf0eYIjPvywhYbzipQSVyLr74KoBGF0-mCwC3w-Q5kexzXVD7t2djBvBKFvbhkhEPaC96zNYKyWz0yb3UT96do31bYt0dOM_gfGYADa3AFgAUYj"
+    },
+    {
+      "position": 5,
+      "title": "Kabab EL Basha",
+      "place_id": "ChIJ2ZyaSCnJ3IARFUN29gjINdw",
+      "data_id": "0x80dcc929489a9cd9:0xdc35c808f6764315",
+      "data_cid": "15867808802930049813",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80dcc929489a9cd9%3A0xdc35c808f6764315&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80dcc929489a9cd9%3A0xdc35c808f6764315&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.875993099999995,
+        "longitude": -117.58384369999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2ZyaSCnJ3IARFUN29gjINdw",
+      "provider_id": "/g/11s4xjc8m_",
+      "rating": 4.6,
+      "reviews": 442,
+      "price": "$10–20",
+      "type": "Middle Eastern restaurant",
+      "types": [
+        "Middle Eastern restaurant",
+        "Mediterranean restaurant",
+        "Shawarma restaurant"
+      ],
+      "type_id": "middle_eastern_restaurant",
+      "type_ids": [
+        "middle_eastern_restaurant",
+        "mediterranean_restaurant",
+        "shawarma_restaurant"
+      ],
+      "address": "750 S Lincoln Ave STE 102, Corona, CA 92882",
+      "open_state": "Closed · Opens 10:30 AM Mon",
+      "hours": "Closed · Opens 10:30 AM Mon",
+      "operating_hours": {
+        "sunday": "10:30 AM–9 PM",
+        "monday": "10:30 AM–9 PM",
+        "tuesday": "10:30 AM–9 PM",
+        "wednesday": "10:30 AM–9 PM",
+        "thursday": "10:30 AM–9 PM",
+        "friday": "10:30 AM–10 PM",
+        "saturday": "10:30 AM–10 PM"
+      },
+      "phone": "(951) 268-6803",
+      "website": "http://kababelbasha.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11s4xjc8m_&g2lbs=AIBNGdWXmx6847rr46HhPdCbIgYRSaPl4Wmpnjdo3zpnaL-DeKcVxrwG2eP-FIvUh7pPllB9kvjs2K6UrRqtRCkqLqyxg2t0cTGUXAHcjMFJ8EP_Mmr-zJY%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The shawarma and falafel are mouthwatering, bursting with authentic flavors.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNiSfWw2mTb0uZMRh5rlLMHHhL-r-jOxMByrqOb=w137-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EqK8F3icuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFnglxmcFl5ulBuSZFAa5RuUYVqU4-Pr4ZHho1ukm-Vf4etUWVTon2RbbmhsrpthaaSbrZuXDwCzuCGf"
+    },
+    {
+      "position": 6,
+      "title": "Bawarchi Tandoori Halal Restaurant",
+      "place_id": "ChIJC1nvhSW33IAREK9vfPd5kYE",
+      "data_id": "0x80dcb72585ef590b:0x819179f77c6faf10",
+      "data_cid": "9336377606367325968",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80dcb72585ef590b%3A0x819179f77c6faf10&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80dcb72585ef590b%3A0x819179f77c6faf10&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.8738324,
+        "longitude": -117.5575942
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC1nvhSW33IAREK9vfPd5kYE",
+      "provider_id": "/g/11jh98v_vf",
+      "rating": 4.4,
+      "reviews": 238,
+      "price": "$10–20",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Bangladeshi restaurant",
+        "Indian restaurant",
+        "Pakistani restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "bangladeshi_restaurant",
+        "indian_restaurant",
+        "pakistani_restaurant"
+      ],
+      "address": "Inside C town Farmers market, 611 E Grand Blvd, Corona, CA 92879",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "sunday": "11 AM–7:30 PM",
+        "monday": "Closed",
+        "tuesday": "11 AM–9 PM",
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "11 AM–9 PM"
+      },
+      "phone": "(951) 547-4691",
+      "website": "https://bawarchitandoori.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11jh98v_vf&g2lbs=AIBNGdWQnUY5I4t-uyS_NM-3udIANhZm9mHcWiHRbM1jbpRZgWaYsgnhtXjtqehyfbKsalTNJIJwYthWV24Z8oOxctcDK6VQM42VjGY3ohXkzd5GUjYYiAQ%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Best place for halal meat and Indian dishes.highly recommended\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNEl8zOUPQp20lCr-7WSZ2Rp7VQf33WmtfIH_Ur=w92-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZwEXoXicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng55pjUeUfGhBYYGSQ41ykax4eHGUUVGAeFphmbByeW5Lm6REfWmRbbmmkmwHE2bp5-QB0FCCQ"
+    },
+    {
+      "position": 7,
+      "title": "New Aashiyana-Halal Tandoori Restaurant",
+      "place_id": "ChIJPcWMu2gsw4ARHjX11TKGB8w",
+      "data_id": "0x80c32c68bb8cc53d:0xcc078632d5f5351e",
+      "data_cid": "14701867061470377246",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80c32c68bb8cc53d%3A0xcc078632d5f5351e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80c32c68bb8cc53d%3A0xcc078632d5f5351e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.0212994,
+        "longitude": -117.81245349999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPcWMu2gsw4ARHjX11TKGB8w",
+      "provider_id": "/g/1tdmf4j3",
+      "rating": 4,
+      "reviews": 386,
+      "price": "$$",
+      "type": "Pakistani restaurant",
+      "types": [
+        "Pakistani restaurant",
+        "Restaurant"
+      ],
+      "type_id": "pakistani_restaurant",
+      "type_ids": [
+        "pakistani_restaurant",
+        "restaurant"
+      ],
+      "address": "245 Gentle Springs Ln, Diamond Bar, CA 91765",
+      "open_state": "Closed · Opens 12 PM Mon",
+      "hours": "Closed · Opens 12 PM Mon",
+      "operating_hours": {
+        "sunday": "12–9 PM",
+        "monday": "12–9 PM",
+        "tuesday": "Closed",
+        "wednesday": "12–9 PM",
+        "thursday": "12–9 PM",
+        "friday": "12–9 PM",
+        "saturday": "12–9 PM"
+      },
+      "phone": "(909) 396-0176",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true
+      },
+      "user_review": "\"Great food and service with great prices\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxTY2TKV-W3BgitLipu1lFsdUw-CzZXZnYKQxGCXjCa_lx_tbIrFU3gwO78cR0AtFh8gSfWUg9L3eGp-dytu8QUFN6ebA7Z2k9VozfTQ3-79RHk-IfIASmmpGEdWcpPZl607BA=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3wKKpXicBcFbjoIwFADQFV2oNuFh4kclAxLMjAiI8mPGUgpSaGNLQNc3m5jdeM7_X2uM0hvbFi22uJRcsEmzJ5WjYaOxqBxsrjRQDdomEepEtuTXdZ6cocQ73plDp6aVCHVdzBC8q0s1XpN0iYLLI_i9ieVm7vEzLDCff1yPnhAxYevxrCkL7h8wixTULzN5aRF-O-xO3Grd-2f5bvIUg-uf9j3ETUyyYVDRV11SdayEg9wd2c4egnaFHOhhlB-Mj0Nh"
+    },
+    {
+      "position": 8,
+      "title": "Alina's Lebanese Cuisine",
+      "place_id": "ChIJvZhPLCY1w4ARjtfDUkYORsk",
+      "data_id": "0x80c335262c4f98bd:0xc9460e4652c3d78e",
+      "data_cid": "14503295345192327054",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80c335262c4f98bd%3A0xc9460e4652c3d78e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80c335262c4f98bd%3A0xc9460e4652c3d78e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 34.032832,
+        "longitude": -117.5940128
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvZhPLCY1w4ARjtfDUkYORsk",
+      "provider_id": "/g/1trtvll5",
+      "rating": 4.4,
+      "reviews": 795,
+      "price": "$10–20",
+      "type": "Lebanese restaurant",
+      "types": [
+        "Lebanese restaurant",
+        "Mediterranean restaurant",
+        "Middle Eastern restaurant"
+      ],
+      "type_id": "lebanese_restaurant",
+      "type_ids": [
+        "lebanese_restaurant",
+        "mediterranean_restaurant",
+        "middle_eastern_restaurant"
+      ],
+      "address": "2250 S Archibald Ave, Ontario, CA 91761",
+      "open_state": "Closed · Opens 10 AM Mon",
+      "hours": "Closed · Opens 10 AM Mon",
+      "operating_hours": {
+        "sunday": "Closed",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM",
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "11 AM–8 PM"
+      },
+      "phone": "(909) 947-2070",
+      "website": "http://www.alinaslebanesecuisine.com/",
+      "description": "Falafel, kebabs & other regional eats. Traditional chicken & beef kebabs along with falafel & other vegetarian eats in a basic space.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "dining_options": [
+            "Table service"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1trtvll5&g2lbs=AIBNGdXNBZYXaxFPyJnWFFt8KbJYyZlWaZjzLDuU35BOIcV6oA74ts1_u8FUt5dFUMSFGKrSu9WZjooNpoua1Klkgr6VMcK5JXojqsPOnlME2J0Q8Fzwqgw%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food is delicious and authentic and the portions are very filling.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwJzHajTwPSOQox1bzjEKn1IXmsOU0yDKBT3S_zI6EjszGs2FYwQkGPRFXRipxGjpF763vE-CH0Ob5jlkqk_twvuCPjeqOchI09Vp34UiXpdTPlae-02IY72AtwmDUjyJegGv0A=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TTxw_3icBcHRFkIwAADQL1qGojqnBxUjDxQ6PDmlHczYtGXl__qI_qZ7f99GSi62mkYbc1EzVlP8EvhZsUHiQS4q1ms1F6ASQGgOgi1N1Gn2byRVcRKd2Vu_z8QNBz3IexFl8HMM96mZlHNguUTMSBheoc4dii9efmn5GxHu2ZY5ueDgw-i-IrQbu1Kq6XWICR6jqgng5srNZdbm_JHG9IYBNILCNhyp-mNGPidcowk6O7WGoNGhBTowsD8aTkT3"
+    },
+    {
+      "position": 9,
+      "title": "Tamarind Restaurant and Catering",
+      "place_id": "ChIJC8q-w7Uyw4ARqQHb-aXHack",
+      "data_id": "0x80c332b5c3beca0b:0xc969c7a5f9db01a9",
+      "data_cid": "14513350789853544873",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x80c332b5c3beca0b%3A0xc969c7a5f9db01a9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x80c332b5c3beca0b%3A0xc969c7a5f9db01a9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 33.9961856,
+        "longitude": -117.7163008
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC8q-w7Uyw4ARqQHb-aXHack",
+      "provider_id": "/g/1w0p5xc0",
+      "rating": 4.1,
+      "reviews": 361,
+      "price": "$10–20",
+      "type": "Pakistani restaurant",
+      "types": [
+        "Pakistani restaurant",
+        "Restaurant"
+      ],
+      "type_id": "pakistani_restaurant",
+      "type_ids": [
+        "pakistani_restaurant",
+        "restaurant"
+      ],
+      "address": "4047 Grand Ave, Chino, CA 91710",
+      "open_state": "Closed · Opens 11 AM Mon",
+      "hours": "Closed · Opens 11 AM Mon",
+      "operating_hours": {
+        "sunday": "11 AM–2:30 PM, 5–9 PM",
+        "monday": "11 AM–2:30 PM, 5–9 PM",
+        "tuesday": "11 AM–2:30 PM, 5–9 PM",
+        "wednesday": "11 AM–2:30 PM, 5–9 PM",
+        "thursday": "11 AM–2:30 PM, 5–9 PM",
+        "friday": "11 AM–2:30 PM, 5–10 PM",
+        "saturday": "11 AM–2:30 PM, 5–10 PM"
+      },
+      "phone": "(909) 364-9141",
+      "website": "https://www.tamarindchino.com/",
+      "description": "Indian & Pakistani meals in classy digs. Loftlike eatery offering Indian & Pakistani meals, including a wide selection of curries.",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "All you can eat",
+            "Coffee",
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1w0p5xc0&g2lbs=AIBNGdXzz5QzV6blYqv1IzUghgd0JqcHKbL_bty_6gYsXLApoBNOTlcfA8Td3xvxqr3i_SPN7wVuF13NSWq1sXYQCVKyHkD2EdOOfePBtB_G3bVzIJLzk_s%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=BI1kacCED9GMwbkPk62KiQ4&ei=BI1kacCED9GMwbkPk62KiQ4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food was very real and authentic, and it tasted really nice.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-Usz4XPpktusrlzxPMX8l8zcdSVfeFSon2xY39y0-izKAq4_cK8IUxnBddaxnHs6lS_NkGtqP0c3xecULvDYfAQ8Ah1ttzsZRW89UuNUvYYGg1sh9DFxUp3PX5rf6894CZOUk=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z6OYnnicBcFbjoIwFADQFVWemtZkPlAjGl8o6Qj-GFMKNdQWuUVr9-ciZjdzzt9XGNPB1POkiEaN1o3kA_CeaWW4MiOmH17TAWKAwEtS_y7zD6Lg4iLrWjNAL53NdgWW2LEq_635MtcqtGVEPj66u03yjK9sg9fUqllV3axawUTm132bmmfms8hyRrevRVknR5yIwBgHl9MZEzrs6ass0yYAQRZLS7soK8Z9PcEknl8OtP15B2GIBAlRi5T-B4TCRaI"
+    }
+  ]
+}

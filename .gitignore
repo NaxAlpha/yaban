@@ -35,3 +35,6 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# Scraped data
+data/raw/

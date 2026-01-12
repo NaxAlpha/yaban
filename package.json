@@ -8,7 +8,8 @@
 		"tail": "wrangler tail",
 		"test": "bun test",
 		"lint": "biome check .",
-		"lint:fix": "biome check --write . && biome format --write ."
+		"lint:fix": "biome check --write . && biome format --write .",
+		"cli": "bun run cli/index.ts"
 	},
 	"dependencies": {
 		"hono": "^4.6.13"

@@ -1,0 +1,1162 @@
+{
+  "search_metadata": {
+    "id": "69648d18b8b4a501a393708a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9270bb82df5bb51e/69648d18b8b4a501a393708a.json",
+    "created_at": "2026-01-12 05:56:40 UTC",
+    "processed_at": "2026-01-12 05:56:40 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Koto//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/c204fa441fff93ac/69648d18b8b4a501a393708a.html",
+    "prettify_html_file": "https://serpapi.com/searches/25a61052f3cd3f01/69648d18b8b4a501a393708a.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Koto",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "halal restaurant Koto"
+  },
+  "place_results": {
+    "title": "Habibi Halal Restaurant",
+    "place_id": "ChIJozQ8re6IGGARDFdE8paqRbY",
+    "data_id": "0x601888eead3c34a3:0xb645aa96f244570c",
+    "data_cid": "13134091453582300940",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x601888eead3c34a3%3A0xb645aa96f244570c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x601888eead3c34a3%3A0xb645aa96f244570c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 35.6880722,
+      "longitude": 139.8285948
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJozQ8re6IGGARDFdE8paqRbY",
+    "provider_id": "/g/11c1n5wqpp",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPGQBtHududdZiSqbeWjWV2x-7bR2pebmkTSJPS=w152-h86-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bRVZQnicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQ4B7oVOJRmlKakhKVGVyYlBqeFR5mVKFrnhRkVJCalJsdEuwVEGxbbmhqpJthYaabrZuXDwC-yiHM",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 13
+      },
+      {
+        "stars": 2,
+        "amount": 5
+      },
+      {
+        "stars": 3,
+        "amount": 30
+      },
+      {
+        "stars": 4,
+        "amount": 101
+      },
+      {
+        "stars": 5,
+        "amount": 189
+      }
+    ],
+    "rating": 4.3,
+    "reviews": 338,
+    "price": "¥1,000–2,000",
+    "price_details": {
+      "distribution": [
+        {
+          "price": "¥1–1,000",
+          "percentage": 16.666666666666664,
+          "reported_count": 12
+        },
+        {
+          "price": "¥1,000–2,000",
+          "percentage": 65.27777777777779,
+          "reported_count": 47
+        },
+        {
+          "price": "¥2,000–3,000",
+          "percentage": 6.944444444444445,
+          "reported_count": 5
+        }
+      ],
+      "total_reported": 72
+    },
+    "type": [
+      "Halal restaurant",
+      "Pakistani restaurant"
+    ],
+    "type_ids": [
+      "halal_restaurant",
+      "pakistani_restaurant"
+    ],
+    "reservation": {
+      "link": "https://paypaygourmet.yahoo.co.jp/133515/?ikgo=2",
+      "source": "yahoo.co.jp"
+    },
+    "order_online_link": "https://www.google.com/viewer/chooseprovider?mid=/g/11c1n5wqpp&g2lbs=AIBNGdVGZ28ZLt8G61hjSZq1b1UmlZvk0vrRq9D7iRZMweiywj7p7JyQsqhBE5gEDtOd8KtWoFT-sWQLEKot7HQhZ8Rxn1b-IGfIKhlRS5zcZA5UAdSDT9M%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=GI1kad29J8-ww8cPw7-QmA4&ei=GI1kad29J8-ww8cPw7-QmA4&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "service_options": [
+          "Outdoor seating",
+          "Curbside pickup",
+          "Delivery",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "popular_for": [
+          "Lunch",
+          "Dinner",
+          "Solo dining"
+        ]
+      },
+      {
+        "offerings": [
+          "Coffee",
+          "Halal food",
+          "Late-night food",
+          "Small plates",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Lunch",
+          "Dinner",
+          "Catering",
+          "Dessert",
+          "Seating",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy"
+        ]
+      },
+      {
+        "crowd": [
+          "Family-friendly",
+          "Groups",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Accepts reservations"
+        ]
+      },
+      {
+        "payments": [
+          "Debit cards",
+          "NFC mobile payments",
+          "Rakuten Pay"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids",
+          "Kids' menu"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Paid parking lot",
+          "Usually plenty of parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "curbside_pickup": true,
+      "delivery": true
+    },
+    "address": "4 Chome-1-2 Ojima, Koto City, Tokyo 136-0072, Japan",
+    "located_in": "大島四丁目団地ショッピングモール",
+    "weather": {
+      "celsius": "9°C",
+      "fahrenheit": "48°F",
+      "conditions": "Clear"
+    },
+    "phone": "+81 3-5875-5075",
+    "open_state": "Closes soon · 3 PM · Reopens 5 PM",
+    "plus_code": "MRQH+6C Koto City, Tokyo, Japan",
+    "hours": [
+      {
+        "monday": "11 AM–3 PM, 5–10:30 PM"
+      },
+      {
+        "tuesday": "11 AM–3 PM, 5–10:30 PM"
+      },
+      {
+        "wednesday": "11 AM–3 PM, 5–10:30 PM"
+      },
+      {
+        "thursday": "11 AM–3 PM, 5–10:30 PM"
+      },
+      {
+        "friday": "11 AM–3 PM, 5–10:30 PM"
+      },
+      {
+        "saturday": "11 AM–3 PM, 5–10:30 PM"
+      },
+      {
+        "sunday": "11 AM–3 PM, 5–10:30 PM"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x601888eead3c34a3%3A0xb645aa96f244570c&engine=google_maps_posts",
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPGQBtHududdZiSqbeWjWV2x-7bR2pebmkTSJPS=w529-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/3Xnv3nicuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQ4B7oVOJRmlKakhKVGVyYlBqeFR5mVKFrnhRkVJCalJsdEuwVEGxbbmpkqZthZGmhm62blw8A4OYiCg"
+      },
+      {
+        "title": "Menu",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxIc6f-FF7UR8sgj0N7GSa_Evua_xlxgDCWdEVpfj7PAlACYfwz4WEzqK-6Hd8iGpl26WN_PKgjKzPNDKq8BkglzENRGCnpschGaVYuifK67JfJUK-exJUnjBISHoYRBk_cumcA3s_JkfY=w224-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/IPHfWXicBcHbCoIwAADQL5qGhVrQg9eVAxHFxKch083L2mbTEv-xD-hvOuf37ZdF6Ytp8v5oMCkZ71bdvYgUSycWg8inyZQGRANtevAw8GK7E5uCOHbK3NVsPKQOLBocvdcGb3xjYVC10UPR0ck87gU1_eynKtpnBOxb6w5QccuuUpwhNqI9S0M0u_7E-B6lOQyE0qSHzaNeB4psJ6FJiUC3JaUY_Xtxk3XuT5isT-IdNU4mWl8_lnUCvXV2wQSE_AMWdUej"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyvX2CT4OM9zgRA8lMDUnjG2vSohHw-chZv5KBiShVW4cyN7DLbum3QbtwtlHIZPZVVeYdiVi5lvs19LthV4o49tOWmeQBH5PnG_JhjAUxf-t7T6TOxAuJvnUmdqo1KSMM0gKC-_4NDkHK6=w224-h407-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/DGNHnXicBcFBcoIwFADQE0UQg4gzXaDMQEVEC0Rl44wxTdCQqPkE7SG772363t-vALibueNIMRlxrblkvWFPqhUwBSOqO4ffDaIGGSdK3FaWb3vwlhUu8vCHf0Uzmce1uiaeLbVIB0RFY_1s0ZaC7DF9b4J4fe67ye4MA8j0s9k2hLDjpSWtL60Zh2sQBGscQrHv2G6R-luVnFbiGtWvbwRBNa2KV9SvrKq7y0OPszLPXZ4t0Qlv4luaTT8Gz8NIYDdAN6T0P3CGR0k"
+      },
+      {
+        "title": "Food & drink",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMHIBue6bNp_bgyAnX0ZeHO9uEId5dQXHFDp7EN=w613-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/oz-DoHicuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng6-HpVJpqluRXEJ-UXumYF2EQlerhb1nq6plimhIY4eHmUmDu6mdbbmZorJthZGmhm62blw8AxHUhIQ"
+      },
+      {
+        "title": "Vibe",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyg2op8hKg8mGX-oQtOLNwVqKASlojOb9ascXCAfpyDJsMGKM5MG-qRCaQW66zMt_J__AwLw-rZbznXlmjVLjWOqj07MTHozhbWrApnzCbIpfLhAsKn0ZlYRmWQyeGFs61EVO89rslyW_U9=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/FpjX1HicBcHRToMwFADQL-rALTJq4kODWh1UwjYp7oUMwlqx9BZuDYGP9N2_8Zy_X-29w4cgMHq3UQDKdD_YTS1Y31m_aWEIlEPSIsGA8fDLnBa1BRfrVMUDrwgUPs_e53JM2clAnzf0im2VsJtbng4oeCruBSfjMbkWMopW4etDXbM5m8l0aVZbmaEvs17mYx_uxfkVVt3IiTm7Js2bu2WaYWrDi_k8DrJYOv6C0d1zmcd0QrPI-oM-zju6J3pLY_JNLPwD0cZI-w"
+      },
+      {
+        "title": "Chicken Wings",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyZAgzMuscA4IutLlQgHtEyjIF47j9axebv6k9u0g4YBg6BHhQeDfGyggqFODE0w25I7q6rK6VDEPRNo0c3KzIGAbeIxA1wv7NxC7ZSjReYlgzbsHgruDazo6X8NDp26ULRjagMYg=w224-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/IHd1n3icBcFbcoIwFADQFUVopEE604_YIGRUWnHaKf5BJr0UI0GSyGOFbsHdeM7jXlvbmTfPU_VyAVqDks7IXujWytYuhL540BkkDDIeTfx_dZxOFOa9M4IG3NmdOkBq46nhmyBsonKU1Y2cI-dDUKyBrNP6INlfMgFcN58s9gf8ysMr6bfkh8VfeaZ9sdzOPKGV5CN9GW5hNn6Ep2OTy0LBXJkUesfKWZPfVcY6TL53eVPCvoD3AeMA1ThaoTNq9RO3wkWC"
+      },
+      {
+        "title": "Roti",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxRH1PLe9zoZOZOS20JtlE4XBQfSEHxc6EiI3TXTqnPq5BZRXPzedqfvSv7mKPMU9C9wq7fH0Xscq2LPVPJMOhGRe7r-HHX9TH3HiiizzO-NHFj62xNsKnfI3JcYkSBOhALAFvBwA=w298-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/h08xY3icFcThcoIgAADgJyJNW8bu9kM7i8yCiXXMvwyFZRDB1PMJ9wp7m92-H9_vj_T-4V6DoJfxojOm68W3E09utBfaL7i5B93DAe6AC9J9qHo6VWhJSgFn0-AG0ygsfJ-vWPbe0hxNfJ2rQ1yz2mpiX7KmYmQWn7Yd6JDcj-R0gVs42qRFIXPcRiW5kuKE5b4SyRMgxGCNYqSUmmcMzmj3tY6mszvq9hAX_ONGMyzTMt0N2Zi-jRHcAPnfDWjzB03sRFA"
+      },
+      {
+        "title": "Kheer",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyweBakCVK3-RaZ1YmQlJNlqFR5pGu9hG9nlVJWcYvbwlZv1VHfRMD8LsZ6erar-XLy5nsR874QDMKfNWBH2nrwY3nq71SdYVNgWJZQ50rh9zVdmKsz-TDbjOvQJA7o9aSFxGdy8g=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/WlQkCXicBcHhEkIwAADgJ1pIYt31Qzk6Sodu4p9YWzWbNpGesFfobfq-35f2fadWmsaoOSNCEIZfCsta8B7zflaLViOdArUCSnMD_cayacSb6rFFkQnSqjSKNmFhzJ5-anXBC9IAcobCvC6Gy8jKwUC7a3rwnL0ql1hWEpz3k8VV6tiLxDtE1zjf7OZcjoXJn7aRNQWKSR6WiaVLCj-oaSP1ASfvcj8OSejaAlaZ_w6aySHr0YQ2oHPogAfg4g-pxUVr"
+      },
+      {
+        "title": "Naan",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwXW6u1g7ZkBjgndSkzEaUJ25eRkj2LwmjJgHwV0PLwXBhNBWKENmOZVPS1pdzXHZcu6mZsDUqBURXCsoVtkOQ4KM9dcdVchvYnbawgN7d6ULfK-EF55EZsqgVBiLooogDibrfR=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/HAjE1XicDc5RboIwAADQExUUBwyTfayKGkF0ECr2T1psodCiLTbxgLvDbuPeCd7fLzdm1EvX7fnCYUqxvpl08yBKmkYah6jBZaMGRAPtfm9nbV_Y6hxMcxZiATsmaSFe8bXce36Ti85L7dDt2c6i2Sm1FeQZPCdxNhwxOhXzkb6qHSZTMGC9Lu-wzKuVVsiI489HcogooYjw50XWV8uykAZlektAvPH9GOs7Q7BN1X9w3daPW_5lF1EIuBd9AgGkegNro0Xx"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNlVB1mcbt1j903t5-Xe6V5C5GAIiGl3jKxPFUe=w328-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/AvahNXicuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFnglxPmZJibnFRimGVpYFxiqhuRahZm6mzq7uiZ6Z5jnOVdEeAWmmpbbmxkoZthZGmhm62blw8Ap6EggQ"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bMRwy1uxS7BJ8pBE0Bs71w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=193.99403&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/9jDuGnicHc1LCsIwEADQ22RnPm2hjRCEghvBjR6gpDG2gbQZnGlSr-OtvI3gu8D7fmYiwKMQSC_vKQdfIOw-4gEsn1KaorcQkLu0iKwEzdsyrjbEE9g1hYcZr7fyVtt-b_tLB_1Z9tiqwtw4uBj8SmaxgANmTtZRiJ5PgKyYqmrYbCrdsbctRumaa93ImkEgNxvJ_s8zZaOk_AHUfDnG"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Great price, service and food.\""
+        },
+        {
+          "snippet": "\"Very kind and deliciously generous portions packed with flavour.\""
+        },
+        {
+          "snippet": "\"Great food, Kebab platter is delicious and sufficient for 5 people.\""
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Debasish Das",
+          "rating": 5,
+          "contributor_id": "105404772383465188384",
+          "description": "Great restaurant. Very friendly and helpful staff. Great value for money when compared to other Indian restaurants. This is my favorite restaurant and I visit it often after work or during weekends for takeout.\n\n10/10 would recommend.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0eE9ETlNUWE5JYkRCWmJWWlFhVTFGUW1neVJIYxAB!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CAIQACodChtycF9oOktxODNSTXNIbDBZbVZQaU1FQmgyRHc%7C0d9h_bjF_gQ%7C?hl=en-US",
+          "date": "a month ago"
+        },
+        {
+          "username": "keith Howard",
+          "rating": 5,
+          "contributor_id": "113529815800836805781",
+          "description": "Great food at a price you can't find anywhere else.\nI met the owner at HFC in Kasai and he is such a down to earth and friendly guy. I'm so happy to see they stick to their religious beliefs while running the restaurants.\nKeep it up guys!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOeVMzb3RaalJKZGsxTk5teGFibEkwVm10SWJtYxAB!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CAIQACodChtycF9oOkNyS3otZjRJdk1NNmxablI0VmtIbmc%7C0d32HQRHWLJ%7C?hl=en-US",
+          "date": "2 months ago"
+        },
+        {
+          "username": "Basem Al-Sanabra",
+          "rating": 5,
+          "contributor_id": "112911442756076629157",
+          "description": "Me and my wife love curry food and we ate in many places in Japan last 8 years, THIS IS THE BEST RESTAURANTS IN JAPAN.\nI recommend it clean, food perfect, when you ask for mild spiciness they bring it mild.\nLove it.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURmMzd5TzZnRRAB!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CIHM0ogKEICAgIDf37yO6gE%7CCgwIw6mJvAYQqJ_EuwI%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uQux7Z3uVID79Hfrkhd7KkCcCXJZX-13EHMPoJuY6fxqTi3ZFzF19R3lv47LN-_h4nal40EfxY8HJrxHxxuT4QiQZC1waU1A7JTE82z1H89W-2b1e4MxGHGGrBAMbFCL1ZlbAf"
+            }
+          ],
+          "date": "a year ago"
+        },
+        {
+          "username": "Trisha Tishu",
+          "rating": 4,
+          "contributor_id": "102444109363272964708",
+          "description": "I found them by searching for Halal restaurants on Google Maps. basically I was coming to eat their barbecue. Ordered BBQ half plattrer, Lahori fish fry, mutton paya, habibi kheer and gulab jamun. They can speak good Hindi. They has 2 Bengali Indian chefs. They had a beautiful ambience. They served salad, we had naan with paya, in BBQ platter they included sheekh kebab, sami kebab, chicken tandoori, chicken tikka, malai tikka, chapli kebab.  BBQ platter and fish fry were delicious with chutney. I didn't like the mutton paya very much. Habibi kheer and gulab jamun were good. They had restroom and parking.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCcnVMeVZREAE!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CIHM0ogKEICAgICBruLyVQ%7CCgwIoKqknQYQ2LG70wM%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38t9BabcSFczN66HEj0ti9cfIgmgATp9fANY01CtlQvwAfRPUoHjQ-59hnmXC9lMaoZLxvyVrScYsrTBzPVgxaiCOnCl2GA5VV4wUCfaYFN3BaNJnACp0ZJrfCXkIoCLe5C_bnzQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38v6OI29ymnMm9ni-wY7Q-d_oTMMzJvQD6PiV9gpXvhsD67TdPUts8MAaP0On1RFMTi47AwGxT8vSx6nL72ka3ym3DjP5foPWHR86T94jZEbre4XoJ9F6EBsyhMAZlUQ2elZjyyg"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38t-B86s8GZka94jMXYTj1z105p8xgwvKfCTifA2NQoZmZuhroy7x4lTEgh7dQ75C__CsVZLB6Dk9UtNQQg34IQHupT5Z-5FqwWfq9DuJnBJkrrDGugQsPoNCtHQnvVsdRL_ZfdGhA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sXhz5Z2fYa9oxW-nDF-cXmkXl19zen9WF95IhLJfc1BM5EVRiyo7D2X4q0deijtQzEaDe8iSH0-hlHJakI9uZTVSd7DbOAqZofJ0PFRzna6ydqoO5zvWyemuyomCKAF48i-Yl7"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u9hPFKtiEftLLYY9p0ZUl6Hkzj8NodwdT_pl0JG-FVpmXr-M2s2VJ-qxStKoEwrhr7raLyD3UTmutUIYHLUZP16CBWlo2KBwOBr1mx-l6H2pZf8bndnSsS1F4mgRrJ5TYL2-DHZg"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u7BXd3O3sPD7AI1bfoAH0VEU7DuJYvsIJlMMh6a117Lz73X7GxiWqaQKVqABhGYH3r5t41EHRx4nqEoI13Q6CSaC-4q4XX21TvP2URIJYX6jvA1HQXA_iZ9njNzIINq1GAiCAh"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vfDqgW_gLNJc2zRQ50cGg_iC04Iy_VM6oMXO3Jwqxl6hRxxsUnI0Mw49m-ATf-HxkMEQ1gxpUcXBSRQB9Rmh4dSUH4b73z7WJiDhmTHf_dx6Gf2qNhjf49QnuUvgtp9dFmSUR-DQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tnLCQS6oJcmppRTfa10OLtX8oJgfnoICLKLc01vjCkUwx9Km_oaWRIy2LTQRL1woTCFLMxMUlsiZkPBbUO4dIuNXuaPiizoYeir9LSWJYylCkwovbjrZaEfpsBM6sz9qhmYbg"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uO51SeEfZUfQuxMik-ZuLSyWaNif8eM9dz3l7gpwTiR-1GVpdkDprnIp2wRvfNcxjxpMNOkr9QKkI4xxkSjF4l0ZdIPJFzbpnOCtEYcvI_FM4-D875dl4KkTbEx1FraLKpK3AaJw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sQCET39dAPl923mF0yIvwvNCnUXwtbiZiQtt6A4md5iL1iB_kg_Z6emuFfTVRSkFLsxuQWVhjRBqPG1ExV-VuxjQW8FuIZ55KiLPCOGLC3AxtVYttj3ChRPSYEXe8ZWWouv-Y"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sBB2-_FxRbVTIIDAaFLnmdV-arFnic7yqT4CmaryVeZhUGPAuy2GdBTKaRd1ErTg1IR1UCIaqOIppi7xv_P2ElFQv_APqvRZU_CJpfIpHgO62ALiguwb01lUX-tvEkaBvDODyvfg"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38slTzyS9DTja8JtwtnLqA5n5QnUR69KkiJVWIg0xLq_OgOaoEJWuQSYeuc98nMhtj8KtJbws6KDtLF5RFj2lIpUatCSuOj4TE0_nCK77oAbcs0BZDXB5hBRYhw7RyVQ7NhE7FpU"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tmucGCfDxGdaDa6428vzXKB9JlA5HBt1oUrH0zCDwnTjqmDZwHwlJI0Fna0-44vy168SDkiWi6iAGJj6R37Whz2o8TrE7kbQbNXgFCalQVWYgTfM0pFF2MghOQEPXtE8oTTlQ91A"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sfXiMIc14CEJFjFDDGhZgI3130j8qVVtXLPrwsW2O4eDYXGSoq3A_9g9ngyop6fenqxgH9gKb2_UGceDnD4s_WhPIbnic3_sZDI6gePOsWuQEtdJYk2BSLpN3E2QhQKuG9XRE"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38ujQxA2BBsihoEFhHNVxW2DhLkxGi3rKbC1lAAEhbZe84lvMZWB0K0gZ9PRZRqiJQnbbfxMnwdtt8EeJQF5tzv751k8cP0iqgPpt_v49GTJ6r39Tj0BSQGVKu_csKmKUxLa-ukyWQ"
+            }
+          ],
+          "date": "3 years ago"
+        },
+        {
+          "username": "Mostafa Elmankabady",
+          "rating": 3,
+          "contributor_id": "106293452338739123702",
+          "description": "Halal Indian restaurant serving many choices of Indian do food, I will categorize my review into some parts as follows\n1- place\nThis is the most appealing point, as it is difficult to find a halal restaurant in this area, also it has an outside tables, and it is good if you prefer eating outdoors (I personally prefer to), It has a washing sink, the toilet is a bit difficult but if you ask them they will give you the keys for the toilet, it is next to the restaurant.\n2- Food\nThe food quantity was enough for a hungry person (I ordered the \"habibi set' for dinner), I am attaching some images for the set, I have a comment about seekh  kebab, it is very tinder and tasty but I think it doesn't contain much meat. I prefer mutton curry and butter chicken curry, I tried keema curry but it contains more dal than chicken or meat keema, the tandoori chicken is at its best, nan is big and I think 1 nan would suffice.\n3- Staff\nThis is a confusing point, the staff are a bit different from the comments and reviews here, they are a bit stiff and not as I am used to, they serve the tissues and plates in a rude way, they threw the tissue on the table, instead of putting it decently, in the end they helped us a bit in answering some questions about the area.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURLNzdLRDhBRRAB!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CIHM0ogKEICAgIDK77KD8AE%7CCgwI57edhQYQiMy3rAE%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sthj7gs4To8LUNrfUyaIEbfkJXpolnAsXjUGGzX4Up_COgN-z90ujCzoMxBpUXnKbJXMEh22oXY5DsgIj-gPwgo7sKlXbLi3e3_WumWpXJu0b6xLCWrTeIyyBa0ik8s4VLGOc"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38szWJ7vT7MWywxXZxfEqEtaHO2esU-9DeBBNyfpkbsf-MYAzPMaJvDhlnI6TOGri116H-kD1F5r7mV2leQiPIHha6f6OC4LBmWmU6Xb9fly_PasaPwnatiBPm7tRjGiwjQkcuKw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vWnYI2MUbWYax3vjkPWJKxYCSEJq_5SOJagO3SH4otdXlkRtgRFoDIhTCv6HpD9c7biydFvUjqe1qVphilEbtqFzIoO19ny9lhMjYWlZlqXNlVrUt1-cWVfQ_LJGbyow-lfuBq"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vvk7GPOkSjzzfR6qwxlDYuPdcTk51CkwUNnMCMG7LdcobBUNUgCddzZyvnIldHxuanVgkvWC_8DjGH1iBgyyGhpdj2rsglvVcJE1fCsWQlhfIco2PfyWNFyCBQx8lxMy5X1QyGew"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tMkXVhMQPhNLN8IfSkX_eBAhJmGX7B--AF-PyInDQMElF531BN4K93HGHP6sn9Y74L0dtx0rXEmPN7nshWwaBQ_gRt_7P_u3wgnkNyEdTGrlHjsoxNf8wb_bm-wxBupwzM2dM"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vM8zuYxWRAaawTuexR8VDzG5WdIMGXbsKCNnRGAq0uhNr3-SiGa7QW0X9XnoGJciv1louu9UuIYjrQuA-a6HJ8xOjFS74naF_bxBCk4-FrICW5bld80b-jEq-Ab0rUJ_U3-HMBpA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vnt9QwbTdofbv-7WbKmUTzfgWBFPCUraDdkFsG4DMDkcrviz9LVACCGQRirVaurGFQJhc1HYkYuSMt7YejOzWJq52X4O9UE4-RCOiRsqMxM4o9Vu_3Ih--VwDzs67Fe4uM6Mqe"
+            }
+          ],
+          "date": "4 years ago"
+        },
+        {
+          "username": "Mohamed Mef",
+          "rating": 5,
+          "contributor_id": "114770342864766042240",
+          "description": "seriously in Japan it's the best food i ever eat until now 🥰 me and my japanese wife we eat a lot 🤣 we used 3 tables 🤣 by the way it wasn't expensive at all i hope everyone read this will visit habibi restaurant (by the way Habibi mean my love 💕) have a lovely weekend 🥰",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxMW9fS0xBEAE!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CIHM0ogKEICAgIC11o_KLA%7CCgwIvvC6rAYQiPe7kgM%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uRrwUTXLHVkvg_Ji9JfauH2wqm2RDTBddJtxwduKmn9e56IMGrs_kmGEYeFn4xMvGCOge0qf98nH4YqWjqcBL7zHVTQg4a3NvqIa_5NHm7bFDtexirkMcjLPhg_8uyGvKkOuvL"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sCf44EepdW4RiZ6nK8uF-G-Yiwnk5GwWB3VIU26j89SFN1mC9S5tHQ5Y2NAPfAezuxEDaIaNYM5hdWtk4JuQp7nXBctZpHt5-_dlbgUC0uapd6LahqNx-93Lg3jBSSUor_YElSOQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uZBXkfYtvhB1X9jReOfKghevJLKubvt9F-Llw_ISbjSEoKupCqO4cn3G4EFv1qupU4xCswYm9H164Aaw-ViCJitk5VRiKrfK6SKnju6BaPYJxjVKLFyf4C6Uha-utG8UIoKLjb"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vxnwJpTO2PBoUkSRd1_15sEe23LxQ7RGQPmV-0b8lBwfkEPG7KVgUGY8VZBcQ-Kj2o3hr3qpHn-7Msr72-uw_wkBys3vSyruPnojxcCVQuymF36s9ciqk-PW7460p5o9_-JFXjLA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vZCpGVjylx48O9la0_rVujzJvPi86Pxbpe21v3KxS_1XGT5_aRcbBQm6_jW9j3euqgdnOwRUEW9lomBkIlP0io-PhsGhGUp38jwboEpk10aYO3636tSpee3lyUErBtgtN23NK5"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tzIavfGKM_oAGwHYuRZx7mme0xWPZuOKuYY1eQRMjvdkX8n68Ln0S1KbdFRSLnonESoR6nN3JrZeV2xEauKACn9yd5WkYXCkwF16SG81iUpRFg2AKibLbJuhqw_7twffdzDwIPzA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sov3Z6K-893iNQfQkZrYP_QG3dGM4OE2tMHLN4Fq3DrZ0UkVgl9lLdBv8FMsSaZzPDHTaXDzVJNw8BYhQdytmZ4hQ4dBHABMRGSpSH27lOEpIdFFaqyVJeAizf8MGlEtWkywz-"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vOeJp6tb-e03aBp4SN1T9xA3wZCQN6Av_xNXlDgFMZJNygOD3B3n5KAlLGYjwMGG5Jy5RD_qJfM9_4XeiaVBFswej47UYtElcKbJ3l0PRvVNh-vxGsgHrFQ1pNAVsRpbyShd0l_g"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sadVQADkqTce-JoGxUBm1vZ1FJLmoNny6uPV6xfBvjnHlsGxh8BrwduP1XlM83rHv4cbDN1zCHg2fk5zzcnLlu9Wftpez3t9rZIPekaxXh_p2uqpalUYrZ6ZJfiDx8Ss8VFXAP"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38ub3-N-r5NilNkydpe05luAiTcFZPhqUfHAJ5Ce3FODjo7JMWB93iLFSGB02W8moXNgxHzSdWYsz5M4qNi_J5bT03szLA9EEYAONWVUhrT2uzH8C3BXki8F4QRgbcS8qBMJRLoC"
+            }
+          ],
+          "date": "2 years ago"
+        },
+        {
+          "username": "Mohd Faidhi",
+          "rating": 5,
+          "contributor_id": "110570306722696985037",
+          "description": "Amazing restaurant. We had mutton and chicken briyani. They were great!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxV1NVMXlOVTkxU0RNdFJsQXRXVEZHWTNKTk9VRRAB!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CAIQACodChtycF9oOi1WSU1yNU91SDMtRlAtWTFGY3JNOUE%7C0d5yhKVPrcg%7C?hl=en-US",
+          "date": "a month ago"
+        },
+        {
+          "username": "Nadine Natasya",
+          "rating": 5,
+          "contributor_id": "109317924671366687428",
+          "description": "Great food! The taste is 10/10. The way they cooked the chicken is all-through so it’s soft but also crispy at the same time. My favorite drink is the milk tea, it’s like Adeni tea which is nice. The hospitality is nice, makes me feel like home.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQyeUt2TFh3EAE!2m1!1s0x0:0xb645aa96f244570c!3m1!1s2@1:CIHM0ogKEICAgID2yKvLXw%7CCgwIg8HMkwYQyNnOiAM%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38v7zQc6-aZV3_NgWZkLZz9sEJwlrvfANlVUCZITEhHp3PhApdCzyG7QPnhu1mMl1CxJh85_TYNzrIXz_U3Q_qY0N_PTfOJdu5zPmLNef1HO-n4Knx_8i6Yt4TeY45OauI60h1v1"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38s61R2NPAyconsuBUHwxr2KlHFe14J3UcHSK7IAXLeEH4-pk0od2FmZd_ok0XCEqhdpX3WJI8IvYLNLlFmWnrIFvT80tXqRDX1gjiQfpN232u_tKDyfRKUyHfI_Swb2iq5GfdwI"
+            }
+          ],
+          "date": "3 years ago"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "JASHN Halal Indian Restaurant",
+            "data_id": "0x0:0x95eab24f56f5b812",
+            "data_cid": "10802642710032660498",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x95eab24f56f5b812&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x95eab24f56f5b812&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 35.690647299999995,
+              "longitude": 139.83761099999998
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x95eab24f56f5b812%218m2%213d35.690647299999995%214d139.83761099999998&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.5,
+            "reviews": 91,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwWBoRQRTGSCF1fSGYSC0vdX51IzJ-clj5IBgVOhYy3ZImIODNHbJZNkfWZy_399jnRalZEV5m-U7K2pYdM8BigjJM93CYwVSDiXlcwsbGq089U1rlVE0QDP8MutrOXST6SgqJr=w156-h156-n-k-no",
+            "type": [
+              "Halal",
+              "Biryani",
+              "Indian",
+              "South Indian"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Bangladesh Restaurant",
+            "data_id": "0x0:0x50a4ee18cf2cfc0a",
+            "data_cid": "5811031209537240074",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x50a4ee18cf2cfc0a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x50a4ee18cf2cfc0a&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 35.6993089,
+              "longitude": 139.8260281
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x50a4ee18cf2cfc0a%218m2%213d35.6993089%214d139.8260281&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 151,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxyRbe2vAxG33870am-oXY4YWv5c9W6sizUVihBnCqBRJwziEkVmVNdDdbYjI8JNUzedsZ37kyLGygWqzX1zGnSal0wpgEtwaFnzlzzgWdv6cD8vcK6XoLiqupLNVLbkZYoomc=w156-h156-n-k-no",
+            "type": [
+              "Bangladeshi"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "JAGGU DHABA",
+            "data_id": "0x0:0x7a7e57ae326a1a2",
+            "data_cid": "551661795335905698",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x7a7e57ae326a1a2&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x7a7e57ae326a1a2&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 35.6932122,
+              "longitude": 139.83734189999998
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x7a7e57ae326a1a2%218m2%213d35.6932122%214d139.83734189999998&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 121,
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMIDz1ny1-SeMo5jglctiNnTrVRRXUs62PoALEj=w156-h156-n-k-no",
+            "type": [
+              "Indian"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Shiva Mahal",
+            "data_id": "0x0:0x2985f5cdf9968f75",
+            "data_cid": "2992067792462057333",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x2985f5cdf9968f75&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x2985f5cdf9968f75&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 35.6898999,
+              "longitude": 139.8346341
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x2985f5cdf9968f75%218m2%213d35.6898999%214d139.8346341&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.6,
+            "reviews": 47,
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPchK3XZQRvxJOHaUiqIXhtIaRouCYS2X1DDfan=w156-h156-n-k-no",
+            "type": [
+              "Indian",
+              "South Asian"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "graph_results": {
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 71
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 79
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 71
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 96
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 90
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 73
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 88
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 92
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ]
+      },
+      "live_hash": {
+        "info": "Less busy than usual",
+        "time_spent": "People typically spend 25 min to 1 hr here"
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OjUKMyIvSGFiaWJpIEhhbGFsIFJlc3RhdXJhbnQgS290byBDaXR5LCBUb2t5bywgSmFwYW4oAg&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COjUKMyIvSGFiaWJpIEhhbGFsIFJlc3RhdXJhbnQgS290byBDaXR5LCBUb2t5bywgSmFwYW4oAg&q=local+guide+program"
+  }
+}

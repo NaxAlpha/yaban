@@ -1,5 +1,5 @@
 # Phoenix Worker - Cloudflare Workers with Bun
-.PHONY: help install dev deploy tail test lint lint-fix clean check-all
+.PHONY: help install dev deploy tail test lint lint-fix clean check-all cli
 
 # Default target
 .DEFAULT_GOAL := help
@@ -52,3 +52,7 @@ clean: ## Clean build artifacts and cache
 
 check-all: lint typecheck test ## Run all quality checks (lint, typecheck, test)
 	@echo "$(GREEN)All checks passed!$(NC)"
+
+cli: ## Run the CLI tool for scraping data
+	@echo "$(BLUE)Running CLI tool...$(NC)"
+	bun run cli
