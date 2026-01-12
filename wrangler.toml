@@ -1,0 +1,18 @@
+name = "phoenix-worker"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+# Node compatibility for packages that require Node.js built-ins
+node_compat = true
+
+# Rules for JavaScript/TypeScript minification
+[build]
+command = "bun run build"
+
+# Development environment configuration
+[env.dev]
+vars = { ENVIRONMENT = "development" }
+
+# Production environment configuration
+[env.production]
+vars = { ENVIRONMENT = "production" }
