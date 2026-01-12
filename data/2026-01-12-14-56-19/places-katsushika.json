@@ -1,0 +1,735 @@
+{
+  "search_metadata": {
+    "id": "69648d13f5c2f8b115be67b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/05e436c2ca3aa943/69648d13f5c2f8b115be67b8.json",
+    "created_at": "2026-01-12 05:56:35 UTC",
+    "processed_at": "2026-01-12 05:56:35 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Katsushika//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ef2494e8bcd76746/69648d13f5c2f8b115be67b8.html",
+    "prettify_html_file": "https://serpapi.com/searches/4302708146db763b/69648d13f5c2f8b115be67b8.prettify",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Katsushika",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "halal restaurant Katsushika"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "TAQWA",
+      "place_id": "ChIJ_0pgkkSPGGARLuNXia5imkc",
+      "data_id": "0x60188f4492604aff:0x479a62ae8957e32e",
+      "data_cid": "5159544824874394414",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f4492604aff%3A0x479a62ae8957e32e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f4492604aff%3A0x479a62ae8957e32e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.737444499999995,
+        "longitude": 139.8495992
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_0pgkkSPGGARLuNXia5imkc",
+      "provider_id": "/g/11x664rvqp",
+      "rating": 4.7,
+      "reviews": 17,
+      "price": "¥1–1,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "1 Chome-21-2 Tateishi, Katsushika City, Tokyo 124-0012, Japan",
+      "open_state": "Closes soon · 3 PM · Reopens 4:30 PM",
+      "hours": "Closes soon · 3 PM · Reopens 4:30 PM",
+      "operating_hours": {
+        "monday": "11 AM–3 PM, 4:30–9 PM",
+        "tuesday": "11 AM–3 PM, 4:30–9 PM",
+        "wednesday": "11 AM–3 PM, 4:30–9 PM",
+        "thursday": "11 AM–3 PM, 4:30–9 PM",
+        "friday": "11 AM–3 PM, 5–9 PM",
+        "saturday": "11 AM–3 PM, 4:30–9 PM",
+        "sunday": "Closed"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food"
+          ]
+        },
+        {
+          "payments": [
+            "PayPay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11x664rvqp&g2lbs=AIBNGdX9x6i_YO8WiEwwrSa6C0U--lTHwusYsZTM7sH4K0SdpE6KmPl248mjn5Coz-POnBWiuxAk5hapfoqO4cJvDNEbm6KeKAoYuyu5gi66n43TkdyBpBg%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=E41kaZ-JJ8G8ptQPsbn4uA0&ei=E41kaZ-JJ8G8ptQPsbn4uA0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyPBKQZ8ikHuk0JTiVAoWAlFn-if8Vq2YwgpqVGkiijq7XuvDlR-NTlnc7y5ZYrSG_yd4wXLYKsqDFQAwUsfPpECBMHrDEb6kCCrzZMUoGL89ziaJG5P2rQMp7Qfpaa4H4DKw4hZTYnxfDv=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rbWFSnicBcFLcoIwAADQE0WootDOuECiYUQ6UBGFjYOUT0xMQgJGuGMP0Nv43v9f2_dCfRkGbRezhvOGVoOqZMlZX7F-VvKH0QgFSgWU4SIT0-MYbYI4dzDxB2LuE5y6_OzSHQO4dtJunulGdCkiGN87-zI8If0B3wllpT0u80we0XX8tfTlkAWqg7vY1SdVR2LrbUJfwu1tRTxPTnl44ujgfE642KNlNJdxKOy4FkVh-RYMtNXmScZeNXyutWOC9sNcAQIYfwNwA0gN"
+    },
+    {
+      "position": 2,
+      "title": "RAHA HALAL MART",
+      "place_id": "ChIJEfoBWwCPGGARg3VSABw5Eww",
+      "data_id": "0x60188f005b01fa11:0xc13391c00527583",
+      "data_cid": "870101945439909251",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f005b01fa11%3A0xc13391c00527583&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f005b01fa11%3A0xc13391c00527583&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7461087,
+        "longitude": 139.8262379
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEfoBWwCPGGARg3VSABw5Eww",
+      "provider_id": "/g/11yh7n3chg",
+      "rating": 3.3,
+      "reviews": 9,
+      "price": "¥1,000–2,000",
+      "unclaimed_listing": true,
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "第１塚田ビル 2階, 3 Chome-1-4 Horikiri, Katsushika City, Tokyo 124-0006, Japan",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "11 AM–11 PM",
+        "tuesday": "11 AM–11 PM",
+        "wednesday": "11 AM–11 PM",
+        "thursday": "11 AM–11 PM",
+        "friday": "11 AM–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–11 PM"
+      },
+      "phone": "+81 3-5875-7933",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11yh7n3chg&g2lbs=AIBNGdW2jQ15Bf8i3O1d74-U7YPxzodlv_lk68DxF_VTcY4gYOMyRfG_IGPVldBSwL0JAXmLILNwzdw7R_WnZicQ4OnSel3KbNH1yRxRD9P3vCMW8XN0mzE%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=E41kaZ-JJ8G8ptQPsbn4uA0&ei=E41kaZ-JJ8G8ptQPsbn4uA0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"The food was fresh and tasted amazing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxek8DHp8C6ohHcKtf5f6PqKt-fZg9QQ3fx9M6RuOGE3yDU6C-iuWUrjEn5kJHoDbxKBND5gwltMYAx_4ODp8vohHuzefAYiS_-CCeg4FuNkrpbQbnlIBKBb5G47k_CRcjJpiVGuzD16wU7=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fk40_HicDcxdboMgAADgE1FXf6gu2YNCp6tpO9u4pXsxkQBaGDCB6XrHHaC32b4DfPffwTljH4NADtGKa80l9ZZORCtHlVsR_RlwYwGxwAZ5-TDK80JFiiuTIqiHitSOJQy-ftUOsA-eNU3ElmwPT_5YbqMf3EIERv_eTtetSsSu0rhf6uKAEz5Lt7_kSxcfsUm__yt_oyy_jOcOIER5_OwPYjJ90yv5UtRFn5TxRnToRK47M76V_obXcG43T_M6DMGQhUAApf8A8WdHDA"
+    },
+    {
+      "position": 3,
+      "title": "Al Barakah - My Daily Shop",
+      "place_id": "ChIJiwIEH8WPGGARgrkMg-rFmww",
+      "data_id": "0x60188fc51f04028b:0xc9bc5ea830cb982",
+      "data_cid": "908537360856955266",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188fc51f04028b%3A0xc9bc5ea830cb982&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188fc51f04028b%3A0xc9bc5ea830cb982&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7480663,
+        "longitude": 139.85048229999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiwIEH8WPGGARgrkMg-rFmww",
+      "provider_id": "/g/11j4l63b49",
+      "rating": 4.2,
+      "reviews": 97,
+      "unclaimed_listing": true,
+      "type": "Asian grocery store",
+      "types": [
+        "Asian grocery store",
+        "Store"
+      ],
+      "type_id": "asian_grocery_store",
+      "type_ids": [
+        "asian_grocery_store",
+        "store"
+      ],
+      "address": "4 Chome-21-28 Aoto, Katsushika City, Tokyo 125-0062, Japan",
+      "open_state": "Closed · Opens 10 AM Tue",
+      "hours": "Closed · Opens 10 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "10 AM–11 PM",
+        "wednesday": "10 AM–11 PM",
+        "thursday": "10 AM–11 PM",
+        "friday": "10 AM–11 PM",
+        "saturday": "10 AM–11 PM",
+        "sunday": "10 AM–11 PM"
+      },
+      "phone": "+81 80-9412-2509",
+      "website": "http://www.mydailyshop.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Rakuten Pay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Halal food available here\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyeZArHqGXxdKsGlhX2Czf3jZVSPBFqomAwyroHKU2mh7DRhb6Ks89FpSedcbJ3GELqxY-VrQLooiBIKjA2FWJTiSDJVm4U29M-2sS9gMZSaAKzsZ3_oZXvdclimYQTk6kw04KS=w109-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ks83jXicBcFBcoIwFADQE0VocGzTmS5iFSzRmdooxWycGlKCJHzg06Lez0P0Nn3v726HocXnIHA2mpQApTM_aHoNzWCaYaLBB2WLRCPBgCdh5eTVKN6vuiS_FAITZ3P6evuOziqT7_O4A8_Haw8rsafePi4-7Gkm8InFrTSFPqVRslx3lwPJ-u0aoJq_iTOn8We6q-Qizfx0T9mGUJSs3Cj5xcUNVXQElf8W2lX-sN3Vs3oMp0K-jA8hI5ZRUpMG_gEJJUSw"
+    },
+    {
+      "position": 4,
+      "title": "Tayeba Halal Food",
+      "place_id": "ChIJRai0XPaPGGARb5C2XwkX0m8",
+      "data_id": "0x60188ff65cb4a845:0x6fd217095fb6906f",
+      "data_cid": "8057528012347183215",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188ff65cb4a845%3A0x6fd217095fb6906f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188ff65cb4a845%3A0x6fd217095fb6906f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7486044,
+        "longitude": 139.839777
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRai0XPaPGGARb5C2XwkX0m8",
+      "provider_id": "/g/11kb2rnkgm",
+      "rating": 4.8,
+      "reviews": 57,
+      "type": "Indian grocery store",
+      "types": [
+        "Indian grocery store"
+      ],
+      "type_id": "indian_grocery_store",
+      "type_ids": [
+        "indian_grocery_store"
+      ],
+      "address": "1 Chome-23-2 Ohanajaya, Katsushika City, Tokyo 124-0003, Japan",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM",
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM"
+      },
+      "phone": "+81 80-4009-5259",
+      "website": "http://www.tayebaenterprise.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "au PAY",
+            "Credit cards",
+            "PayPay",
+            "Rakuten Pay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "drive_through": true,
+        "delivery": true,
+        "dine_in": false
+      },
+      "user_review": "\"It’s good for muslim, cause we get halal food from the store\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMLEO3PZKyTzjgzKtUBPuA45DlvpijiMAEZF_EE=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b5OD0XicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng6-PqbxwQ5V0ZUpWVXuVdEuoUUOpoYuqSU1aQmZXp6-ga5Rbv6mpbbmGgm2FoYKabrZuXDwCs_iFQ"
+    },
+    {
+      "position": 5,
+      "title": "HALAL WAGYU RAMEN SHINJUKU-TEI Asakusa Tokyo",
+      "place_id": "ChIJF6THDR-PGGAR98Co847dv-E",
+      "data_id": "0x60188f1f0dc7a417:0xe1bfdd8ef3a8c0f7",
+      "data_cid": "16266963985128538359",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f1f0dc7a417%3A0xe1bfdd8ef3a8c0f7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f1f0dc7a417%3A0xe1bfdd8ef3a8c0f7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7115576,
+        "longitude": 139.7923481
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF6THDR-PGGAR98Co847dv-E",
+      "provider_id": "/g/11x6jhp4d6",
+      "rating": 4.8,
+      "reviews": 1737,
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Ramen restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "ramen_restaurant"
+      ],
+      "address": "YNビル 2F, 1 Chome-10-2 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–10 PM",
+        "tuesday": "11:30 AM–10 PM",
+        "wednesday": "11:30 AM–10 PM",
+        "thursday": "11:30 AM–10 PM",
+        "friday": "11:30 AM–10 PM",
+        "saturday": "11:30 AM–10 PM",
+        "sunday": "11:30 AM–10 PM"
+      },
+      "phone": "+81 3-5246-4366",
+      "website": "https://www.halal-shinjukutei.com/asakusa-store",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "user_review": "\"the stuff here very kind and the food was so delicious , 100% halal\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPqGWCjc_SFJXCUBmdLquhjIZd3s3SFaAGORkiG=w80-h100-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KElO5XicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQUOge7pyVHB_s5hXhHOqUm-JTWJqR5RmVYlxsHOyW6OjuH5Sd6W5bbmGgm2FoYKCbrZuXDwCtYCFG"
+    },
+    {
+      "position": 6,
+      "title": "Shinkoiwa Halal Food & Kebab, Tokyo",
+      "place_id": "ChIJEXWTW4yHGGAR1YplVUhYtrE",
+      "data_id": "0x6018878c5b937511:0xb1b6584855658ad5",
+      "data_cid": "12805519658168191701",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x6018878c5b937511%3A0xb1b6584855658ad5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x6018878c5b937511%3A0xb1b6584855658ad5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7145198,
+        "longitude": 139.8608797
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEXWTW4yHGGAR1YplVUhYtrE",
+      "provider_id": "/g/11twt3gl2v",
+      "rating": 4.2,
+      "reviews": 44,
+      "type": "Grocery store",
+      "types": [
+        "Grocery store"
+      ],
+      "type_id": "grocery_store",
+      "type_ids": [
+        "grocery_store"
+      ],
+      "address": "Lumiere shopping street, 1F, 1 Chome-53-3 Shinkoiwa, Katsushika City, Tokyo 124-0024, Japan",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "10:30 AM–11 PM",
+        "tuesday": "10:30 AM–11 PM",
+        "wednesday": "10:30 AM–11 PM",
+        "thursday": "10:30 AM–11 PM",
+        "friday": "1–11 PM",
+        "saturday": "10:30 AM–11 PM",
+        "sunday": "10:30 AM–11 PM"
+      },
+      "phone": "+81 70-4080-3602",
+      "website": "http://www.shinkoiwahalal.myshopify.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "offerings": [
+            "Food",
+            "Prepared foods"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"The meat was very tender and juicy.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwjZzF2WAaYOW6s3YCsR83J66CZu_TJx8NmowT-v6Hv35kMpcz0SKJCv7PpizDF4cgfRlhP9aFIQsX_D71hgaiw7cSxFZ4U-Xo5ORDMFywVVNj1HV_3voM6WXTSvJLtP6_9cLw=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2M_ww3icBcFRDoIgAADQE5EahdbWh9NRWZapqfnjHDOwTFwQlOfrEt2m935fJuUglobRMTihnNOueYnmSXgvm15OCH8YdBCACCAMd222XaJv5YinuVtfjjkS8OKJ2IEBQl75qtLg7RweXKdAoY2C83s4kNFMdoGn7GhoRx_PCL3GHYsWNd6eRFH5tsVo3WqbJG9czs6g4PNj7If4o7PscLM2WQUVD1FepIkK9jJC1YLs9Uo7JmCWicAd9PwPRrtDZw"
+    },
+    {
+      "position": 7,
+      "title": "Star Asian Halal mart",
+      "place_id": "ChIJn2Pa92KPGGARooG6txsGU5c",
+      "data_id": "0x60188f62f7da639f:0x9753061bb7ba81a2",
+      "data_cid": "10904065838910439842",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188f62f7da639f%3A0x9753061bb7ba81a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188f62f7da639f%3A0x9753061bb7ba81a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7459864,
+        "longitude": 139.8529541
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn2Pa92KPGGARooG6txsGU5c",
+      "provider_id": "/g/11ddxs13yq",
+      "rating": 4.7,
+      "reviews": 36,
+      "type": "Asian grocery store",
+      "types": [
+        "Asian grocery store"
+      ],
+      "type_id": "asian_grocery_store",
+      "type_ids": [
+        "asian_grocery_store"
+      ],
+      "address": "Japan, 〒125-0062 Tokyo, Katsushika City, Aoto, 3 Chome−24−10, Ruberu aoto",
+      "open_state": "Closed · Opens 10:30 AM Tue",
+      "hours": "Closed · Opens 10:30 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "10:30 AM–9 PM",
+        "wednesday": "10:30 AM–9 PM",
+        "thursday": "10:30 AM–9 PM",
+        "friday": "10:30 AM–9 PM",
+        "saturday": "10:30 AM–9 PM",
+        "sunday": "10:30 AM–9 PM"
+      },
+      "phone": "+81 80-5146-1691",
+      "website": "https://www.facebook.com/share/195NVTKKeN/?mibextid=wwXIfr",
+      "extensions": [
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "PayPay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Tokyo best halal shop  thank you for cheper price I will come again\"",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMU4ERx-m1fJYRhuYl0zykl3s7CF6M-m_MykScr=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/l3cnUnicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngG2riGlShm2uY5hUZlFEamWNQVZmdY1xs7uxm5qubG-9bmR2cXGRbbmGgm2FoYKabrZuXDwCm3iFY"
+    },
+    {
+      "position": 8,
+      "title": "Tokyo Chinese Muslim Restaurant",
+      "place_id": "ChIJUao8byiJGGARIUdxV0YGrBg",
+      "data_id": "0x601889286f3caa51:0x18ac064657714721",
+      "data_cid": "1777802852089022241",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x601889286f3caa51%3A0x18ac064657714721&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x601889286f3caa51%3A0x18ac064657714721&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.6959853,
+        "longitude": 139.8117114
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUao8byiJGGARIUdxV0YGrBg",
+      "provider_id": "/g/11b6qtjzw5",
+      "rating": 3.9,
+      "reviews": 815,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "地下 一階, 2 Chome-18-6 Kotobashi, Sumida City, Tokyo 130-0022, Japan",
+      "open_state": "Closes soon · 3 PM · Reopens 5 PM",
+      "hours": "Closes soon · 3 PM · Reopens 5 PM",
+      "operating_hours": {
+        "monday": "11 AM–3 PM, 5–11 PM",
+        "tuesday": "11 AM–3 PM, 5–11 PM",
+        "wednesday": "11 AM–3 PM, 5–11 PM",
+        "thursday": "11 AM–3 PM, 5–11 PM",
+        "friday": "11 AM–3 PM, 5–11 PM",
+        "saturday": "11 AM–3 PM, 5–11 PM",
+        "sunday": "11 AM–3 PM, 5–11 PM"
+      },
+      "phone": "+81 3-5669-0934",
+      "website": "https://gf7j803.gorp.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Usually somewhat difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b6qtjzw5&g2lbs=AIBNGdWKpSeIMDODypblGXD5GH67r9OtBFP0D34Rwvw4g5zGKOQ7C97ZDA06ICV8UMRI7hXFAq5-fuEmuRS1LHsk41796Mx1YHtlXmlklKcYdP4DobHTuRw%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=E41kaZ-JJ8G8ptQPsbn4uA0&ei=E41kaZ-JJ8G8ptQPsbn4uA0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"My go to halal restaurant in Tokyo~ freindly staff and delicious food!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwPhTOxECk8YIqFw1TuYqS2pECfAwlJwllReUEmgF4tIX4A07pzTUij_Ty0RNOCtmRQk0VRrNPeD8stsCYL5OErN17Y-g8vfSrcGIBcZzJqfrst7_qZXXn7YAwEo0k45bfpBlqtkQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I3rnl3icBcHdboIwGADQJ6oUhoEt2QWyajALKOBCvTFZU4proX-f6-YL7hn2Np7z_zcBGP8SRWp6WgmtheI3zx3TC_AFVkzPkTAeMY98VOzwVXXhMPXNDyllTiu7DXF_o7ZLDCnHIqh9UKrlJzKLbQrVkBY4M_f-dP269L-4rZsS5vYo8Ufr6gN_yz34kr6vG-LqOKNI5N9j59iu2rDzfW9H5yG72PMwLBktAtFYpuvP0WyUBXl8DXGSoOk5QRIt-gGh1kYl"
+    }
+  ]
+}

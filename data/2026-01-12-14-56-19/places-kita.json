@@ -1,0 +1,1261 @@
+{
+  "search_metadata": {
+    "id": "69648d153882c570e81db80c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4cbb37e576892eeb/69648d153882c570e81db80c.json",
+    "created_at": "2026-01-12 05:56:37 UTC",
+    "processed_at": "2026-01-12 05:56:37 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Kita//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/69060026aae7c64a/69648d153882c570e81db80c.html",
+    "prettify_html_file": "https://serpapi.com/searches/ef81e4097ffdbe78/69648d153882c570e81db80c.prettify",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Kita",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "halal restaurant Kita"
+  },
+  "place_results": {
+    "title": "HalalStreet Hot Pot | Newark",
+    "place_id": "ChIJW4e7xmDBj4ARK_kmeQ4ZyJw",
+    "data_id": "0x808fc160c6bb875b:0x9cc8190e7926f92b",
+    "data_cid": "11297307215211723051",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x808fc160c6bb875b%3A0x9cc8190e7926f92b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x808fc160c6bb875b%3A0x9cc8190e7926f92b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 37.523429799999995,
+      "longitude": -121.99150879999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW4e7xmDBj4ARK_kmeQ4ZyJw",
+    "provider_id": "/g/11kjpn_845",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyGXnqowvbunINxxBREJzPjFiOlDPRiwdcERiUMCK_oxlSI4eeSPS43n1jM5d3ml5sX3VUbE0WHspD2-PLvvyYEkMOarjDHAfeRk6kO78V_pI9lfM6jrCEbMnzaaC0IEh5u3QSI_c8GQcMK=w114-h86-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/yD8UAHicBcFZcoIwAADQE0WgAUo70w8LKUaNIBm3LwZiZIsJEja9Yw_Q2_S9v9-y71v9aRiihItCqULwQfOOKdlz2S-YuhtFqwHTQBvL0KwEfYZn-VDTmA8S7-b5O0HrV1z_VJEI4qSargwl1YH4m1TNgmKbcxpTG0qrJs4V3oWjz_B4yJF5Wuk2eAPxdhyfF9SQKOvqYLW88aRxm-jdO6Yt_hA34tadj3IiX1nmmxiVzgD3FKfMC_eMbL4my7JB6bmgAVL9A4zxR5A",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 39
+      },
+      {
+        "stars": 2,
+        "amount": 14
+      },
+      {
+        "stars": 3,
+        "amount": 23
+      },
+      {
+        "stars": 4,
+        "amount": 45
+      },
+      {
+        "stars": 5,
+        "amount": 281
+      }
+    ],
+    "rating": 4.3,
+    "reviews": 402,
+    "price": "$20–30",
+    "price_details": {
+      "distribution": [
+        {
+          "price": "$10–20",
+          "percentage": 5.687203791469194,
+          "reported_count": 12
+        },
+        {
+          "price": "$20–30",
+          "percentage": 46.44549763033176,
+          "reported_count": 98
+        },
+        {
+          "price": "$30–50",
+          "percentage": 37.91469194312796,
+          "reported_count": 80
+        },
+        {
+          "price": "$50–100",
+          "percentage": 7.5829383886255926,
+          "reported_count": 16
+        }
+      ],
+      "total_reported": 211
+    },
+    "type": [
+      "Halal restaurant"
+    ],
+    "type_ids": [
+      "halal_restaurant"
+    ],
+    "menu": {
+      "link": "https://pos.chowbus.com/online-ordering/store/restaurant/21046",
+      "source": "pos.chowbus.com"
+    },
+    "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/IXPHpwtjYAg?source=pa&opi=79508299&hl=en-US&gei=Fo1kafTND9SSwbkP1sWX8Q0&sourceurl=https://www.google.com/search?tbm%3Dmap%26pb%3D!4m12!1m3!1d0!2d0!3d0!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sJgCZy23WmC9hBpeebiGa1IU:2!2s1i:0,t:11886,p:JgCZy23WmC9hBpeebiGa1IU:2!7e81!12e5!17sJgCZy23WmC9hBpeebiGa1IU:71!18e15!24m107!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!47m0!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!67m5!7b1!10b1!14b1!15m1!1b0!69i761%26hl%3Den%26q%3Dhalal%2Brestaurant%2BKita",
+    "order_online_link": "https://www.google.com/viewer/chooseprovider?mid=/g/11kjpn_845&g2lbs=AIBNGdXQoX5wnHNSKMjwEwFYQJptMpnqlNMcxFLBN_6f_06TOF6VPq9bLn1W5VxmhBnlD4E3alJjLofMFZpjFe4uSl3uaQN-Deb81imFuEog48x4ggtn6xM%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=Fo1kafTND9SSwbkP1sWX8Q0&ei=Fo1kafTND9SSwbkP1sWX8Q0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as Asian-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Outdoor seating",
+          "No-contact delivery",
+          "Delivery",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "popular_for": [
+          "Lunch",
+          "Dinner",
+          "Solo dining"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "offerings": [
+          "All you can eat",
+          "Comfort food",
+          "Halal food",
+          "Healthy options",
+          "Private dining room",
+          "Small plates"
+        ]
+      },
+      {
+        "dining_options": [
+          "Lunch",
+          "Dinner",
+          "Dessert",
+          "Seating",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Trendy"
+        ]
+      },
+      {
+        "crowd": [
+          "College students",
+          "Family-friendly",
+          "Groups",
+          "Tourists"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids",
+          "High chairs"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "Usually plenty of parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "no_contact_delivery": true
+    },
+    "address": "5605 Mowry School Rd, Newark, CA 94560",
+    "located_in": "Chuck E. Cheese",
+    "weather": {
+      "celsius": "7°C",
+      "fahrenheit": "44°F",
+      "conditions": "Cloudy"
+    },
+    "website": "https://pos.chowbus.com/online-ordering/store/restaurant/21046",
+    "check_in_time": "Identifies as Asian-owned",
+    "phone": "(510) 335-3333",
+    "open_state": "Closes soon · 10 PM · Opens 11:30 AM Mon",
+    "plus_code": "G2F5+99 Newark, California",
+    "hours": [
+      {
+        "sunday": "11:30 AM–10 PM"
+      },
+      {
+        "monday": "11:30 AM–2:30 PM, 5–9 PM"
+      },
+      {
+        "tuesday": "11:30 AM–2:30 PM, 5–9 PM"
+      },
+      {
+        "wednesday": "11:30 AM–2:30 PM, 5–9 PM"
+      },
+      {
+        "thursday": "11:30 AM–2:30 PM, 5–9 PM"
+      },
+      {
+        "friday": "11:30 AM–10 PM"
+      },
+      {
+        "saturday": "11:30 AM–10 PM"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x808fc160c6bb875b%3A0x9cc8190e7926f92b&engine=google_maps_posts",
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyGXnqowvbunINxxBREJzPjFiOlDPRiwdcERiUMCK_oxlSI4eeSPS43n1jM5d3ml5sX3VUbE0WHspD2-PLvvyYEkMOarjDHAfeRk6kO78V_pI9lfM6jrCEbMnzaaC0IEh5u3QSI_c8GQcMK=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/lZJLl3icBcHJcoIwAADQL4qgEQVnPFiImNqUJeN2YiBGtphQwqYf2Xv_pu_9_RZd1-iNYYgCznKlcsF7zVumZMdlN2PqaeSNBkwDbex8sxT05V_ljxqHrJf4e5o-YvT5Dqt9GQgvjMvxzlBcnoh7TNQkKF5yTkO6hHJeEesOn8LSV3g-Zci8HHTjLUD4NQyvG6pJkLaVd9g9eFyv6mBtn5MGO-JBVlXroozId5q6JkaF1cOI4oTZfsTIcTtCZw2KhWODGkj1D9V-R9M"
+      },
+      {
+        "title": "Latest",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwyxww3eXKDy7-2c5pUkd96sYX8VklfjKN1wwFt97po-D0WQjKJeQZ7vomxvW1wHuO5iRYh7B1MyHcpQHrBCATcfGE8ZPmDUbghGxBUsI92AfrgyyNN-LaNXQkyqmU3x7o9Ntbjg2J5vx_L=w224-h398-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/gNNfLXicBcHdVoMgAADgJ2JOnKGd04VmaXNRVm5uN51GCPMPEibwkt33Nn3f3y_XWqpbzxt4sGJCsIFeFZ2JmDSd9IqI0WNSAaKA8pJ8fRnejbPGBLQpM4cAJKGs--_4Rh2baN8PbVdi35hHHSMpQLY-VF25pdUJLWK0y8E3xfUlvLwdOUr9Z1cQWRVzep98kDZ_iE6vY1afGc9tWqunGCbtzJzDGOy-cFP17mesA4tEjPW5Y3AbLvZzd2cg3AAexBHowST-AY39SBw"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy7h0Z5VzyLCFByYkrSwVKKARLxAvOey0-LrmShqLBlmBtW742wZ_tFXAVU1KoIqJ-ZnuIrqPT78U1SFclNiBB_tXKJoTWEpvLAPEnVQkR62wLzxlE_qUL7RW_M7SE1bHQ08CD3RAf8exM2=w224-h398-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/nGa5FHicBcFRboIwAADQE1WgOMuW7KN14JS6KRVw_JBIKjWUFmgV8JD732323t-vsLYzb44jhb-ota4lvxs-VFpZruyi0q1TdwZUBhgHb9ybZDMSbvGSPWe6jsj80wxszOIYJ3TCj28-u4AOLRM9JbIlNkdLOBaljc44S71Yb_sdKNR9O_SHEwpSj0WV_LoRUtpzvNOnPOweFB9ClR2bZAVH-pxkWPYpRUle7hELvcvn0Q3WH36CrwGf9vB9hHAJhP8agAYo_Q9S5kaX"
+      },
+      {
+        "title": "Menu",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP0TmV3RxOd47ScF7FFXEIhTWbrylAs2SPJ8sN2=w460-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/MJIcFnicuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQYBCSG2YcVOGfYmIenOxm7uYW4eqZERKeVFSZ41hsFBzgZVHsZ2RbbmJmoJthZGmhm62blw8Asmwg1g"
+      },
+      {
+        "title": "Food & drink",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPgZc6UWjY8pYuXY_RmaAFtXAHdnxecX6zKDVLK=w499-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/yqcNRXicuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQkB6VbBYanhVpURBZGhEZH5Sb6OhWEuHokZJXkZocYVbl7RLm421bbmJpqZthZGmhm62blw8A27Ah8g"
+      },
+      {
+        "title": "Vibe",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwwUTH4Gtr4ENfwniErYxbLOMJvIJKiabfAxtC40vWPKb0jkyaJILPSZ5ZNYQ9AB2-W1qaa0LspCQSCXBTdKLyQoQ3DLie2Nsr3zMZDUAvzEaB4njLYw0DRNtoFbb3cUm-q_0rq4A=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/h-yRl3icBcFLcoIwAADQE0VSEqelM12ET60QqYiMhY2TUAQUE0hSop6wV-ht-t7fb2fMqF8dZ-jQopWyHZof3ahaCtMIs6jl1WlHDWoNtENWsB9ya4v9B14ZhaP0ZEUfqfLG6ecmntdx0jN-IjcTYDgftgmH58udxWu6zatllZaZR3wXHJ4mxiDVY5DlwZe__07oPZMZCmnfuKlW6LGpwoLMj4j5WJxpaWG4S4185xzVxRVMR6gmTN4s8p5B53ov4AKE_AekHEUT"
+      },
+      {
+        "title": "Coca-Cola",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFgK2tHC58ROHmF4egJ9_NrR2UvIOIJTNCSA7DL23Ck9hpdLN0rbrsZ4zYZXScVffvX7cJBbwmyGYDywOnQL1B6Y5VUPWQH_9PHkrSi9Fq3dBfN_uyvprp-OcBxNgHCF90OhMpU71NZ_nIByaJ3oYY6pAlUupIJ9ZF5Km0xAlUb4k2CnLvhQZg0=w298-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/yb8QaXicFcdJboMwAADAFxEIS4gr9cAiCoSaEEoSuKCw2RVgu2bPT_uSXtteRprvHzyObHgRxQ4rO0Qp6uppqHlJyViTcVfSXkRsEBin6yYaQaXa2EEneXQt7XgJ3d5Ra-SDHPKLnMxe6Pkf0IoN3Q5kxWoBZlUAJV7wIVOfaXaPy2vTzHe99M1i6be31N6WkETB3jyk2jU53yI3B2e35fEncL6UymxgPm0z40wIS3OFyLUcIIX4nSX6HmY58czt4Ss0TQ_M6JKJeT7IHO3US-tfC7WVLRLMOMqQ9LrI4Cjgf1qB0F_Bp1SB"
+      },
+      {
+        "title": "Kebab",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOxG7Hv1ImsLjnJRTamAYeRopcIFl_E1iL3oSlc=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/4y_SW3icuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngX-Fu7lFm6Jlb7JOV5xUUkpjrGJkalF-Q7OmWE-9qmOljnB-ck2xbbmxprpthZGmhm62blw8A1akh2Q"
+      },
+      {
+        "title": "Pilaf",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-67FZPIfvleS54QDJ0FQrsjgWLkkH6EcLCDsDyAOdlroasfEde2K7v_0F65f6QOqeOsHnCpmj7A8HuOyeXQ2Y8WkTNPp2FVbQ9Gx3uUfylGMu2FbDwfvyvpaXDeNv6-iVGvo5=w397-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/fBAoL3icBcFRboIwGADgE1VIkQImPhBrYZsTGx06X4xiC0qllR-KXNA77Db7vr931XUGZo6jKm9Sal0q0YNoC910oukmhX44pQFUAAInTtyb2g6IBOy4-ZBWia0_5fTTZbyFe7lf1XVKlsVqQYGOcXZVrT6DXF4F_grsyWXEl4RnT5FB2izM4x7EYdpnozhw_Bvu6916YzDLLzxKXl7_I0eVfPeYXegg7WjN-UDF2hJ0yxOr_fngRQGqcBSiGjX6H-bVRMU"
+      },
+      {
+        "title": "Beef soup",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz1zdtr5kZWJqPcj0QXIWPX3bKhUNy3NtJRJVnbkthZTqrgXcO9TwElnAt6FyUy83iVn4OFwmQcXeNMR_vrWI61EqS3XahdR4ba6GwnNDQ5mQCrdw9IlQRzkxlmW1GeRPLxbTjCxbBcDylB=w224-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/uL2VgXicBcHbboIwAADQL6oIRSJL9uCVgBvSikJ8MbY0VCmtlG4FPtL3_c3O-XtzY179h-MIDme1UrVgPz3TVEnDpJlR1Tr1qwe0B72ziuYPcZrcqTJ60VyLpMvoc47KuMhKSA78nI4wNQlOLpI0hl_zTtclPYa53Qm5MsF-PI9L-LhI_7i3LaIlS7_x7VcXceDuuhMs77zCPrkHkZXpFi1atNGVDWOB8NQMoi3ciOHsayD5czOQNd2OYv1pPc8H3AuXoAFS_QPlyUkQ"
+      },
+      {
+        "title": "Hot pot",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzJd6yErw-snw27VQ_HJkyiBSRCEtzJC9k220gxkfHc7_0d6idDxjmRtwBq-zlQyj6u-mn2jiRe4puQ5_MGa7URYeBgES0fL1qmOntwSeKeZZY5B9Pc6E47JBnAEblff_VAbqEIuQ=w224-h341-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/9Ih0-3icBcFtDoIgAADQE5GGpqutH1Ksslqpq63-uELEDwQNHOoJu0K36b3ft9C6VSvL4oUzY1IyTntFP0QKTYWeEdlYrFWAKKCsYGeXPJnCzBvxxwAlDPTvUboP67FESbzBego3yxpCmw11vid-amdemW2Hqom1QR2YeDRWXg8aAasypm7bR4v0vHv5t_hBEcOJnZ_mXXMR2iT0SJ_PxwItr8TDrh8iEeA3z_P0Hrw7fOijtYHQBYXjzkENhPwD2_tFpQ"
+      },
+      {
+        "title": "Puff pastry",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzshkiSLKHAjPR2gDJbCt1gUAtb3fZSmHJsJDUvsX5w2efKYHvNAHduQfz8f2wvgExdOWl7-5OdBRYiK1vSuHdb4aFOznkfTZLQD-13_DhfqT2AkvchfE3K0tIkVkkx2VpNs6Cm=w224-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/k9FtcHicBcFbcoIwFADQFUUkSKWd6UcUawRGqvjCH0ceSTBAaG8IDgvsHrobz_n_E1p38GFZtXAmXClelz2Uv7lqddnqSa4ai3eAckBgkfW0qpMRhKySKKTk8b3H3A-ypbb5kejMYdekoQEE_tHAxR1wycKUmi2hRb9jo8fwYPjqWcTneo7cuFjs0yq0TdLTIpvdv-KxlexwjXY-sp2bL9jPARNpcsFWTjjVG3mS8olP3Rbels3ngPEMCfzuIYla9QJHyUUm"
+      },
+      {
+        "title": "Kheer",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxR3DNvcng84QFrAG96HTu0kXPmrE9MR2V3zzHoA4ZceY8XC5mjgN-stPWCJDbXEu5iAMuyuYicQOtS7kQ_h5gTLcwWj_YXrxe1XFb4DNQ3I-aUv0pBLV6CtfQcPapthSxDlKv=w529-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/LGVX1XicBcFZEoIgAADQE5HmUtpMH6btZaIt2E9TDIG54AiYecDu0G167_dlUtZiomkFMweUc1oQJUiDeSVJJQeYlxqtBcACCM1b6lmR9F1sBmGLK-pYcNF4S3e0Oio9R1HZzN19bJzNvl9xz7pikjrIt8sXDYGQ0cXfBA80V3bm7dVHpRmGB5mMc3hjNj3u8PvyuqWo6cgQLR5WEEJzDe6nVq9nu_PIl0-Io3stWdIFxbadvm3DBcxwHZCDiv8B-ylE5g"
+      },
+      {
+        "title": "Barbecue",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOgcFz9FIdKISsv3cSrx-9e_oKKK72_iyIznr56=w447-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/SsV9InicBcFLCoAgFADAE5n0z6BFG0FcRHQAFyYalU_UvjftNs18wsToQovxZvJEA-hNHUF5CTYqGxMJO3a4p-m4uEFL-hLKZs6mcOZy8jciSgDnvM7E8rDX-rLqrqKokclIg1Zk4QfOASGU"
+      },
+      {
+        "title": "Mongolian beef",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx2mfVXETu0pCkOe_RSuDsAGTOGCmwkw5Tnp5e5n6LDFAVH64CgnjmH7PrqItHOocQyVybebrg_UpqfD7lff0y9U-QUWzD2kmRieawX4bILAbfufuHGxc9FwGnWGI_8eQgHiXFk=w468-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Yyo-NHicBcFRboMgAADQE1GNU6tL9mF0gkkTZ6vWP1MJoEOBCoS6A-4Ou83e-_udjVH63fPW-e3EpGQrsZrsWApDhDlhuXlMaYA10F4G_WW9vYKN9sNna32V85qM15stdAbbGuab4y5qhYpIJOJLUWY9isOcie8Nnb_2Z2VQLXFz9MdEpp2NnXrS4rxS6h9pB5ru_lMEfLsu5OGGcKou2UQttQi-cFo6KO6wGhPSMLQMJf9wYZyAOUgTwIGQ_23XRfU"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM5beF7g_3KnWnu8MVFfLCiKEVcRVgR6lcbIzPg=w359-h298-k-no",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/i8nvjnicuxmfUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFnga5qU6maeHm_snReeV2rhG-aW5uOc6e0alhwUlh5klpOc5FkVkG5bbmxqqZthZGmhm62blw8AwyUheA"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rqSQIGi3UO_EgqJN-otLvA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=12.278567&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Qppmw3icHc1LCsIwEADQ22TXtI2fViGICxFFFBHXJcaYDKTNtBlTvY638jaC7wLv-3FEGJd5HmkwhhKYEeFlfMxQcRuC9UYhRK5Dm6cyJ_dsb50Cv0LVBbjLob-cd1uYXE_Nxvb7YxbokNZM3xrtwXQkW4WxiYmT0gTecIuRjVKIKXNSLGr2VqMsBRdVPZtXDIG0kwX7P4-QZFkUP_QKOiw"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"We enjoyed cooking our beef, chicken, lamb, shrimps in spicy hotpot broth.\""
+        },
+        {
+          "snippet": "\"Wide selection of meat and veggies, sauces, and soup base.\""
+        },
+        {
+          "snippet": "\"Highly recommend this restaurant , food was amazing and service was great .\""
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Tsty_byte",
+          "rating": 5,
+          "contributor_id": "101630926700058147667",
+          "description": "We tried the Thai broth and the Hot & Spicy broth. I personally liked the Hot & Spicy one more it had great heat and flavor. The Thai broth was mildly spicy with a sour note, still good but much lighter compared to the Hot & Spicy.\n\nThey also have a really nice appetizer spread, including spring rolls, sushi, fried chicken, cold noodles, two types of pastries, and fresh fruits. For drinks, there’s boba tea, which was a fun addition, and they also offer soft serve to end the meal.\n\nOverall, it was a satisfying halal hotpot experience with lots of variety and good flavors. Definitely worth trying if you enjoy hotpot and like having multiple options in one place.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGbFREQjZXakpWYXpSbk5EUllOSE4zZEZSWU5YYxAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CAIQACodChtycF9oOjFlTDB6WjJVazRnNDRYNHN3dFRYNXc%7C0dHCZgdEyt1%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38t_kEetzoisIXExIRe-jk8d8AbXPLc8mNtLfDlYafBef_vhEv2zUjjvH6vhH6YDhKIYkcJhZZ0OBOspiEtunooM0dLJ341bUsEzadf2pjYRCYhrCI0lbjs4IE689t5qQI1jO6SDBCx0mOV9"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sbPrYWoqAWZQ5DsfXyw1AAas0KG-Je5aHshwbCiMnJ_Orq-G2MXM7Q0EminIDVCoEu_mPz0F_4NOlseIJ-cpcY8dr4bjFRfooKL0BWSIxdXr01cEWW9VEvUPORVyO2vrFBBXZPR02SwOn7"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u13AkXDja4taczhUS6U3DlrSjwQMQHXchKMYer-BNrImuemSVzk6tgJGbZnEnSTqMxrJqSWC8k0XxsRzpehl8_nOM_6VwEAVnhoNeXUb3VmGw_mHwlvVjGEJETkdUPpvlHkxjU-yzz6SYk"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38va9RJ4wcFfh3IkuPJqyBhlOl8QnTUtW5vS8B-Ctv5du09Czrc5Ng_UaVSzktzz98MxurFyMSYXpZBJ_EtHoI9Yh5DS0tPF4HtEzJPDBSq7MP_WSPhsSYtzJNtnEBV07kufUk7bAS9dKiUU"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tipiNEdiaesXLVH1qrA_wUhgsXtUPttHQnYMhpqaouFMbJFENFO7YIptXMPXFUzIEsfxxxT9AOMJoTEN86lTY7tJUrdMhegaDE0a40k0gheCIC_7ZStHQqVcE2FIVSmQJ8MnONAmWbEgPp"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38ufpuhaGl83zbGYfsUDFwCa-DsdWf3ww5Zs6PulZm3qgZGjYYqDZHcDJKV9EhFbb9otUdg-7ILclGBXnOxNnNuK-PTzqmhD1sq7KVo5HG-NlwinMXHYX4oX9mvhYmD1rldUc1i136-Gv0fS"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u9RSoI24dDbTYOmbMKlaT2-Xfzna4F4M_3-XklLpVBJAm_UdBkvAjEU7tGyfMWvuOsz30xQUurP6kQx8PSMb53uK6HaZP2YDoLEIvcxsHJ1Y7NMXRGNfKvImNW1_PAHISvSVEVfV8Fb5BV"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tF2M7fQCi06c7LR0UCo1eas_eZx2Nvul9G8QgC9l7bH6BFBte9Wz0Zt3WcIv7X6v_idRmZdpYWl1ZoiL1EGAvsi3PppC_HYJ2XSBxKHh9_yWjqNiEG7oDgBRC8iTycorzPoiqLXCnfHrr6"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vCk7rAtcHruFLv-ZZ6Cf81mdwEafWc7wtQSxI4wKxBU_LGTwz5SY1FBNXd73xAAv7p1X9fa3aykNN5F1XXptRnEv5pSQaktVDxtUQXs-j1DY_j4UZJ8SrgsjAw5Q4XT21O9JcGeNh3Ifco"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38ulvCrfsQXFx4GPBSyIFDpJ5yQu_m94xY1V1LbsobDoeH9R-H2epY3w7cEY52v4Wz0MfMUnnwcMT8TwMKvDLG3fataeOknRWT2QDDxWN1yNiFT20wogiMov1PkOG9AQOYT9sS2XUpPdIv3Q"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uJ0eicWLzjAEuZl7ce3PBJVXmb7JwdcHzmd-fZRmXW2srhuOwjl_MJouNrPCNS7EqOCepc2WS3okrhJkMKmKRe-qNLDHV8iNKV-M0g2Kt1nqTUN51KqgFtmJzWgkHb-Kwv1dNFQqP0_Bx8"
+            }
+          ],
+          "date": "3 weeks ago"
+        },
+        {
+          "username": "Estabraq Obidat",
+          "rating": 5,
+          "contributor_id": "100057443047630178362",
+          "description": "I recently had dinner here with family. We all shared a hot pot and it was a very enjoyable experience.\n\nFor the uninitiated, hot pot is when the restaurant provides a pot with a base like tomato or peppercorn, etc. and then you add raw ingredients. The ingredients can be fish, very thin slices of meat, or vegetables, etc. You take the ingredients out when they are cooked, and dip them in the sauce of your choice before eating.\n\nOur hot pot was divided in two, we had the original base, and tomato base. The way this restaurant does it is a little like a buffet. It's all you can eat, and you go get the ingredients of your choice as often as you like. They have many dipping sauces too. To prevent food waste, anything wasted over 0.8lbs is charged as if an additional adult was at the table (I personally like this rule - food shouldn't be wasted).\n\nEach member of our party liked different ingredients. I liked the veggies, especially the pumpkin. My husband liked the chicken balls, beef balls, and fish cakes. My mother-in-law really liked the lobster balls, especially with the sweet and sour dipping sauce. Service was good, and the setting was really nice. I highly recommend this establishment for halal hot pot.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201MlZUSkJjMVJMU2xSTGNrbzNPRmx4YUhKQ1QzYxAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CAIQACodChtycF9oOm52VTJBc1RLSlRLcko3OFlxaHJCT3c%7C0ciUpH8J_R4%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sKgI8F63_QNIt_pqXR7iN-D6j1LKkGe91NeQiSV0WLwlxwGXj7L3Ck0sHB66vvmyYMWOLE8rqes1kQyAbTVaRfHjfZ1p-C5rS_xeYeHSSDtPNSCh7K2Gj3PVYfkWsetukQWxeC9NRQnSRz"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uwpOS8pjvaGewNCjJShJjWSJpfqLxtUVhjsmaLMk6RAnjkh8F-6O7Hslh9GpL8qaosUgPW4ul_X3RsfOmejopMmdZ0ZQQIb45qxOZwnXYKa9SQVHSIyenYH2uPI5vTo7V6hXUAlKUvdVM"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38t6XmBmj9KyyBwtHu9XKBfoTbMjmCO_t8o8z2zAlMJ9RpurFhExGZybX8CeTtsX0qdItVN480sKQb43OIiEZzGoLGiQKIyInQ2ySM0GQJdi-VtWiKkTccs2Q95Y_H8ss5xoforb6k6W1DI"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sWpoH2YTjn7RzZY56Q48G2VbrczuIlI7XDuwaIi_aQcgqPwN92e4aLRkFHn4vJ126PpP_Rr3Yg85tl_YrBw-eWDH6SfurE6JRzTeMLGNhMq_YcP8ikOTj1IbPgfV6b8308VW7DziS0eqJr"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38v45O2qs_0GJOT2X9rcSRPnLcY81fwMfVwc3OdtBULklyhqfdHVFo17gKOAs0SdHLqQl74H3-iYSXsOCFXIafNbznRf-AqEfny8C6sbDJqpFYUXHm2-Oa3okTfUBRhPuVEKpj4Rw5GIvDNZ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38srXFSXC7u8ggIIcMVUscG3kkU9B_EAohzAzuv6opE5TplwP2Mty0KDpfJ3q0x-Jrc84xtz264MX3afro2yNJkFn4VunsDkqsljwv4rdcq8_WgYkah6T_786s0qc0Xt9AzHvowekcD3hhFX"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tfqGHRxhuerx2SdP_M66FIzn7tbfX1E0vynxF83UX4_xXA3fp4ewvCPxLoRVXV_L1KFEtD8W6PDrJZMFFJtxz4x3AOTpGK9M65x0Gsq_JEWQ3pYBqeTPgKqJhsr3frIDhTCNUac2EKBw8k"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vhcB8z-OiYIerB_uQgfM5zT1rHCGmviBcpYAPxKSjfb2sET-XVNTsxkWyM3OSkvW1fisVEoaERIF2Cmf4bVR1_Pbmq5atFk3EX0nuenEXL17xSiOD99Ptr6h6rPUv1gGxUhn-QukVzZoo"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vK8tOT3LdRPQD_nAkt5EgtNIPv7NWe4axqtBClG75Wy_mmLtlKoG0s48zIiShkucLU2BE6SOLY36W1XC25UMY6kMfWXNtdyW0-yyKPl5ARd_2vLyXERQa3eJFTh3jtgQaO2Pqj3QQhiOmm"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u26aEf_W3rljEyH65BBgKnCWy5EZiqZXpAF3k4HvlpMD6u0xmBVVm4TS7hR9Dr0xcV48jA6zoQ18Ceo6Gwei3g32UarcZPQ8x6o4f0NYYzgMXFGa7DkrpLZ5gjbAKFtz7w-ZMQpFvbG8ZJ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uy2KLHRznj6q_DqVRXTupD0rU3UHeiXpmCZCnQ200j8uzLmZyEh6TuD2-_xSkgdLajZxpS7-0mnwf29BQfIsjzU9Iq79xWX9BVVLrnbwkiT3FCdWvrHL-WvV2H2HzP5Nwl-A1xHBEWzu4"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uImDBQoPiOOlqn2CTcRG39Zgc3laOKaYfy2phuTnrbNMOVq4cbIo7dtMmMXo8AcGxnIdLIAdCi-n6H1A-f-3DjmEVNVfOaX2lroBw-TVJLAFf0A3VzJB3PJ-KpNy4ZUsv9_kEp3kPu3eE"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tHQm6V_S_sKs8t0sqrYnc4Q9_8ULn-Juwj_XhkMpJzxjxlJUeMteRdF5F9fvREZgAyi1n8UUF_2Fd33cI7mp3SCVwly5ddQMNFoKjFf2oO3C-RKzwCxwdZQqncYw-Y81FP3DZZJuOJD2AB"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sTKg9Ic1xF9q9kPkxZYx1daKJNeGePInGxH9nIgyB6K4A1nJMoWlJmVWi7PnhCH6LOv37CiErlkIz1MiCbkMUPwao8jBYqyLuNDyvmPVE691C4IEe0V4WxuR9ZiLTrR100OWDL5ytSciiy"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38v-DDQGEq9FPp2RYp3smoRyC6foPMh1aolwM9xuNcV8wW16I0Sp8WH-pP3t8wUQPWfENIjufZHfzn3lnlU7whYYnRFBaid2HYOLSSK9myoNRyP6LLVKyiUOMMfF__DptTHkJXwlXcJbBUE"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vfGhtY-5_ye52LDqPUCLADdoHhAAOdYkT-fBTrCURAGepr0BOVBhQvWToPuNB46F-bD4TGy4FEXDSGCX6JDDTLwZ340R6trws1CdamnEfedA26a8L3oTIhyDlk9brT0sPXqMPvi4-mfLk"
+            }
+          ],
+          "date": "4 months ago"
+        },
+        {
+          "username": "Xia Jin",
+          "rating": 5,
+          "contributor_id": "106617182158709875077",
+          "description": "My favorite restaurant in Fremont. Very authentic Xinjiang cuisine especially the fried rice noodle even better than most of the restaurants in China.\nI will try the hotpot some day, loooks very cost effective.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21NMFFXSnRVVVZIY2xsQ2RWbzRRbk5FYm1aQldtYxAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CAIQACodChtycF9oOmM0QWJtUUVHcllCdVo4QnNEbmZBWmc%7C0cxwwX5maCZ%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uYDE-8eJ6RbV-dP0a-CQqp-6Po13C0jjClcfxPZn5eNL_3z-dEdJfRl9aSIIHE9qBSEOC3woGTXJ_1cQQ8oJ5svYpI9ZHu11nNLxsq8Im7iFF2iA6FooQ2NTuA6JpVDeXFwtqxwWNmLFZ6"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tGiFQkgmMkV7IfwPlFQRZ7Gb7oy8vjYe-OVlAyxcfWx6bVYMDH_gK0n4ma9OI7YRcG9V2gTL8zYvNEfNI1BvQoqb6c2QQa9UHql90NyDTtZ4_J4nmsU39ukWQfHVXs3FBJjbfZM9KkZnB-"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u3Zz-5LePeGoMEzcGI7LhrM-6dBrbzrbUvrqhGD2JZ7NfWkUoRM00mYVAaEmczYNBf2tpY52FrLUKIeChjtKdfxDWxgihdUQRysIHJS2baGZ8eB5CeZcB8xPh8cUlsCj5AcHzuiOBrQ_p4"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tRJeVl9ENMvYWV3QFLoZvOZOQooH_iUnQFUda3CVDlrfnTwq9ZaQdZPfOaDOcy5pInznJTc28nnSCmHPoFguLrtzl19FgxiwNhVED2ru8rDBpTxFwsUOFiLCKoAXKVzFfwvjtDdId-Gp8"
+            }
+          ],
+          "date": "2 months ago"
+        },
+        {
+          "username": "Jason Stoffel",
+          "rating": 5,
+          "contributor_id": "108193665333571180472",
+          "description": "Very good delicious hotpot , spicy soup base with beef and lamp is perfect , also you can suit yourself for vegetables and side dishes all included in the one person hotpot meal deal , and they even have a music concert in the restaurant, except hotpot , the dishes such as big plate chicken and fried lamb with scallion are also delicious",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CelFsVXlRMVJKT0ZKQldYcGhPV2hzTFVWUmVGRRAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CAIQACodChtycF9oOnBzQlUyQ1RJOFJBWXphOWhsLUVReFE%7C0dEaX4tFLmG%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38svt3kUG3kLkEfi5UEutp4uG7jY4jED1ZUKuEjeU8CykIBzIr5mEqsL2AP6gt5fcFujR6aERv2BxxGbQZarPIiSdlIHhZlXl13WlDweuDiP_bylopUSxVzMQ4iYJObDReJB_sH5fxtgC18"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38v7IAeqKHz-FxyyZxUAR7vBZtpq3r-8M-wC4c_nva40XuYUiP5flsnB9MnzMTYfCpn0adbKZsuBTp-rHILcCGpOyg-PgrYcNoiS7xPXt0Rk6y0Vkh_9HjXHqxxJxYPCaB4waWYgyW0iQHQ"
+            }
+          ],
+          "date": "4 weeks ago"
+        },
+        {
+          "username": "Iffat Bhuiyan",
+          "rating": 5,
+          "contributor_id": "116472155921436810025",
+          "description": "Update: I have been here multiple times and really enjoy it! The restaurant is large and clean with plenty of seating. For hot pot there are so many options for veggies, meats and seafood and noodles. And they also have a prayer room.\n\nHad the halal hotpot with two different soups. It was delicious we went during lunch time and it was so fun seeing the whole area to choose all items to add into the soup. The Thai soup was so spicy but absolutely delicious, loved that everything was halal. The restaurant itself is large and they have options if you are not interested in hotpot. Would highly recommend!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURRcmJxMnpnRRAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CIHM0ogKEICAgMDQrbq2zgE%7CCgwI1ajJvgYQyLzQ1gE%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vh1kC__lsiU4s7CImpN00XT9Od7Hp1xB6MA_9Rh7YFtsaz-Zm36G384pv_S8VQ53z55-WjgFY3tzAuszrWG3Ua5mRCZ66Fdi2h9q7kkxbTTmKU6Q9451vjp09glEXGFlQ05VQk"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sv6QeJwAameyLq7HbO5vbfFi5F64JT__uS3fVstytq4KsVPrYZVOYfyW91Bu5UYRuiJB6byFD9o5MbbO9VDcrFV5ooZgQxY58GvH2u6-eSf3I34nholgAuwnT_YtvR4KjSHrEVXQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tn7SXK3lEm9DNftMllOrWBtjr5fmdTMalEducg_V0IT1NDoBkh7giIAsuiESEsbrPwl1jk1eUX6Qx_mrzyFZjpGwQ3Nh2xODG5pW4yT_6nYFlyrvJ2gU0TS33RO9n7514bBUovezfw50lW"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vj5WZ2_m3YmoakT1ezgugQdU2WtCwU8rcoOPRHt1FLzDz3V4KdVF1cLYZ9GS0vZECILo9Lst0cQFGJS4gQQQHnHVF9C6vKSGKIlmuGZ0ASFNR497D8mA3yXrBTVr4zWf7sRa7xWaMLwxDR"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38t5KyDmE_6EjqbRE7AfhFqJwFE7ml-C9NYu370Ws7VBW4S54fQV1XvpfRuZR6T7wXHdIYiJOfyISS4GXeq-9NN1kqaSb1YGaxw4mnlKBek70-0_9p9738YzQTY65FM3QZqRH23c5WYSWMY"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vxG2tUVnYi10EDv40hKpVDCOxchUjcPWcJL247Rw0OZAZDjaJw5J9yCqKYZ9D0FJN-fNv5tOmQOd1yzUYrFIC9wig16fY-QcbURLa1JkBqpTmV4VyXB3Xu2oi63tnqMTnJGuAv2yQlg9c"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u5wscHfyjH3u67CWt24lnxHTqmgbzL0gdl6Efxt21WQORBgmKetklCtDgNJnIPupwbbBPhp2oUzI_RzDvGhLmdpy4ALu7TVYAcd7wakfzZJZ9U2b1-yfcUZFZDiCIzlA8qOlZ7JJ4BpzQ8"
+            }
+          ],
+          "date": "Edited a month ago"
+        },
+        {
+          "username": "Nabil Ibtehaz",
+          "rating": 5,
+          "contributor_id": "112643354300660934007",
+          "description": "We had been wanting to try Chinese hotpot for quite a while, but couldn’t find a halal place. Luckily we found this restaurant and tried this cuisine unique to us. We enjoyed cooking our beef, chicken, lamb, shrimps in spicy hotpot broth. There were a good collection of items to try with the hotpot. They also had a few desserts, ice cream, fried rice, a few Chinese appetizers. The owner was welcoming and the ambiance was also great. Overall a good, unique experience for Muslims, hope to try it again when we go to CA.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2cFpyTFVBEAE!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CIHM0ogKEICAgIDvpZrLUA%7CCgwI7qqfuwYQ6IWvrQM%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38vOJStAIbDopja_5KF5AnQj1WzzaL4OcYni7LB69pROEzayMaWT2R9_rak4UgKNI41ixfXAnv_TO63BpxiW3i3TOjPHfsXYusdoEvb0OnmLc9u7pJKv9ygpLtfGFixebfswe1avqw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38s7aqm2dyRgx6UpIIYCVMhJQQM17_eKzWzDttaApukYrBu4Yr1Rq4YRR62wK5xb9k0WZo-W5X6KljlgWM0FlrE8XqxxREyzivtEQ7ujlhldQVbA6x6S21xozGZ6MlxM9dt9Yp4"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u44thk7vkUSslu-So3J3wobnsTUIUWqulYl7baeD49hcNAVMpKI-SzhhxgNxxTLSLMos14C1l7ofawTojBWiXssWzaMFR1A5KnujdOGV-nDYwTI57PESDmYcJ-qWzFKwcuSuUbcA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38uEpfJny04EaxNd-J1txDGK7hsCboK5x_m_HcJUCTJpyXhb94ntn0XAlEN2ezabf8DAVS7dzRgXav2_4bYNTuwSbA649W49aHK5IRRVvCg_seoePDl-mIXYuTaYolaBe2znWkzN"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38sqOqsfMrjC3PGgCu_vS5HZXUSoZQQYSqwsVWjFubGCO43CfFShiytlVldo-Fn3lGmu738jndE2rdtWPJdW0tXdlrUA25yGrE8fbOG4KoLga4ASc0OaS8hP6_0Cd5u9boSKQ8ZB"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u_jy7DnjVRr7vNgrTK_ZxrcTAB3mMRbbcum8MkrXp9L1GIVLQzG1cKIL-O1SZkK5t1T5Dd5l_o-DL05_a6CgHJs2PDiownKwB4Kl2YC7M_b6yk7RwEj30LjX_rZ7CGlULMVjk"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38tH-yVsDW6Fxq0Fw0n8KK2un4ImkEmNDwIPEJHn7wMt3wVuKjE4Mf4oBOzJ08r6G9tFNZl9n6xQfTMavDhOHvXoTnlUm7OBbgLLsGe69KQ-SzjNc3bbWjecze7Ev1KnULf3gc_DIA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38s5abChTZeYI0WqpRLxAZuxH9Idmio9-ihWQCy8YtRN3Jvl9XnVbi6pIr8jlV4mgDhhJUi1os3TQwfFR-cVRjrM4BOi47g9INeAkjOgievhyD-tgapxemZPERrArXgxhmwcgvw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AMBA38u_aQbVAYkTwEffmr4U0WQy5O2J8t0veLo07wqo1hD-Q2eDqSYZqwSsX0pwg98oVv7VqJcCDNrZzpOAGD_kHD3ofUYT12MqH-6JtqKr6l6OqWNW7T1TFEWV26hCbjAJFohVP0XL"
+            }
+          ],
+          "date": "a year ago"
+        },
+        {
+          "username": "Thong Lee",
+          "rating": 4,
+          "contributor_id": "118296801746624624195",
+          "description": "The price and quality here are absolutely worth it! All the meats and veggies are super fresh, and the broths are full of flavor. It’s usually not too busy during lunch, which makes it a perfect spot for a relaxed meal. Plus, it’s very close to the 680 freeway — easy to find and plenty of parking.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21STldWOXBVa1ZuWTI1c2RWWjJNR3BXVG5jM2VIYxAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CAIQACodChtycF9oOmRNWV9pUkVnY25sdVZ2MGpWTnc3eHc%7C0d3dObJ55p0%7C?hl=en-US",
+          "date": "2 months ago"
+        },
+        {
+          "username": "Nichi Gee",
+          "rating": 2,
+          "contributor_id": "115927768127435205639",
+          "description": "Disappointing experience. One front end server who did the best he could but was overwhelmed with work.\nWe got there at 5pm and the buffet lines weren't fully setup. The tables were bused from lunch. They didn't turn on hot pot when they brought it over, we turned it on ourselves.\nOnly 3 meat cut options (beef, lamb, chicken). The artificial crab still had the plastic wrap on which we only noticed after we cooked it in the hot pot.\n\nHot pot broth taste was good.  The options on the buffet line that were there were good.  However,  not all buffet options were setup (ie. Cold noodles were missing, only one ice cream flavor).\n\nDidn't have all the items available on the online menu like the grilled lamb that Xin Jiang cuisine is famous for.\n\nBetter management and oversight needed.  I am afraid to think about what the kitchen hygeniene is like.  Luckily we boil everything for hot pot.\n\nThis place really needs to increase it's service.  For $35 per person for dinner,  I expect more.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5UU5HbHJYMEpzWDBOVE1WUjJYemRwYXpScE5tYxAB!2m1!1s0x0:0x9cc8190e7926f92b!3m1!1s2@1:CAIQACodChtycF9oOl9QNGlrX0JsX0NTMVR2XzdpazRpNmc%7C0d10SeF_9G2%7C?hl=en-US",
+          "date": "2 months ago"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Legend Hot Pot & Grill",
+            "data_id": "0x0:0x8dd6eaf0bacbf345",
+            "data_cid": "10220614724010898245",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x8dd6eaf0bacbf345&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x8dd6eaf0bacbf345&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 37.5473754,
+              "longitude": -122.0457349
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x8dd6eaf0bacbf345%218m2%213d37.5473754%214d-122.0457349&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4,
+            "reviews": 189,
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPrcny1m2RAQquyziQB-CV07TWtAtaV9p1qg382=w277-h156-k-no",
+            "type": [
+              "Hot Pot",
+              "Buffet",
+              "Korean BBQ"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Habibiz",
+            "data_id": "0x0:0xfebc5e632f729e18",
+            "data_cid": "18355649961346113048",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfebc5e632f729e18&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfebc5e632f729e18&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 37.4830623,
+              "longitude": -121.9453102
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xfebc5e632f729e18%218m2%213d37.4830623%214d-121.9453102&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.7,
+            "reviews": 423,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy2mFzPvodvw8KZGFesnl4ML5FpfI7wn-GMJUVPTWFTjjrz31mfxVw5Iwx9PISgyh9bmbt-dJSYrhMQDO4GTw4m0VN9i2NUU68advFFe1mHydWhagQrcVY0QLEbPqPLpsK9uQe_6P2j5SZM=w156-h156-n-k-no",
+            "type": [
+              "Halal",
+              "Chinese",
+              "Restaurant"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "YSG HALAL YeeShaans Grubb - Halal American Burgers - Fusion",
+            "data_id": "0x0:0xfe547b2990979db2",
+            "data_cid": "18326408202127121842",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfe547b2990979db2&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfe547b2990979db2&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 37.5566515,
+              "longitude": -122.0143916
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xfe547b2990979db2%218m2%213d37.5566515%214d-122.0143916&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.7,
+            "reviews": 400,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxxX7zYkdza1oQfGgcp6cbNctbL6aCnXHnU3e7raGU3VP3BZ1Z3hG6HEq7RbkLqvzZIrbsvLB-k47bikXGvPdsoVn_gs6nv927q-MRrsXb1gEk1wXsKURLg8Z5OQdZesP-q8xR8slWeFCSa=w156-h156-n-k-no",
+            "type": [
+              "Halal"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Long Men Bay Hotpot 龙门湾",
+            "data_id": "0x0:0x7284df7d7debff38",
+            "data_cid": "8251966147326115640",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x7284df7d7debff38&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x7284df7d7debff38&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 37.5233645,
+              "longitude": -122.00766889999998
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x7284df7d7debff38%218m2%213d37.5233645%214d-122.00766889999998&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 168,
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN7mtKrsnvoDARqw7mRXWLvqJWtrut_rTpuzbdx=w156-h156-n-k-no",
+            "type": [
+              "Hot Pot",
+              "Chinese"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Haidilao Hot Pot Fremont City",
+            "data_id": "0x0:0xfccd6453dcfb5e6e",
+            "data_cid": "18216326379136048750",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfccd6453dcfb5e6e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xfccd6453dcfb5e6e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 37.503204499999995,
+              "longitude": -121.97659290000001
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xfccd6453dcfb5e6e%218m2%213d37.503204499999995%214d-121.97659290000001&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.8,
+            "reviews": 1904,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx53baJ7ztnaQ4sEqdmaHTp9dITHAx9bbAGo6TWlacv5iei15FVvgUmwPwHLMfRMuMCUy-GGAHPvK8UQ1FuwibIdPo4ChpOMc9X7lKPS4Lc4us5Kf6yBrxcTGurNrAO1Yj13YD3OQ=w156-h156-n-k-no",
+            "type": [
+              "Hot Pot",
+              "Asian",
+              "Chinese",
+              "Shabu Shabu"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "graph_results": {
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 27
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 21
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 27
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 27
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 79
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 98
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 96
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 76
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ]
+      },
+      "live_hash": {
+        "info": "Busier than usual",
+        "time_spent": "People typically spend 45 min to 2 hr here"
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,Oi0KKyInSGFsYWxTdHJlZXQgSG90IFBvdCB8IE5ld2FyayBOZXdhcmssIENBKAI&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COi0KKyInSGFsYWxTdHJlZXQgSG90IFBvdCB8IE5ld2FyayBOZXdhcmssIENBKAI&q=local+guide+program"
+  }
+}

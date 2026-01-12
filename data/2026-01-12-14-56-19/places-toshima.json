@@ -1,0 +1,2437 @@
+{
+  "search_metadata": {
+    "id": "69648d38556ce31f3eb822e6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8efa45fb94338e53/69648d38556ce31f3eb822e6.json",
+    "created_at": "2026-01-12 05:57:12 UTC",
+    "processed_at": "2026-01-12 05:57:12 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/halal+restaurant+Toshima//?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/cebb6bf5cc1579df/69648d38556ce31f3eb822e6.html",
+    "prettify_html_file": "https://serpapi.com/searches/fd1ec7f87f829c4c/69648d38556ce31f3eb822e6.prettify",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "halal restaurant Toshima",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "halal restaurant Toshima"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Marhaba Halal Restaurant",
+      "place_id": "ChIJq6o2y1-NGGARosZNpPZB7BM",
+      "data_id": "0x60188d5fcb36aaab:0x13ec41f6a44dc6a2",
+      "data_cid": "1435594908798666402",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d5fcb36aaab%3A0x13ec41f6a44dc6a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d5fcb36aaab%3A0x13ec41f6a44dc6a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.734997799999995,
+        "longitude": 139.7107442
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6o2y1-NGGARosZNpPZB7BM",
+      "provider_id": "/g/1tdj462k",
+      "rating": 4,
+      "reviews": 426,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Pakistani restaurant",
+        "Restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "pakistani_restaurant",
+        "restaurant"
+      ],
+      "address": "パレスガーデンミラノ, 2 Chome-63-6 Ikebukuro, Toshima City, Tokyo 170-0014, Japan",
+      "open_state": "Closes soon · 3 PM · Reopens 5 PM",
+      "hours": "Closes soon · 3 PM · Reopens 5 PM",
+      "operating_hours": {
+        "monday": "11 AM–3 PM, 5–10:30 PM",
+        "tuesday": "11 AM–3 PM, 5–10:30 PM",
+        "wednesday": "Closed",
+        "thursday": "11 AM–3 PM, 5–10:30 PM",
+        "friday": "11 AM–3 PM, 5–10:30 PM",
+        "saturday": "11 AM–3 PM, 5–10:30 PM",
+        "sunday": "11:30 AM–9 PM"
+      },
+      "phone": "+81 3-3987-1031",
+      "website": "https://www.facebook.com/MARHABA.HALAL.RESTAURANT",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "All you can drink",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Coffee",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "PayPay",
+            "Rakuten Pay",
+            "Transit IC cards"
+          ]
+        },
+        {
+          "parking": [
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tdj462k&g2lbs=AIBNGdVqo_E5-ZOaZaTwAN_yDkO6hC8K7sf8baCCd6lLhZKEZae5edICM-EwVPggxwPWeCsjTuFmY-b98pn4YmF6ANV9TFE17qVtWgmzQBbmW8j7mypWpR4%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwNQgpGYA-VOu3M5wIFD1oUScX7owIBt78ykvOQ31EIxJSv0Q09ivVkO9XbOoIdirJm2XnbKo9kk_shdUT-TgApLexd4B4wWUFMzIzu0trVZU9NyClm247sV3l2tGU9sFVGdAuW=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/REaN6nicBcHdboIwGADQJyo_hYXVZBeog9SJhGAr242JQApp4SO0UPX99hC-jee8_jtjJr1xXdUFjgAQql10O9cwmnY0Tg2DKyaNao20G6der0p7KsSU_saI50uQfVia7H1gZV1FYOnWRJ8PueZF4H_T-6FcvcIj_cplTqpbDrTp58OAq_H2A0TKq-4adkZnEU_H9t6E29BeWJI96XPxzMz_GDk9dmrAYaR5oLBJGdEJT5t4uXxZH2PUEYwkGuENtOBEWw"
+    },
+    {
+      "position": 2,
+      "title": "HALAL WAGYU RAMEN SHINJUKU-TEI Ikebukuro Tokyo",
+      "place_id": "ChIJAUR23IqNGGARahiuTGm76io",
+      "data_id": "0x60188d8adc764401:0x2aeabb694cae186a",
+      "data_cid": "3092490155075704938",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d8adc764401%3A0x2aeabb694cae186a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d8adc764401%3A0x2aeabb694cae186a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7317187,
+        "longitude": 139.70938959999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAUR23IqNGGARahiuTGm76io",
+      "provider_id": "/g/11yd6z8bkj",
+      "rating": 4.9,
+      "reviews": 1091,
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "Japan, 〒171-0021 Tokyo, Toshima City, Nishiikebukuro, 1 Chome−21−13 萬盛堂ビル 地下1階",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "monday": "12–9 PM",
+        "tuesday": "12–9 PM",
+        "wednesday": "12–9 PM",
+        "thursday": "12–9 PM",
+        "friday": "12–9 PM",
+        "saturday": "12–9 PM",
+        "sunday": "12–9 PM"
+      },
+      "phone": "+81 3-6907-0390",
+      "website": "https://www.halal-shinjukutei.com/ikebukuro-store",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNOjB3QwwiJB52YF2HTopYb9kEABuYRQaMnUwre=w138-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HsOVD3icuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng55_lZBxYXp7p5WRqFOlm5BGSXxCZZJnt6uhUGhkUmOibF1pelGpbbmhsoZthaaSbrZuXDwCe9CE4"
+    },
+    {
+      "position": 3,
+      "title": "酥肉坊",
+      "place_id": "ChIJKTs4XzqNGGAR6YNgG2kJ41s",
+      "data_id": "0x60188d3a5f383b29:0x5be309691b6083e9",
+      "data_cid": "6621146224200287209",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d3a5f383b29%3A0x5be309691b6083e9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d3a5f383b29%3A0x5be309691b6083e9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.731227,
+        "longitude": 139.7093367
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKTs4XzqNGGAR6YNgG2kJ41s",
+      "provider_id": "/g/11v_05lkv9",
+      "rating": 4.8,
+      "reviews": 135,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Chinese noodle restaurant",
+        "Chinese takeaway",
+        "Delivery Chinese restaurant",
+        "Mandarin restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "chinese_noodle_restaurant",
+        "chinese_takeaway",
+        "delivery_chinese_restaurant",
+        "mandarin_restaurant"
+      ],
+      "address": "Japan, 〒171-0021 Tokyo, Toshima City, Nishiikebukuro, 1 Chome−18−1",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "monday": "11 AM–9 PM",
+        "tuesday": "Closed",
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "11 AM–9 PM",
+        "sunday": "11 AM–9 PM"
+      },
+      "phone": "+81 80-5126-8808",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "PayPay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11v_05lkv9&g2lbs=AIBNGdWvvpSErVIS-JK28ixV-F2vR2qDRBZiSZjKTlzotL-lOgW7sitr7a05HRCYfVt4iusaD74s3ORqZ3D66FEhRGtJi-CrZSo9NnvQE75oiZEE_imqzvc%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxQCMzHuwK6EdlSLwQ02a-74wrCo_Vv9k7Qy_Ri9cbfukyoWOZb9Z8wNATT5TfcMPtqN7RPzL4wZsh-Epcu_s8LBnApgfNl3_GNKwB9DZqlMT6X2bprBbxpYLPDmSqmvGINGJ_FKXV6wVU=w131-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7VfSzHicBcFLcoIwAADQE0UUFExnXIBa2gIRBFHZZCTl4xBIIMGoZ_QC3sb33q9aSi6-NI3WxqRirKLFKIqBsE4WnZwQ1moVF4AIIDTbnV5pfI_WwfNnVJ65_aexr6KpfgHWXA1rhtMbbKzogfdXSPJybB7suMtymC0VspNkkZQkCGWPrH349OcqEzXYcjJisfSdzuZViaiBXeQpB26yngaJedJzPjj5nZ_9cNPGfXtzf5H7h7-9U2qq9LBSM2MGaqiDBnTsAw4JR6Y"
+    },
+    {
+      "position": 4,
+      "title": "Halal MAD CHEFs 池袋サンシャイン通り店",
+      "place_id": "ChIJH_CwggyNGGARIuZuO_vzRmI",
+      "data_id": "0x60188d0c82b0f01f:0x6246f3fb3b6ee622",
+      "data_cid": "7081615724446148130",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d0c82b0f01f%3A0x6246f3fb3b6ee622&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d0c82b0f01f%3A0x6246f3fb3b6ee622&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7305311,
+        "longitude": 139.7152547
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH_CwggyNGGARIuZuO_vzRmI",
+      "provider_id": "/g/11kjg9tffy",
+      "rating": 4.2,
+      "reviews": 196,
+      "price": "¥1–1,000",
+      "type": "Kebab shop",
+      "types": [
+        "Kebab shop",
+        "Cafe",
+        "Takeout Restaurant",
+        "Pizza restaurant",
+        "Soft drinks shop"
+      ],
+      "type_id": "kebab_shop",
+      "type_ids": [
+        "kebab_shop",
+        "cafe",
+        "meal_takeaway",
+        "pizza_restaurant",
+        "soft_drinks_shop"
+      ],
+      "address": "Japan, 〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1 Chome−14−12 フォーマーアレンジ 1階",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "11 AM–11 PM",
+        "tuesday": "11 AM–11 PM",
+        "wednesday": "11 AM–11 PM",
+        "thursday": "11 AM–11 PM",
+        "friday": "11 AM–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–11 PM"
+      },
+      "phone": "+81 3-6912-9982",
+      "website": "https://www.hotpepper.jp/strJ003498519/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Drive-through",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "College students"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11kjg9tffy&g2lbs=AIBNGdUcSrzYx8x0_r4qulQmHA8NuMGuxxO5mjAo2zLfuej3y65puNQ3GK9lier52gozll9r2xBioLOuAEMRJFSUTMjfaQiF3qSItJXv1G62eyuGy0qWdec%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwa0qxIUQea4rSWSQwXOoS5mvqV7tAUUiqWUVCgb5CXKU82YmJAac7ljjjipjQJ1Fb4u5zwfqz9476uheBQU_3UTXvq7cJcBInzmsLqZxeEoyqwm-ONMOHzqu4Q57STx1aUrPOizwEfv21_=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/y7PxI3icBcFdboIwAADgE1WkwqpL9gBGN3Eba2oVfTHYVH5GKaWFYu-4A-w2ft__X2lMp189rykXs0LKouGD5j2TreGtmTEpvKLTgGmgveh9XjXE5nM17SjmedCTE8E2SyUJxaiOyESUVupEj-viFq6zPV3Cs0iinKGmruuqq3Hib2_BEDp7V24VoJeh5DGm1wU9ZKNCLGHxrnVCf6rLxDfyoawA6fdX-uHUEOAQkcPk57T_SStnN_cR-tc360MIyhUEv6CVT4w_SMA"
+    },
+    {
+      "position": 5,
+      "title": "Aliya Halal Restaurant - Ikebukuro",
+      "place_id": "ChIJVWVKbGiNGGARSBkJODOdRHs",
+      "data_id": "0x60188d686c4a6555:0x7b449d3338091948",
+      "data_cid": "8882397208390474056",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d686c4a6555%3A0x7b449d3338091948&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d686c4a6555%3A0x7b449d3338091948&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7329238,
+        "longitude": 139.7113753
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVWVKbGiNGGARSBkJODOdRHs",
+      "provider_id": "/g/11f50vv44q",
+      "rating": 3.7,
+      "reviews": 630,
+      "price": "$$",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Mandarin restaurant",
+        "Restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "mandarin_restaurant",
+        "restaurant"
+      ],
+      "address": "2F, 1 Chome-43-3 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "11 AM–11 PM",
+        "tuesday": "11 AM–11 PM",
+        "wednesday": "11 AM–11 PM",
+        "thursday": "11 AM–11 PM",
+        "friday": "11 AM–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–11 PM"
+      },
+      "phone": "+81 3-6914-1276",
+      "website": "https://gftv700.gorp.jp/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "All you can drink"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "All you can eat",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Halal food",
+            "Happy hour food",
+            "Late-night food",
+            "Organic dishes",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11f50vv44q&g2lbs=AIBNGdXLy0fJCef-BgfJNLD-pdgx3F4bcMmes-oDvDpjp5-mlssgbWeRFGfUvAjJM2I0rIs2jfgHIHaigzdAhZsAPeCUxL0CCB5jF5VGz1tOubhlrUxxQeE%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM50Z4yQsg5ptD4TwxQE99s1s4OQHUyZqMJH8Ym=w115-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NNg_MXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFnga2oQZVIZWJxuWlDiYhJSXhHoamlZbFhs4h_oEVoZVejr5WERmWtbbmhoqpthaaSbrZuXDwCabCDi"
+    },
+    {
+      "position": 6,
+      "title": "Gyumon Ikebukuro",
+      "place_id": "ChIJ5dXSUJSNGGARwR8GTsnEgI8",
+      "data_id": "0x60188d9450d2d5e5:0x8f80c4c94e061fc1",
+      "data_cid": "10340481113319153601",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d9450d2d5e5%3A0x8f80c4c94e061fc1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d9450d2d5e5%3A0x8f80c4c94e061fc1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.733521599999996,
+        "longitude": 139.7098658
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5dXSUJSNGGARwR8GTsnEgI8",
+      "provider_id": "/g/11vqhpwtg_",
+      "rating": 4.8,
+      "reviews": 5916,
+      "price": "¥2,000–3,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Meat dish restaurant",
+        "Ramen restaurant",
+        "Sukiyaki restaurant",
+        "Vegan restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "meat_restaurant",
+        "ramen_restaurant",
+        "sukiyaki_restaurant",
+        "vegan_restaurant"
+      ],
+      "address": "4階, 2 Chome-42-1 Ikebukuro, Toshima City, Tokyo 171-0014, Japan",
+      "open_state": "Closes soon · 3 PM · Reopens 4:30 PM",
+      "hours": "Closes soon · 3 PM · Reopens 4:30 PM",
+      "operating_hours": {
+        "monday": "12–3 PM, 4:30–10 PM",
+        "tuesday": "12–3 PM, 4:30–10 PM",
+        "wednesday": "12–3 PM, 4:30–10 PM",
+        "thursday": "12–3 PM, 4:30–10 PM",
+        "friday": "12–3 PM, 4:30–10 PM",
+        "saturday": "12–10 PM",
+        "sunday": "12–10 PM"
+      },
+      "phone": "+81 3-5924-6199",
+      "website": "https://gyumon-group.com/en/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Organic dishes",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "au PAY",
+            "Credit cards",
+            "dBarai",
+            "Debit cards",
+            "PayPay",
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Transit IC cards",
+            "V-Money"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPEdTb2W_nOOSoW2GjufIGpZMSVCESOSfpxdBnD=w130-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MgeIcHicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQ4JoSkmQUHp_n7x-cH27knlWa5uleEOUbHObsGuwfnFZQkeKU52JbbmhsoJthaaSbrZuXDwCrIiFj"
+    },
+    {
+      "position": 7,
+      "title": "Jiang Lai",
+      "place_id": "ChIJDTGQI8qNGGARtj3xiV1WbDk",
+      "data_id": "0x60188dca2390310d:0x396c565d89f13db6",
+      "data_cid": "4137777117392879030",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188dca2390310d%3A0x396c565d89f13db6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188dca2390310d%3A0x396c565d89f13db6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7303444,
+        "longitude": 139.7151945
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDTGQI8qNGGARtj3xiV1WbDk",
+      "provider_id": "/g/11v0vpqtgg",
+      "rating": 4.3,
+      "reviews": 317,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Chinese restaurant",
+        "Uyghur cuisine restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "chinese_restaurant",
+        "uyghur_cuisine_restaurant"
+      ],
+      "address": "B1F, 1 Chome-14-14 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "open_state": "Closes soon · 3:30 PM · Reopens 5 PM",
+      "hours": "Closes soon · 3:30 PM · Reopens 5 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–3:30 PM, 5–10:30 PM",
+        "tuesday": "11:30 AM–3:30 PM, 5–10:30 PM",
+        "wednesday": "11:30 AM–3:30 PM, 5–10:30 PM",
+        "thursday": "11:30 AM–3:30 PM, 5–10:30 PM",
+        "friday": "11:30 AM–3:30 PM, 5–10:30 PM",
+        "saturday": "11:30 AM–3:30 PM, 5–10:30 PM",
+        "sunday": "11:30 AM–3:30 PM, 5–10:30 PM"
+      },
+      "phone": "+81 3-5927-1305",
+      "website": "http://jianglaitokyo.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Drive-through",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "All you can drink"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Halal food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Organic dishes",
+            "Salad bar",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Usually difficult to find a space"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Smoke-free place"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11v0vpqtgg&g2lbs=AIBNGdXwnMZC_TO7Uw7OjefbE-eFpOdubth43VR3rfwI3hZhcwB7fcGUfdW0UhJ5g1CG_iHNH7GBlG3XNzo5RF-iU-OpXtre5QXroQyHMgeQRtegVHICU-Y%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNmsh0pBUbJ-tYjUQOzvKzVf8FYObwMJ0WDiCc8=w80-h134-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qeQMoXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngl1ucYVDgFJrkpVsSmRUa6F9V5l0VlmbhFumfVO7rZRDukumcbGFbbmGgm2FobKKbrZuXDwC01CFi"
+    },
+    {
+      "position": 8,
+      "title": "Nice! Kebab!",
+      "place_id": "ChIJU84VA16NGGARc0JlfzvrxD8",
+      "data_id": "0x60188d5e0315ce53:0x3fc4eb3b7f654273",
+      "data_cid": "4595056160597688947",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d5e0315ce53%3A0x3fc4eb3b7f654273&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d5e0315ce53%3A0x3fc4eb3b7f654273&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.733297199999996,
+        "longitude": 139.711341
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU84VA16NGGARc0JlfzvrxD8",
+      "provider_id": "/g/11cnd9nwbc",
+      "rating": 4.2,
+      "reviews": 181,
+      "price": "¥1–1,000",
+      "type": "Kebab shop",
+      "types": [
+        "Kebab shop"
+      ],
+      "type_id": "kebab_shop",
+      "type_ids": [
+        "kebab_shop"
+      ],
+      "address": "池袋ＭＴビル １Ｆ, 2 Chome-48-3 Ikebukuro, Toshima City, Tokyo 170-0014, Japan",
+      "open_state": "Open · Closes 2 AM",
+      "hours": "Open · Closes 2 AM",
+      "operating_hours": {
+        "monday": "11:30 AM–2 AM",
+        "tuesday": "11:30 AM–2 AM",
+        "wednesday": "11:30 AM–2 AM",
+        "thursday": "11:30 AM–2 AM",
+        "friday": "11:30 AM–2 AM",
+        "saturday": "11:30 AM–2 AM",
+        "sunday": "11:30 AM–2 AM"
+      },
+      "website": "http://r.goope.jp/nicekebab",
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Late-night food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "crowd": [
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "PayPay"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11cnd9nwbc&g2lbs=AIBNGdXSSYLJ8S989vRyYfPTNJKcbiI11vtFqoaTWV_sOgjOJNeZe64ANt5wTVxEhWalLafik-iRtyTJ5peq7u9yYLZImfDITLHQLLScQu4dVhES5m_JBiM%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyJyzYwxzEagMqHWoWXMJT6DWk3xQCLiH3euLFFErLwJEncgBFuAMpa8jtrcu8lpZYId5AAWJ1U1Z9CMjqqZ2CmuCwZKY7BoOxaM72AB7niUzkedDY-4VTvGOuQdD5M4b3EPhY=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fM9vlXicBcFLcoIwAADQE0UkaNHOdBF-WiRjHUUMOwyZgGACJCnI-bxEb9P3_t6V1p36tKy2chZcSt4yo9hApdBM6AWVT4t3ClAFlIV2y7o9v-LXTMZpDguO-30msxuOLx9B1jjTyU_qvcNMEkXhkIxxKCj3IoNwV2weeqBm03Y5-S7XCGWxndr51sePvs-h_zT-mB-I68njVGAXIs8VdTo3rAwIWF0vv7ujOZXBGq_uTvhTka_RhhBUWwgaIOQ_1QJEFQ"
+    },
+    {
+      "position": 9,
+      "title": "Efe Kebab",
+      "place_id": "ChIJF_TgKISNGGARsSi7POJU04U",
+      "data_id": "0x60188d8428e0f417:0x85d354e23cbb28b1",
+      "data_cid": "9643144557788604593",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d8428e0f417%3A0x85d354e23cbb28b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d8428e0f417%3A0x85d354e23cbb28b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.729146899999996,
+        "longitude": 139.71230459999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF_TgKISNGGARsSi7POJU04U",
+      "provider_id": "/g/11twk0k96m",
+      "rating": 4.1,
+      "reviews": 292,
+      "price": "¥1–1,000",
+      "type": "Turkish restaurant",
+      "types": [
+        "Turkish restaurant"
+      ],
+      "type_id": "turkish_restaurant",
+      "type_ids": [
+        "turkish_restaurant"
+      ],
+      "address": "1 Chome-22-3 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "open_state": "Open · Closes 12 AM",
+      "hours": "Open · Closes 12 AM",
+      "operating_hours": {
+        "monday": "10 AM–12 AM",
+        "tuesday": "10 AM–12 AM",
+        "wednesday": "10 AM–12 AM",
+        "thursday": "10 AM–12 AM",
+        "friday": "10 AM–12 AM",
+        "saturday": "10 AM–12 AM",
+        "sunday": "10 AM–12 AM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "College students"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11twk0k96m&g2lbs=AIBNGdVFItz8_cye5C3hB5-4oKU2WDnQMlVNPJVYFtinTgNNKzwUuvs4175DcvM9g0GTrl35I58B2vkbXO8p2X9NdY60ofnrS272ORs0wgBZ4UjSFE4l4x0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Bought today for the family of 5. Halal, good, tasty and cheap.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzZwaAGawwwN_mig6WgYnHnyRsIxN1uxMbj7k4Og9bLKKyDnd0WFjCwK24o8aE1AqwAJZbXjEMIon23ykdAUbnkZlS-8K1EmDpdBdKwR3nByzoUB6dkPTe4RmU_3oIHn_Br7m7U=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HdGiWHicBcHdboIwGADQJ6qAEECTXRRlyurPghI3bghQUqT0-5jFVHy_PYRv4zmv_3YcB720rL51ZwJR9M1dN7caYWxgnNWoLDFoUmuiLbqxr_3pmZuSbkpjzKFQV-FfxC9sYUp18jg498e-6gLpHcWi2jE2rYHbl89uZdjcw7CMHfpn6Fde_XTxPkGYu5PkNKtA5v2JhMyJ1XrgEWcmdSGanphFPpff58ZLVVa4mGyhiG6BCrIPE9qkdWyfSAL4BlB_RUQ"
+    },
+    {
+      "position": 10,
+      "title": "Halal Food In Japan",
+      "place_id": "ChIJo11SbsKNGGARau4yZ6-TTmE",
+      "data_id": "0x60188dc26e525da3:0x614e93af6732ee6a",
+      "data_cid": "7011704051422391914",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188dc26e525da3%3A0x614e93af6732ee6a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188dc26e525da3%3A0x614e93af6732ee6a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7351659,
+        "longitude": 139.7099456
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo11SbsKNGGARau4yZ6-TTmE",
+      "provider_id": "/g/11p59g2bh_",
+      "rating": 5,
+      "reviews": 6,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "Japan, 〒171-0014 Tokyo, Toshima City, Ikebukuro, 2 Chome−61−8 アゼリア青新ビル 605",
+      "open_state": "Open · Closes 7 PM",
+      "hours": "Open · Closes 7 PM",
+      "operating_hours": {
+        "monday": "10 AM–7 PM",
+        "tuesday": "10 AM–7 PM",
+        "wednesday": "10 AM–7 PM",
+        "thursday": "10 AM–7 PM",
+        "friday": "10 AM–7 PM",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "website": "https://www.halalfoodinjapan.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Thanks for your delicious food.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx7AlH27pZVleg5gwjX25kNWpH0yB-TGrnSQLUnpibV--FKLKuN1ttoJC_yhsao2TzLcoJ6t9Rp_woJE0yfyOMFalnQJjn_HfzGK0-fEaNHRrsYJ15NnRkx5O_0c_6xcNQmlSUu=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XrQsznicBcHRboIwFADQL7pSWEC3xAdnFFKwBlA399KwBopSextaAvh_fsT-Zuf8vVrnjP3wPNW-LSSiVPVg616gdrV2C4EPTxoLwoL1NjG5qXJablQSLM3PRdUylOP9Owg79mUSMn_CKe51mWdnbW6_F4B9mqUD851DuuVzaysMTs9MII3ce2H4iHRH5mY-HvaV0jm9a540zzgl0OwqlhS9vVI_ZLropvDIieDRJFj-UOV5WI8rAq1PIuhA4z_3cEUy"
+    },
+    {
+      "position": 11,
+      "title": "Omer's Restaurant",
+      "place_id": "ChIJ72KD4ViNGGAR64t749qOFK8",
+      "data_id": "0x60188d58e18362ef:0xaf148edae37b8beb",
+      "data_cid": "12615865526942141419",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d58e18362ef%3A0xaf148edae37b8beb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d58e18362ef%3A0xaf148edae37b8beb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7325707,
+        "longitude": 139.70502639999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ72KD4ViNGGAR64t749qOFK8",
+      "provider_id": "/g/11csc9hh8b",
+      "rating": 4.5,
+      "reviews": 113,
+      "price": "¥1–1,000",
+      "unclaimed_listing": true,
+      "type": "Turkish restaurant",
+      "types": [
+        "Turkish restaurant"
+      ],
+      "type_id": "turkish_restaurant",
+      "type_ids": [
+        "turkish_restaurant"
+      ],
+      "address": "池袋サンハイツ, 2 Chome-22-3 Ikebukuro, Toshima City, Tokyo 171-0014, Japan",
+      "open_state": "Open · Closes 1 AM",
+      "hours": "Open · Closes 1 AM",
+      "operating_hours": {
+        "monday": "11 AM–1 AM",
+        "tuesday": "11 AM–1 AM",
+        "wednesday": "11 AM–1 AM",
+        "thursday": "11 AM–1 AM",
+        "friday": "11 AM–1 AM",
+        "saturday": "11 AM–1 AM",
+        "sunday": "11 AM–1 AM"
+      },
+      "phone": "+81 3-5944-9119",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Quick bite",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyM_oI5OmhJcedU85TSQQqsq4zcpwYuLdQHhIElf8LPyjWruiKB0FzMuF00M51pGZyJ8G4OZHfRNajEcnLbBWwhn6lnUVBN0qjWGObPnLTXv7hoCCVH1wQHtFel5IivF_XzTtWVmg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D5oO2XicBcHtFoEwAADQJ5pWRJzjh5y-KIkU_XGYaWVtZUunXtAzeBv3_r5EylosFIWS8SjnPKe4FfiNOJOYyRHilZLXAiABhLJyYEGPfXDlnh5WZIPw42To8TGKGtFMBlR3l9Z_RC7xLPo0_H1fpu-22JrQHoLWhjDQ1drJ-o3hTMLMfR52t9JCzL-baUfYlLJTYu5gU6ZOeN8zPz5_ZoSv14mrdpErbUx1r_jY1_MQyzSp8mWnahogcw28AON_pxlGEw"
+    },
+    {
+      "position": 12,
+      "title": "Turkuaz",
+      "place_id": "ChIJEU8AGlyNGGARxBKrmFJK5sI",
+      "data_id": "0x60188d5c1a004f11:0xc2e64a5298ab12c4",
+      "data_cid": "14043994206610592452",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d5c1a004f11%3A0xc2e64a5298ab12c4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d5c1a004f11%3A0xc2e64a5298ab12c4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7306946,
+        "longitude": 139.7074056
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEU8AGlyNGGARxBKrmFJK5sI",
+      "provider_id": "/g/1tk1z0s4",
+      "rating": 4,
+      "reviews": 306,
+      "price": "$$",
+      "type": "Turkish restaurant",
+      "types": [
+        "Turkish restaurant"
+      ],
+      "type_id": "turkish_restaurant",
+      "type_ids": [
+        "turkish_restaurant"
+      ],
+      "address": "3 Chome-27-15 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "open_state": "Closed · Opens 4:30 PM",
+      "hours": "Closed · Opens 4:30 PM",
+      "operating_hours": {
+        "monday": "4:30–11 PM",
+        "tuesday": "4:30–11 PM",
+        "wednesday": "4:30–11 PM",
+        "thursday": "4:30–11 PM",
+        "friday": "4:30–11 PM",
+        "saturday": "12–2:30 PM, 5–11 PM",
+        "sunday": "12–2:30 PM, 5–11 PM"
+      },
+      "phone": "+81 3-3985-0736",
+      "website": "https://turkuaz-ikebukuro.com/",
+      "description": "Unassuming stop for Turkish cuisine. Meze, skewers & classic Turkish dishes, plus set menus, in a low-key space with patterned tiles.",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Halal food",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "PayPay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tk1z0s4&g2lbs=AIBNGdWC8fHk5-HOFY5ws1eYbqOTr5F3uIRa7LoaBNdfsxH75Pr9MoJ9SjXksTGK7o2lT5CFXBihZkObHmvhKbHvV0aOHv_YtjXiohQeTOdJFuzWshC_KZc%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbh-E5Uk_wruwBIRealUMrjyTs8IMgPKCOISYJ5ex9hUIgIWzKYwx_UmsdR6QAf9oZJtNn0qD4Gl_Ji0Dw86vqe6_IHg4guYYlEmSkQqX-N8RnGikXpqF8lYGuQLat1e_W0Hirow=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tfvvDnicBcFbEoIgAADAE5Fm5WgzffQ07KnmFP0wZQQmggpGdcHO0G3a_X2Z1pUaWhZnvQ6VknLSKtJkUmgidCeTpUUrBTIFlDUO7Jwn5srAfJAW2DStmcCYXHi6aR7vg_Lghu5X0x1MUDggL5-lkMLjZ4XMC6elusVuNL778hzqrbDrWT_gOMztmfHcZ01cDJe0T1uE-LxMiqg-ga0XiyAvTlW98DgK2mh90V2Cj_Yyb6QZma7jAOY7oABC_gHVbkaD"
+    },
+    {
+      "position": 13,
+      "title": "Hearth Ikebukuro",
+      "place_id": "ChIJEXifAP6NGGARhMP8h1KzLVc",
+      "data_id": "0x60188dfe009f7811:0x572db35287fcc384",
+      "data_cid": "6281874222301889412",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188dfe009f7811%3A0x572db35287fcc384&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188dfe009f7811%3A0x572db35287fcc384&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7282633,
+        "longitude": 139.7127774
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEXifAP6NGGARhMP8h1KzLVc",
+      "provider_id": "/g/11rfmq9dqy",
+      "rating": 4.4,
+      "reviews": 744,
+      "price": "$$",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "Italian restaurant",
+        "Pancake restaurant",
+        "Steak house"
+      ],
+      "type_id": "restaurant",
+      "type_ids": [
+        "restaurant",
+        "italian_restaurant",
+        "pancake_house",
+        "steak_house"
+      ],
+      "address": "1 Chome-20-8 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–10:30 PM",
+        "tuesday": "11:30 AM–10:30 PM",
+        "wednesday": "11:30 AM–10:30 PM",
+        "thursday": "11:30 AM–10:30 PM",
+        "friday": "11:30 AM–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–10 PM"
+      },
+      "phone": "+81 3-6903-1188",
+      "website": "https://heart-earth.com/restaurant/hearth-ikebukuro",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great beer selection",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/xbyyE-5xJoo?source=pa&opi=79508299&hl=en-US&gei=OY1kaaeFC4G0qtsP9rmgoAI&sourceurl=https://www.google.com/search?q%3Dhalal%2Brestaurant%2BToshima%26hl%3Den%26pb%3D!4m12!1m3!1d0!2d0!3d0!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1syIY7DNRZkIIf5V6IpqudoF8:2!2s1i:0,t:11886,p:yIY7DNRZkIIf5V6IpqudoF8:2!7e81!12e5!17syIY7DNRZkIIf5V6IpqudoF8:76!18e15!24m107!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!47m0!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!67m5!7b1!10b1!14b1!15m1!1b0!69i761%26tbm%3Dmap",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzUjoNVaQrTCsRKWIVhQXRwvtZjRmosUVxbLZbW9K6gcARFIUU1gwiSCX5f7avEqLUkaaM2ZB2GxrJFOpYdovLSWAhHf5uk5YgyUqmBjcnT_5bQMR2hmCBrispwnx8Aj_jkTfrn=w163-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8T3tj3icBcFbsoIgAADQFZFlY6-ZPtTpbTWiaPnTKCmICgakdvd3F9FuOuf7T7Vu1cowajodESFInb9VLrHgOud6hEVjkFYBrIAy7N24rIM_xMQlSn0Zugqe4kNE_RvsO50w2AiFoiHzkixenmYE23B7QGhC-jJwb1YxT7vNy0NVmp7NxDF3gzxur-39KToviG26L6x3Zd3JB70ah2EePqzMP0OTNq4jS9X2fFjY7MGqsJB83U9mU0CXJqgAFz9_b0bc"
+    },
+    {
+      "position": 14,
+      "title": "Halal Ramen Toribushi Ikebukuro",
+      "place_id": "ChIJ6aW1QACNGGARdCHy4hpxGqU",
+      "data_id": "0x60188d0040b5a5e9:0xa51a711ae2f22174",
+      "data_cid": "11896945725943193972",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d0040b5a5e9%3A0xa51a711ae2f22174&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d0040b5a5e9%3A0xa51a711ae2f22174&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7293139,
+        "longitude": 139.71531439999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6aW1QACNGGARdCHy4hpxGqU",
+      "provider_id": "/g/11vs8vp_7p",
+      "rating": 4.1,
+      "reviews": 441,
+      "price": "¥1,000–2,000",
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant",
+        "Ramen restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant",
+        "ramen_restaurant"
+      ],
+      "address": "1 Chome-13-12 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "11 AM–11 PM",
+        "tuesday": "11 AM–11 PM",
+        "wednesday": "11 AM–11 PM",
+        "thursday": "11 AM–11 PM",
+        "friday": "11 AM–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–11 PM"
+      },
+      "phone": "+81 3-5952-1313",
+      "website": "https://halalramentoribushi.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vs8vp_7p&g2lbs=AIBNGdVw3VYs6sa7sDq7z9R5bneM-6bJl4y4FJl7nzDHxl7ILvLpL1PsZOSYjGlq8qir-6dwAhgvruJHp-TerSKFHjBHvuHjwrDVjyHVwXux7WHm7K8w5TI%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwLdF0gXS2GrIxKfL_xcKe4PetMcduZ5Hu_t-G1PlRvLUbOKQEYvuGsUoGPml-TjmtbDnws6TI-sdGtgJRUfiAsSLxSSMJCpyX7d25ZfhkAjWxPPVbpuz6STcRPZSYuQYBctTITEgtR1YRr=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Iwtkn3icBcFRboIwGADgE1Wkmy4u2QNurkMwq23ZhBcTSilqoYT-FeYdPcBu4_f93xuA3r0GgWmeZtpabZR3apC2A9XBTNo20L1D0iEXRGR-MnxMq8-5PnBMhnhK6vQ4yUQ9UwU7Wfli8eWPgEhIDbumWfmd7Df51ROXWUJbg8S5hfKjG91SxMhVBPSWZfUpcjydON9t3_u_w0uFF0XdXKLz70TpT9n725ILyWjBc7_P1xJELDYaWJiz4W0MMUbNCqML6uwDkMJI3A"
+    },
+    {
+      "position": 15,
+      "title": "PROBASHI HALAL FOOD & SPICE CENTER ポロバシ ハラル フード & スパイス センター",
+      "place_id": "ChIJw0RG21yNGGARnoxnf9ksvmI",
+      "data_id": "0x60188d5cdb4644c3:0x62be2cd97f678c9e",
+      "data_cid": "7115173773948980382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d5cdb4644c3%3A0x62be2cd97f678c9e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d5cdb4644c3%3A0x62be2cd97f678c9e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7278811,
+        "longitude": 139.70841679999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw0RG21yNGGARnoxnf9ksvmI",
+      "provider_id": "/g/11dy79bcvg",
+      "rating": 4.3,
+      "reviews": 12,
+      "type": "Asian grocery store",
+      "types": [
+        "Asian grocery store"
+      ],
+      "type_id": "asian_grocery_store",
+      "type_ids": [
+        "asian_grocery_store"
+      ],
+      "address": "2F, 1 Chome-5-4 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "monday": "10 AM–10 PM",
+        "tuesday": "11 AM–10 PM",
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM"
+      },
+      "phone": "+81 80-5673-5380",
+      "website": "http://www.probashihalalfood.com/",
+      "extensions": [
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "offerings": [
+            "Food"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Rakuten Pay"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"All products are quality full and halal\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwqgsTKNksHdnLW-GDxM8-PHfY6uXxUHoSVOyx4QyxZClJ18sURX9HvBH4z343aESwL2CW0V-WDX1_ZN9SEVejWfNz6p_ipf01XK7SDcDT4tdQTKG-V-v4tqulhfpqWI4EOblSd1g=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/P8CJa3icBcFbcoIwFADQFV0hkFFxxo8qDLFY1AYJ9cdRHsGakmCCoBt0De6m57xftTFKzyxL1O6IS8lF2enylsvGlI0Z5fLP4kpDrkFbH6F9EbRvuU6i-KpJ0awZhP7wNYUtqX7GXTbsiaTp5jHg3WM4LMUnmur9d-aR-4Lgp4vdU0D7tbNkdgrMz9DxEHs0SMtfVsXPsTpeVGWjLJpQP_cTbIpdEoWQwh2bthN1pVq2wsHmLGiB-LxHjgO158AVGvkPJf5ERA"
+    },
+    {
+      "position": 16,
+      "title": "GREAT! KEBAB!",
+      "place_id": "ChIJD13PHIiNGGARatHnw6YYptM",
+      "data_id": "0x60188d881ccf5d0f:0xd3a618a6c3e7d16a",
+      "data_cid": "15250904292667150698",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d881ccf5d0f%3A0xd3a618a6c3e7d16a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d881ccf5d0f%3A0xd3a618a6c3e7d16a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7292103,
+        "longitude": 139.7153175
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD13PHIiNGGARatHnw6YYptM",
+      "provider_id": "/g/11l5n1p_0f",
+      "rating": 4.5,
+      "reviews": 65,
+      "price": "¥1–1,000",
+      "type": "Kebab shop",
+      "types": [
+        "Kebab shop"
+      ],
+      "type_id": "kebab_shop",
+      "type_ids": [
+        "kebab_shop"
+      ],
+      "address": "第一都ビル １Ｆ, 1 Chome-13-14 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "monday": "11:30 AM–11 PM",
+        "tuesday": "11:30 AM–11 PM",
+        "wednesday": "11:30 AM–11 PM",
+        "thursday": "11:30 AM–11 PM",
+        "friday": "11:30 AM–11 PM",
+        "saturday": "11:30 AM–11 PM",
+        "sunday": "11:30 AM–11 PM"
+      },
+      "phone": "+81 80-5446-2006",
+      "website": "https://twitter.com/KebabGreat",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Late-night food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "payments": [
+            "PayPay"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed outside"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11l5n1p_0f&g2lbs=AIBNGdXEU9_Knu0HQvduBuIJV9QgMfnqCfIvk6lgAh4H1PDfP0ISMMK4wmOaPWOvMTLtFdci-Gbh8Zmr9GzjUFSHa2C4DJd35D9ruHyKdTcfeomM-6RFsPU%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyOa4lXD5yI9Y232TdF5FP3er4Y3eGRi48e9P_OUitxkv-h3ZZnVuY7GWjLM5eZ2bavOg8QWyMC177qvsxm0zLL-Tje_ff6Tzt6EN8k1WCFibW2GB5BjlUmauScMZ-07H6Rijuj=w80-h106-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-uZrj3icBcFZEoIgAADQE5EobjXTR5vWjGaLZfrjqJGCKBVo2f06RLfpvd-3kvIuJorCKjQqOS8Z7gR-FryVuJWjgjdKeRegEEAoMxcSdhyCTGeXpTFsxrGGtPDqGM4O4aceI-weiG7j8S4NTkS-6x5UKEnacxdbbkQ938CJlmd9UNr7aPAXqmU9evFu4MfzQEhxeruZ4Ueaq61dq9HCIXmkuXNjTtmpybpj4ScAWmvzQGhHpy8bgkqFJqhBy_9BiUMT"
+    },
+    {
+      "position": 17,
+      "title": "Malaychan 1",
+      "place_id": "ChIJhaFN-VuNGGAR8Qe_7Xs9FnM",
+      "data_id": "0x60188d5bf94da185:0x73163d7bedbf07f1",
+      "data_cid": "8292883366328338417",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d5bf94da185%3A0x73163d7bedbf07f1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d5bf94da185%3A0x73163d7bedbf07f1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.730467,
+        "longitude": 139.7061816
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhaFN-VuNGGAR8Qe_7Xs9FnM",
+      "provider_id": "/g/1tdm89m_",
+      "rating": 3.8,
+      "reviews": 356,
+      "price": "¥1,000–2,000",
+      "type": "Malaysian restaurant",
+      "types": [
+        "Malaysian restaurant"
+      ],
+      "type_id": "malaysian_restaurant",
+      "type_ids": [
+        "malaysian_restaurant"
+      ],
+      "address": "3 Chome-22-6 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "11 AM–3 PM, 5–10 PM",
+        "wednesday": "11 AM–3 PM, 5–10 PM",
+        "thursday": "11 AM–3 PM, 5–10 PM",
+        "friday": "11 AM–3 PM, 5–10 PM",
+        "saturday": "11 AM–3 PM, 5–10 PM",
+        "sunday": "11 AM–3 PM, 5–10 PM"
+      },
+      "phone": "+81 3-5391-7638",
+      "website": "https://malaychan.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Halal food",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "College students",
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "NFC mobile payments",
+            "Rakuten Pay"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+      },
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/rqo6Sc2_-FM?source=pa&opi=79508299&hl=en-US&gei=OY1kaaeFC4G0qtsP9rmgoAI&sourceurl=https://www.google.com/search?q%3Dhalal%2Brestaurant%2BToshima%26hl%3Den%26pb%3D!4m12!1m3!1d0!2d0!3d0!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1syIY7DNRZkIIf5V6IpqudoF8:2!2s1i:0,t:11886,p:yIY7DNRZkIIf5V6IpqudoF8:2!7e81!12e5!17syIY7DNRZkIIf5V6IpqudoF8:76!18e15!24m107!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!47m0!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!67m5!7b1!10b1!14b1!15m1!1b0!69i761%26tbm%3Dmap",
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tdm89m_&g2lbs=AIBNGdVTW-Pfx4IKtPXAoEu2qRhY4craak8LD9Cee6GMRxcUCdkreXv6iX1MsXJDwCaZtDbkbwdO9u6zEOho8TL1XdFgZ_gajBxp0x_csPP9-bt7IUqZy-k%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=OY1kaaeFC4G0qtsP9rmgoAI&ei=OY1kaaeFC4G0qtsP9rmgoAI&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"They have somewhat authentic Halal Malay food right here in Ikebukuro.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxkVCfJ94qVIYxZwlFcgSW6uVNLyFKFWuQHnH4J4LlR4kIU3Ur9_cA6xtx1z3MQ4EWbytTb99_D-e0v4EgMEMk1ROKqiC4pZwVy2fM8jggQ4b5Q4XGakk88RcE-lfkuoijvcuuqLQ=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jNHYDnicBcFRboIwGADgE1UEfgldsgejICpsKSqoL2Y0ULCVgm0FdkHPsNvs-_7etdad-rAsUbszJiUTpVHlk8pWl62eUfmwWKcQVUhZy828EYeRZ6tqh6HPtpfxOoiQskPumewrnsJ9mBsStRHsIBYp8O3JPT3xjS69UY_2r5sQCPJi0scC49salfMXBCwJEm6n3_u-WUF3HbLJqRL_zhiBYkHgvPnh3PdTGiBRcSOb-4sa08fkc7AdB9XYQRy18h83MUUJ"
+    },
+    {
+      "position": 18,
+      "title": "Palmyra",
+      "place_id": "ChIJ6_4iCl-NGGAR82vEnok6HAc",
+      "data_id": "0x60188d5f0a22feeb:0x71c3a899ec46bf3",
+      "data_cid": "512348820361997299",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d5f0a22feeb%3A0x71c3a899ec46bf3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d5f0a22feeb%3A0x71c3a899ec46bf3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.735050099999995,
+        "longitude": 139.7088656
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6_4iCl-NGGAR82vEnok6HAc",
+      "provider_id": "/g/1tdl63fp",
+      "rating": 4.3,
+      "reviews": 201,
+      "type": "Middle Eastern restaurant",
+      "types": [
+        "Middle Eastern restaurant",
+        "Restaurant"
+      ],
+      "type_id": "middle_eastern_restaurant",
+      "type_ids": [
+        "middle_eastern_restaurant",
+        "restaurant"
+      ],
+      "address": "ＴＯビル ２F, 2 Chome-58-8 Ikebukuro, Toshima City, Tokyo 171-0014, Japan",
+      "open_state": "Closed · Opens 6 PM Tue",
+      "hours": "Closed · Opens 6 PM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "6–11:30 PM",
+        "wednesday": "5–11 PM",
+        "thursday": "5–11 PM",
+        "friday": "5–11:30 PM",
+        "saturday": "5–11:30 PM",
+        "sunday": "5–10 PM"
+      },
+      "phone": "+81 3-3981-8293",
+      "website": "http://www.palmyra-ameta.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great tea selection",
+            "Live music",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Cocktails",
+            "Coffee",
+            "Halal food",
+            "Organic dishes",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom",
+            "Smoke-free place",
+            "Wi-Fi",
+            "Free Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "delivery": false
+      },
+      "user_review": "\"Good tasting halal food and lovely environment .. highly recommend 👍🏻\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzyaqxWht8HNiQpuU3cuB5LA9N7lVxM3ZlvM12hrbxxbyYWOIXpY6RLbVpB7upQ9xWtF-O7SVq1vp5t37z_PW-Wqxok42qzVGnJ0CvdFnxExViWOzM_9si8MVpan79xAmJ0ZJmX=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DwjdynicBcFbjoIwFADQFVWg6NSa-IGT8UFEfMRW_THCEEosbbEFr-zPRbgbz_m8hXPGTjxPinBQal3KorXFI9fKFcoNcl17pbEot8h60cKv5KF_3Rrgwo2Xm2pn2mOYt7PROqIbIhkk4UV2SYDFIwPIXmeerk7m_LNfZ8zMSGt2FLibo5QcWBN0ZuRC0l-3HPEG9H2Im54tVOz_dv9zBX_AKp72yZXaapwwc1OEQlTH_iWuT9NngDESFKM7UvoLSh1FqA"
+    },
+    {
+      "position": 19,
+      "title": "Malaychan 2",
+      "place_id": "ChIJE3LXm26NGGARP5DVTNDPLDQ",
+      "data_id": "0x60188d6e9bd77213:0x342ccfd04cd5903f",
+      "data_cid": "3759608282496733247",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d6e9bd77213%3A0x342ccfd04cd5903f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d6e9bd77213%3A0x342ccfd04cd5903f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.726853999999996,
+        "longitude": 139.718269
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE3LXm26NGGARP5DVTNDPLDQ",
+      "provider_id": "/g/1td69w9r",
+      "rating": 4,
+      "reviews": 235,
+      "price": "¥1,000–2,000",
+      "type": "Malaysian restaurant",
+      "types": [
+        "Malaysian restaurant",
+        "Restaurant"
+      ],
+      "type_id": "malaysian_restaurant",
+      "type_ids": [
+        "malaysian_restaurant",
+        "restaurant"
+      ],
+      "address": "ハイムサカエ, 4 Chome-6-12 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "open_state": "Closed · Opens 11 AM Tue",
+      "hours": "Closed · Opens 11 AM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "11 AM–3 PM, 5–10 PM",
+        "wednesday": "11 AM–3 PM, 5–10 PM",
+        "thursday": "11 AM–3 PM, 5–10 PM",
+        "friday": "11 AM–3 PM, 5–10 PM",
+        "saturday": "11 AM–3 PM, 5–10 PM",
+        "sunday": "11 AM–3 PM, 5–10 PM"
+      },
+      "phone": "+81 3-6914-2051",
+      "website": "https://malaychan-dua.jp/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "All you can drink",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Quick bite",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "au PAY",
+            "Credit cards",
+            "dBarai",
+            "Debit cards",
+            "PayPay",
+            "Rakuten Pay",
+            "Transit IC cards"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "payments": [
+            "V-Money"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz3OKvgWN2_6KIZO75cHX5XqUnkAosQkrp-t0vE6bMbgaQtpCkPjCarFDl0m6SADemkvtI0MDRuftqBXIK5kXFJi71H-Fm_JsxnAMdwWqrmGYTvN_82foZM0PnoNIDXAzVAL7U6Mg=w122-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7-vMSnicBcHtFoEwAADQJ5pmToVz_BiJZPlm-tNJsljbqk0cL-gZvI17f9_CmEoPLasseh2mFCvzp86bTEmTS9PJlLBYpUGmgbbwDN7L3ae3Clt2ilDihEG8cu1sTm1aHyTHSm94UwED26lzIReWbkw14evHJG18r4TC2WEvF7w1ASTe9nkz9ZgGoc2pv7i73TnwRbLQb4nJ9XWqGzE779so6aObiglcSxUFHsWfI166B4ew0auLECgGCHAg1R9hh0UY"
+    },
+    {
+      "position": 20,
+      "title": "Tokyo Halal Deli & Cafe Restaurant Rikkyo University Ikebukuro Campus",
+      "place_id": "ChIJ3XGVJG2NGGARH46bQJAfQsM",
+      "data_id": "0x60188d6d249571dd:0xc3421f90409b8e1f",
+      "data_cid": "14069842890278538783",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x60188d6d249571dd%3A0xc3421f90409b8e1f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x60188d6d249571dd%3A0xc3421f90409b8e1f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 35.7291585,
+        "longitude": 139.7019657
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3XGVJG2NGGARH46bQJAfQsM",
+      "provider_id": "/g/11s3y2r259",
+      "rating": 3.3,
+      "reviews": 9,
+      "price": "¥1–1,000",
+      "unclaimed_listing": true,
+      "type": "Halal restaurant",
+      "types": [
+        "Halal restaurant"
+      ],
+      "type_id": "halal_restaurant",
+      "type_ids": [
+        "halal_restaurant"
+      ],
+      "address": "3 Chome-34-1 Nishiikebukuro, Toshima City, Tokyo 171-8501, Japan",
+      "open_state": "Open · Closes 7 PM",
+      "hours": "Open · Closes 7 PM",
+      "operating_hours": {
+        "monday": "10 AM–7 PM",
+        "tuesday": "10 AM–7 PM",
+        "wednesday": "10 AM–7 PM",
+        "thursday": "10 AM–7 PM",
+        "friday": "10 AM–7 PM",
+        "saturday": "10 AM–3 PM",
+        "sunday": "Closed"
+      },
+      "website": "https://www.tokyo-halaldeli.com/p/8/",
+      "extensions": [
+        {
+          "service_options": [
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Solo dining"
+          ]
+        },
+        {
+          "offerings": [
+            "Halal food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Delivery"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyJDw4pQMmUlvrpowPdUa_fHw9EvlMh8b6jk4ayjXSexlE-bsAuazpEFQhS2wjMP2MfmoN76_898LkURkoC5TNEddI-dX2hgQlEU6MwXKK-lfLJfv5jo8FdCC_l6M-70AXJdo8k=w106-h92-k-no",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hn5HCXicBcHRboIwFADQL6owprWY7IGwOofWyJCEN4IUqPTCbSxS3f_tI_Y3nvP_p6bJ2I3ngXpfdIgdNHfb3Gocp2acFjUOXmcsqS2xXvTlXyF7Jp9uaVIx5DDfDLqTzKuy3bmQzyAUu9BeL6tnX2TNAzi52Ohe_Rq-TVUWuF6cAtEOeFzTkoXsoPMfjfHqfORSfhNZBKpLgedUuGK_J9AeknZe9ci2Mo5LoIKs_ahIJDL94d58SlQYEE1GfAFMiESh"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=halal+restaurant+Toshima&start=20&type=search"
+  }
+}
